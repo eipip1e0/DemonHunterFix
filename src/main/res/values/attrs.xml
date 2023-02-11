@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="backgroundColor" format="color">
+    </attr>
+    <attr name="primaryTextColor" format="color">
+    </attr>
+    <attr name="secondaryTextColor" format="color">
+    </attr>
+    <attr name="keywords" format="string">
+    </attr>
+    <attr name="refreshInterval" format="integer">
+    </attr>
+    <attr name="action" format="string">
+    </attr>
+    <attr name="appcode" format="string">
+    </attr>
+    <attr name="adtype" format="string">
+    </attr>
+    <attr name="gender" format="string">
+    </attr>
+    <attr name="age" format="string">
+    </attr>
+    <attr name="reloadInterval" format="integer">
+    </attr>
+    <attr name="gps" format="string">
+    </attr>
+    <attr name="effect" format="string">
+    </attr>
+    <attr name="allowcall" format="string">
+    </attr>
+</resources>

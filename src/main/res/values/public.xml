@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="attr" name="backgroundColor" id="2130771968" />
+    <public type="attr" name="primaryTextColor" id="2130771969" />
+    <public type="attr" name="secondaryTextColor" id="2130771970" />
+    <public type="attr" name="keywords" id="2130771971" />
+    <public type="attr" name="refreshInterval" id="2130771972" />
+    <public type="attr" name="action" id="2130771973" />
+    <public type="attr" name="appcode" id="2130771974" />
+    <public type="attr" name="adtype" id="2130771975" />
+    <public type="attr" name="gender" id="2130771976" />
+    <public type="attr" name="age" id="2130771977" />
+    <public type="attr" name="reloadInterval" id="2130771978" />
+    <public type="attr" name="gps" id="2130771979" />
+    <public type="attr" name="effect" id="2130771980" />
+    <public type="attr" name="allowcall" id="2130771981" />
+    <public type="drawable" name="alert_dialog_icon" id="2130837504" />
+    <public type="drawable" name="facebook_icon" id="2130837505" />
+    <public type="drawable" name="icon" id="2130837506" />
+    <public type="layout" name="main" id="2130903040" />
+    <public type="string" name="app_name" id="2130968576" />
+    <public type="id" name="RelativeLayout01" id="2131034112" />
+</resources>

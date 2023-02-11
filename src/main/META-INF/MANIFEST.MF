@@ -1,0 +1,5601 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/Default/M/M51M
+SHA1-Digest: pKx/rCZmnNht6wLYeXkKm3XExi0=
+
+Name: assets/Default/I/I85I
+SHA1-Digest: m/lUkAvFyM5im6vEddAVHykR8xc=
+
+Name: assets/HVGA/S/S21SG
+SHA1-Digest: PtLkroEr4z11iJJXhfCECCF0c0Q=
+
+Name: assets/Default/M/M13M
+SHA1-Digest: P9ZjVDa9D5idKrX9D8OY4F2FSu8=
+
+Name: assets/HVGA/S/S21SF
+SHA1-Digest: bJluOHhqaH+LlVnrLczIrG8qwZI=
+
+Name: assets/HVGA/S/S21SE
+SHA1-Digest: nkXKNTdTIU9aoViz4lXlLMgPMqE=
+
+Name: assets/HVGA/S/S21SC
+SHA1-Digest: DkZd0R0ddh7G9q30las8iSiWINw=
+
+Name: assets/HVGA/S/S21SJ
+SHA1-Digest: zf3riz1EIsIf5kDWV7Qp6wyilws=
+
+Name: assets/HVGA/T/T33T
+SHA1-Digest: Wn7+vSt+ew0QPGjHJclzbs1yKuU=
+
+Name: assets/Default/I/I15I
+SHA1-Digest: y1+ShSEdDFuhh5U4seQkr12h2Y0=
+
+Name: assets/Default/M/M52M
+SHA1-Digest: cinKLpi9QsG22GWF1Y9NJYuwKRY=
+
+Name: assets/HVGA/S/S21SS
+SHA1-Digest: itbQpxUcwVivJnAwTbPLNmQafQ0=
+
+Name: assets/Default/I/I125I
+SHA1-Digest: B/kd2Xv7lCuvvwUsHn5V7XvWAPc=
+
+Name: assets/HVGA/S/S13SF
+SHA1-Digest: YN83nkuReei5E6kCotgSPQHn9RU=
+
+Name: assets/Default/B/B10B
+SHA1-Digest: fSBKm7KrZ5NCoNFmDrcfxZcI7C0=
+
+Name: assets/HVGA/S/S13SE
+SHA1-Digest: JXNGN5RaO8iXXGrS9spcm0wWRjI=
+
+Name: assets/HVGA/S/S13SG
+SHA1-Digest: Bsp7POBFhUijTUq7HCFCVN0GsRU=
+
+Name: assets/Default/I/I86I
+SHA1-Digest: a4VruRdzs25eSfO4AXwyLLHckrc=
+
+Name: assets/HVGA/S/S13SJ
+SHA1-Digest: gyoV4i5kOLYs5TFwL/7brl/QSVs=
+
+Name: assets/Default/A/A70A
+SHA1-Digest: MTm+AlFSXZkrJdWWO79t7btgcTs=
+
+Name: assets/Default/M/M12M
+SHA1-Digest: hiiWZHWEfZA+9b5UaPePIO/aIbc=
+
+Name: assets/HVGA/S/S13SS
+SHA1-Digest: c3AxAUAwp5nIUSInQOk/gAgf8CQ=
+
+Name: assets/HVGA/S/S18SC
+SHA1-Digest: 34qyulWKKAF2q5SrMv9hjWyTbr4=
+
+Name: assets/HVGA/T/T32T
+SHA1-Digest: KK/CYx4Esez0xZVevvRoW6kAh1s=
+
+Name: assets/HVGA/M/M50M
+SHA1-Digest: iHjUj+DmkDbwC2MHN5LtHm4xsyI=
+
+Name: assets/HVGA/S/S18SE
+SHA1-Digest: GMNh0spyWVrznmYWzVm9zj4tf3s=
+
+Name: assets/Default/O/IdxO
+SHA1-Digest: UAyY9z9R7cEctCHhPPO7Ylo8FHI=
+
+Name: assets/HVGA/S/S18SF
+SHA1-Digest: wiLVZWgihwRc0DBvcJzmQ7xwaHE=
+
+Name: assets/HVGA/S/S18SG
+SHA1-Digest: Bg1mt3cEundOaBZ6p3tomF3bGo0=
+
+Name: assets/HVGA/S/S18SJ
+SHA1-Digest: jYzpfrawXB6PL42ZXTzvvJW+7K4=
+
+Name: assets/Default/I/I14I
+SHA1-Digest: 6MU9h0y9POMrw0XSf3dqxmUErD0=
+
+Name: assets/Default/I/I126I
+SHA1-Digest: PnR/R4QMKvHXdWJyog7PC+I+HhQ=
+
+Name: assets/Default/M/M53M
+SHA1-Digest: HUrSaIeUss/AAHXjk7TmC93NHew=
+
+Name: assets/HVGA/S/S13SC
+SHA1-Digest: AW/L6ryF7wPWjrfOIBZpLFKlh8A=
+
+Name: assets/HVGA/S/S18SS
+SHA1-Digest: aYosJnTZdpcm7e8tZgDVXqhhfgU=
+
+Name: assets/Default/I/I83I
+SHA1-Digest: boo56GPa5GjMEMMVvHkTBjVD8Ok=
+
+Name: assets/Default/M/M15M
+SHA1-Digest: 5nLStKURjj56PAcTVG0V5d7220g=
+
+Name: assets/Default/U/U0UF
+SHA1-Digest: riuQ/O0vBW1v45m6K8wAX3c3gq4=
+
+Name: assets/Default/U/U0UG
+SHA1-Digest: KCAgbapYvYFwaFINB9CzRuvgPmc=
+
+Name: assets/HVGA/M/M51M
+SHA1-Digest: pKx/rCZmnNht6wLYeXkKm3XExi0=
+
+Name: assets/Default/U/U0UJ
+SHA1-Digest: HK2xxAw35Ar9YVYQeME3CTgWo1k=
+
+Name: assets/Default/I/I127I
+SHA1-Digest: PtdY4wppvqiaHrzbZu5GxzgS46Y=
+
+Name: assets/Default/M/M54M
+SHA1-Digest: 2TtV0xw6jzpiDGfmbYHpTsCb1QI=
+
+Name: assets/HVGA/T/T31T
+SHA1-Digest: jbRXsr4UhZDo0hzB+uO158W9AbI=
+
+Name: assets/Default/U/U0US
+SHA1-Digest: BiysN/DZCk8D2HKJJIqkkMMNjr8=
+
+Name: assets/Default/I/I13I
+SHA1-Digest: ZOtyTdY4+BaB3/3uo12FacqupAY=
+
+Name: assets/HVGA/A/A100A
+SHA1-Digest: URVqv8sj/damV/2hT/nhM4ao15w=
+
+Name: assets/HVGA/I/I59I
+SHA1-Digest: EcBPZJMq+VmMUjFtlBaVa03IATw=
+
+Name: assets/Default/I/I11I
+SHA1-Digest: PFEAjax/XAqQGnblsEBFqTjX724=
+
+Name: assets/Default/I/I84I
+SHA1-Digest: v7ihnZAWou3NnzAlL/QBvT9/TtE=
+
+Name: assets/Default/M/M14M
+SHA1-Digest: 2XGxO4MwsiGTWGvFmvieaByI7MY=
+
+Name: assets/HVGA/M/M53M
+SHA1-Digest: HUrSaIeUss/AAHXjk7TmC93NHew=
+
+Name: assets/HVGA/A/A101A
+SHA1-Digest: rRhhRVLOtoEUQ8gt83ejuly8vgA=
+
+Name: assets/HVGA/M/M52M
+SHA1-Digest: cinKLpi9QsG22GWF1Y9NJYuwKRY=
+
+Name: assets/Default/M/M55M
+SHA1-Digest: hoeLwv3Fvg8VEuRisT+2Plbtgck=
+
+Name: assets/Default/A/A30A
+SHA1-Digest: OSJHrjkTDe0oLk7pse2PAaZB5gw=
+
+Name: assets/Default/I/I128I
+SHA1-Digest: 99dLH4ZIxuO0ZLEdG480WpOJXP0=
+
+Name: assets/Default/I/I12I
+SHA1-Digest: DFQWR/PV+un9YhOgo9lguhfIFpA=
+
+Name: assets/HVGA/T/T30T
+SHA1-Digest: zy0J87DfFQD792bKuErbjzCxn3Y=
+
+Name: assets/HVGA/I/I58I
+SHA1-Digest: 2BUCdQbkug0MebNdCxIdnUNlpw4=
+
+Name: assets/Default/A/A73A
+SHA1-Digest: WY+3hhQQZQJM96M+qWOTYBznqWk=
+
+Name: assets/HVGA/M/M54M
+SHA1-Digest: 2TtV0xw6jzpiDGfmbYHpTsCb1QI=
+
+Name: assets/HVGA/T/T27TJ
+SHA1-Digest: KJaaxCR3L3wcOMs9sQJL/UEDLD4=
+
+Name: assets/HVGA/T/T27TG
+SHA1-Digest: Kv7yFgJ0K4U21bI9wDjKgUP7dik=
+
+Name: assets/HVGA/T/T27TE
+SHA1-Digest: Dm283HzvoP1mEpty6qwaQbUFkuo=
+
+Name: assets/Default/I/I120I
+SHA1-Digest: oIl1UjHvx9diXWTHlVlt3IDQRxY=
+
+Name: assets/Default/I/I81I
+SHA1-Digest: s3ixETyyl50QStiTQjlttWfd0RA=
+
+Name: assets/HVGA/T/T27TF
+SHA1-Digest: T3tU4IQF4lw35XjzIZo1Q2c3KrA=
+
+Name: assets/HVGA/T/T27TC
+SHA1-Digest: mKbaWVlB+MvbIh9wK35Fj3KhKyI=
+
+Name: assets/Default/M/M17M
+SHA1-Digest: gsnHqOi4s/5Aq8RRpnNpb1yz9tU=
+
+Name: assets/HVGA/S/S29SS
+SHA1-Digest: RV5sTd+PjFWj0QoXvol2sRQFesI=
+
+Name: assets/Default/M/M56M
+SHA1-Digest: im81d+plM/hbKx+ynd3iRsCw8OI=
+
+Name: assets/Default/I/I19I
+SHA1-Digest: aOfbpzBA2t5H4kixF3vQ1JXFlVU=
+
+Name: assets/Default/A/A31A
+SHA1-Digest: 8TetNwNfnntYAoa7K6ij7Dt7pj4=
+
+Name: assets/HVGA/A/A102A
+SHA1-Digest: RPSdP6EPNQ//Q8xZMlzEPADM1bk=
+
+Name: assets/Default/U/U0UE
+SHA1-Digest: AfaXx1jp4YW2ZXbxTxvcErajX/I=
+
+Name: assets/Default/U/U0UC
+SHA1-Digest: WTJ48yYWu8eUmc5iY/qdVDGKLco=
+
+Name: assets/HVGA/M/M55M
+SHA1-Digest: hoeLwv3Fvg8VEuRisT+2Plbtgck=
+
+Name: assets/Default/A/A74A
+SHA1-Digest: Ys2IFy8jn0grJYCqKA4uL1xb/ZI=
+
+Name: assets/Default/I/I121I
+SHA1-Digest: 7M0lDz5ZH3cnEFvjfdvUhWiwtRI=
+
+Name: assets/Default/I/I82I
+SHA1-Digest: 4F1Gy7uAf7rO2VgDm2+uotb7USk=
+
+Name: assets/Default/M/M16M
+SHA1-Digest: yZNLBynpzorCC0Ud7KjMvXhKNSI=
+
+Name: assets/Default/M/M57M
+SHA1-Digest: eB4ZGqAZas9LPvI14Ak80oRzz7g=
+
+Name: assets/Default/I/I18I
+SHA1-Digest: e3eIg+jbX6lLtHAhN76b1PcFKOw=
+
+Name: assets/Default/A/A32A
+SHA1-Digest: x/pEZMFhEzR6F6lqClXQWIUItFQ=
+
+Name: assets/HVGA/S/S29SJ
+SHA1-Digest: gdFxwlGXayGP1cmgqV4NbRgPQNQ=
+
+Name: assets/HVGA/S/S29SF
+SHA1-Digest: XHcTJsULULFq/tq8YNnfmUWuORc=
+
+Name: assets/HVGA/A/A103A
+SHA1-Digest: GA0SVoyxY4H9aPrjlv8txYIWQy4=
+
+Name: assets/HVGA/M/M56M
+SHA1-Digest: im81d+plM/hbKx+ynd3iRsCw8OI=
+
+Name: assets/Default/A/A71A
+SHA1-Digest: +OQirqn19dI3RCfiUJgtDw6ZknU=
+
+Name: assets/Default/T/T4TS
+SHA1-Digest: aU6B5LaToWEPuazDjJaVXeGbCAk=
+
+Name: assets/Default/M/M19M
+SHA1-Digest: RX7GM9WVoH+53LfyEKNXLAF3ov4=
+
+Name: assets/Default/I/I122I
+SHA1-Digest: wK5ERCXd9Dz5kfFapRrgAGxNUIk=
+
+Name: assets/Default/A/A33A
+SHA1-Digest: RY8u4ila54EZVA4vJDvESBZ3LVE=
+
+Name: assets/Default/I/I17I
+SHA1-Digest: gw9Rw3roYLgALd00bcUP2NqlIt0=
+
+Name: assets/Default/T/T4TG
+SHA1-Digest: su1K5U8Fj7SmyfoHNILIckluZqA=
+
+Name: assets/Default/M/M58M
+SHA1-Digest: XXTLsAgJzqO7mVQ1FSAU2vYSeHo=
+
+Name: assets/Default/T/T4TJ
+SHA1-Digest: Xbz1uQ7ZRt3wP5DaZ7Hdgg816cY=
+
+Name: assets/Default/T/T4TC
+SHA1-Digest: xwTfo32EK5+BoyjkhBdcjdFnW74=
+
+Name: assets/Default/T/T4TF
+SHA1-Digest: fLyH/C8zakM5+DITT40cogy6IrE=
+
+Name: assets/HVGA/A/A104A
+SHA1-Digest: OorgYiIqf0dIEq1mz4qET8XA/yo=
+
+Name: assets/Default/T/T4TE
+SHA1-Digest: i5m6nYPR6h//VKjDmRIr6PgiicE=
+
+Name: assets/HVGA/M/M57M
+SHA1-Digest: eB4ZGqAZas9LPvI14Ak80oRzz7g=
+
+Name: assets/Default/I/I80I
+SHA1-Digest: 8+RNXKhuPS+/8qJX+IwaHGiLq7w=
+
+Name: assets/Default/T/T30TJ
+SHA1-Digest: qemxJriqy+zu1nPRkYySGeGuj1s=
+
+Name: assets/HVGA/A/A0A
+SHA1-Digest: h/YgQs5OSzE+2yROie3F2Cd5B5g=
+
+Name: assets/Default/A/A72A
+SHA1-Digest: TmOcuBCm7uZBJMJCncpZcfC8bjk=
+
+Name: assets/Default/M/M18M
+SHA1-Digest: cLcX9ApuMbO7qO7k+07rJdZvNs8=
+
+Name: assets/Default/W/W19W.ogg
+SHA1-Digest: zxgcDL5bqTEwBnBc+LXbKqB9DbE=
+
+Name: assets/Default/I/I123I
+SHA1-Digest: D1Ofvpyu/zIoFoBrnB9Wbe81SsA=
+
+Name: assets/Default/T/T30TS
+SHA1-Digest: ZnguhASJ6vDdGPCyzOUPAVRtXkg=
+
+Name: assets/Default/I/I16I
+SHA1-Digest: lieytKOFlc4pJGQsiBCcQLMl7EY=
+
+Name: assets/Default/I/I124I
+SHA1-Digest: ZTL+A9Bz3nzEP+f+xM13fOgr9aA=
+
+Name: assets/Default/R/IdxR
+SHA1-Digest: oS53JsEti2jB9NWbEscZ0KuSbk0=
+
+Name: assets/Default/M/M59M
+SHA1-Digest: NkXXyypuk1bctOziGqmA9pDftXI=
+
+Name: assets/Default/T/T30TE
+SHA1-Digest: 9LRJ/3sWmvGtUYDp/PsTMuy6Qqk=
+
+Name: assets/Default/T/T30TG
+SHA1-Digest: Sdby2+M5e6l7ZgZQXd27G+ZXvo4=
+
+Name: assets/HVGA/T/T27TS
+SHA1-Digest: SmJHvbINhkh0e3XbeoBGGZsSPFY=
+
+Name: assets/Default/T/T30TF
+SHA1-Digest: ddz79dfFu9cuU+GFWKJjRhc6zSA=
+
+Name: assets/Default/A/A34A
+SHA1-Digest: 379hWmmtxtlYijoVbh1b6Ka4ioY=
+
+Name: assets/Default/T/T30TC
+SHA1-Digest: pXsyuRtsphP3k4GbXeQ1y0kWzAc=
+
+Name: assets/HVGA/A/A105A
+SHA1-Digest: IrveDMlyahjgdysWgxLumR1hz60=
+
+Name: assets/Default/A/A35A
+SHA1-Digest: VZYA57fDkGcKV3euddoDUfaW8uo=
+
+Name: assets/HVGA/T/T16TS
+SHA1-Digest: ZDYr+npgyOlRVc52FdIGwSTidls=
+
+Name: assets/Default/O/O0O
+SHA1-Digest: 67BcnolQoJNOy3ZdwueEdL5G5M0=
+
+Name: assets/Default/T/T16TS
+SHA1-Digest: KWCxDmXkZrrOGLxIPeJ5HqnqtZw=
+
+Name: assets/HVGA/A/A1A
+SHA1-Digest: Yc3zsQBHNo7xSuOFTUVfeZd72Fw=
+
+Name: assets/Default/M/M4M
+SHA1-Digest: jDGQcvtWYGPGhhh79neIdEBLofo=
+
+Name: assets/Default/A/A36A
+SHA1-Digest: 7rhO5qGDFiUjaE7VH8tOPDQJrEY=
+
+Name: assets/Default/B/IdxB
+SHA1-Digest: rxBmg9u/vbBx1EKx4r3S5Xjuvm8=
+
+Name: assets/HVGA/T/T16TE
+SHA1-Digest: i+FlbMMdTfHkoTAAFTi72YUCVPM=
+
+Name: assets/HVGA/T/T16TF
+SHA1-Digest: y1WKar4lHug+iEJaqg9ztiu6n6k=
+
+Name: assets/HVGA/T/T16TG
+SHA1-Digest: 2VdRKLe1Bqa7awqGSRXN2mppChA=
+
+Name: assets/Default/U/IdxU
+SHA1-Digest: c2lP988u+4vw0eEhiRuCj+SSaKs=
+
+Name: assets/HVGA/T/T16TC
+SHA1-Digest: uwEVyD4eoE6AeYiCnYzCjAmVrbo=
+
+Name: assets/HVGA/A/A2A
+SHA1-Digest: hQ15QEZXBfO02MlGuktMSRoWRg4=
+
+Name: assets/HVGA/T/T16TJ
+SHA1-Digest: LYa5TvaD6ETwCxqqpb94j0Vk8tg=
+
+Name: assets/Default/M/M3M
+SHA1-Digest: 5eMy62jd+UNfdfm2pUq6L6VjYl0=
+
+Name: assets/Default/T/T10T
+SHA1-Digest: mDeeDqxrC7af20jUKwt1PWPQ0mc=
+
+Name: assets/Default/A/A37A
+SHA1-Digest: G79umxGd60G3Wtl+onb/yP1hg4k=
+
+Name: assets/HVGA/A/A49A
+SHA1-Digest: lkOlKsAVjGI0OSTAqfF2TuXYnkw=
+
+Name: assets/HVGA/A/A3A
+SHA1-Digest: 9kVqRQQ3cgWocas11NRMscnYrwQ=
+
+Name: assets/HVGA/I/I118I
+SHA1-Digest: ZN3RUedda1G06oSZxSMGeQpHsjo=
+
+Name: assets/Default/T/T26TS
+SHA1-Digest: yNIWVeyhv+9TNo4k0S3KUlWrsFA=
+
+Name: assets/Default/M/M2M
+SHA1-Digest: B1a+i5xUmJG5juNyuzvPmQb1Y2g=
+
+Name: assets/Default/T/T11T
+SHA1-Digest: mWgz5rWqJ+9qq6z4IxU65l2CF1I=
+
+Name: assets/Default/A/A38A
+SHA1-Digest: s5NzmM/5ZQOaWwvxLuYYnBjqzkg=
+
+Name: assets/Default/T/T26TJ
+SHA1-Digest: /3RC+TO8ws3zyBAbQkPERNf708g=
+
+Name: assets/Default/T/T26TE
+SHA1-Digest: POp7Va4yHcU0MEWwTKvZXeAlFoY=
+
+Name: assets/Default/T/T26TF
+SHA1-Digest: ulI+iHwTCwb+qW1KtP70x3jWNXk=
+
+Name: assets/Default/T/T26TG
+SHA1-Digest: PS+t3hEbeXH2vlSCkRZL4ElFDtA=
+
+Name: assets/Default/T/T26TC
+SHA1-Digest: WfnGpQF+aDn6X4tSIoPs0vWr6/E=
+
+Name: assets/HVGA/A/A4A
+SHA1-Digest: OlYDvwOyrH63/LjSuO4QmLKwQJI=
+
+Name: assets/HVGA/I/I119I
+SHA1-Digest: RTCQOQTvaaAiZD2MYTKS1vX1DA0=
+
+Name: assets/Default/T/T16TJ
+SHA1-Digest: K9FGqyqrwDCCG0PsFEYXtOmftXQ=
+
+Name: assets/Default/T/T16TC
+SHA1-Digest: b9J+sEzP7TDiAmwVDXT/eOoK3YA=
+
+Name: assets/Default/T/T16TE
+SHA1-Digest: 2fnuynHMMSn2NflAXqQdRLv8j3c=
+
+Name: assets/Default/M/M1M
+SHA1-Digest: /xeKlXQ3IGviG8dORRFe8JLoWN0=
+
+Name: assets/Default/T/T16TF
+SHA1-Digest: Fa7MoSjZSlfzNRMX8DexXmaSJzY=
+
+Name: assets/Default/T/T16TG
+SHA1-Digest: qyXEzcNVp5DOtfNmxScSqUrXMKo=
+
+Name: assets/Default/R/IdxRS
+SHA1-Digest: E8/NdbUXgeKMXvrveOqBMAhHDn4=
+
+Name: assets/Default/I/I129I
+SHA1-Digest: GZLZPbbBx+eOMoDbIA0BhPkwwdI=
+
+Name: assets/HVGA/S/S2SS
+SHA1-Digest: crIyxsatbk1nHewal343Er9wFRg=
+
+Name: assets/HVGA/A/A47A
+SHA1-Digest: MbPsASHY/64jNATfaH7vGetTo3c=
+
+Name: assets/Default/A/A39A
+SHA1-Digest: KP8TEwGFR1K+hY52aQkEYKWXE2o=
+
+Name: assets/Default/S/S19SC
+SHA1-Digest: fLc7n48vNRyJcPfJlyC0dHgHgXU=
+
+Name: assets/HVGA/S/S2SC
+SHA1-Digest: kmKnNzbjEYKdtmqJvRyG5FDOArI=
+
+Name: assets/Default/M/M0M
+SHA1-Digest: uHsgGwl92tTlpClTJKJ5RUZLteE=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: P80CGx99rCr0pSMRN9aCkzTJBc8=
+
+Name: assets/Default/S/S19SE
+SHA1-Digest: 4RHwhweDZeMG/9tuq74uyfFamM8=
+
+Name: assets/Default/S/S19SJ
+SHA1-Digest: DP6Uc4Oa5FGqDADonlh9TnZDYi4=
+
+Name: assets/HVGA/S/S2SJ
+SHA1-Digest: zu0AR2zm2/Wgp8uGEwHt5zHgQO4=
+
+Name: assets/Default/S/S19SG
+SHA1-Digest: F2DtgGmQPwSe5zpS8fS0fDIzraQ=
+
+Name: assets/HVGA/S/S2SG
+SHA1-Digest: wQARPIE50Yr4GqaYMwB9AOh85is=
+
+Name: assets/Default/S/S19SF
+SHA1-Digest: At4oaMX/4S2ZCq1zvdWGMp627Hw=
+
+Name: assets/HVGA/S/S2SE
+SHA1-Digest: tBb54Mseaysep+xWj1WhoBmhuuU=
+
+Name: assets/Default/I/I10I
+SHA1-Digest: Vadkss/n73ScvL/CyfL8GZ8PgAQ=
+
+Name: assets/HVGA/A/A5A
+SHA1-Digest: HVSWXQSHNsFcHrFmQHZChkY7Cng=
+
+Name: assets/HVGA/S/S2SF
+SHA1-Digest: VL82MO9DaYsroV7yywwaLaGphDc=
+
+Name: assets/Default/W/W1W.ogg
+SHA1-Digest: bJE58wHXf0UF9Nzlx6czMhsRdTU=
+
+Name: assets/Default/S/S19SS
+SHA1-Digest: aRTzRrOlcH4QgXvcNCcEQ9Ntk1A=
+
+Name: assets/HVGA/A/A48A
+SHA1-Digest: i6cZoy7bHJ2MZ1305iN/GYDphMM=
+
+Name: assets/Default/R/IdxRC
+SHA1-Digest: fNLIn2CTVfMcroHN7DuoWVMDsRY=
+
+Name: assets/Default/R/IdxRJ
+SHA1-Digest: 6TeLrNSUTP0VXtWvvBI388pS63w=
+
+Name: assets/HVGA/A/A6A
+SHA1-Digest: ZTSFSGHKCzzavAjoJ+U1ue3wuU8=
+
+Name: assets/Default/R/IdxRE
+SHA1-Digest: v1dmpgOhtCCeo8ivLaexUFnygLs=
+
+Name: assets/Default/R/IdxRF
+SHA1-Digest: VaqP6oV/UZKfuQuUB64h9gik954=
+
+Name: assets/Default/R/IdxRG
+SHA1-Digest: 0L96o8K+8KA53yduKtXPswDaofU=
+
+Name: assets/Default/S/S7SG
+SHA1-Digest: Kxh7UpbIpDGHqcoFGbDs7sXeBmo=
+
+Name: assets/Default/S/S7SF
+SHA1-Digest: mkQlI+mRUXw+W/7aReztSr2Yrgs=
+
+Name: assets/Default/S/S7SE
+SHA1-Digest: oNYDT7WmjJCKpKLiN2pZnETskE0=
+
+Name: assets/HVGA/A/A45A
+SHA1-Digest: UaPcGfama0ZFDsCiVangxAqIYRw=
+
+Name: assets/Default/S/S7SC
+SHA1-Digest: 9R/DqRydy/Oqm71aiNSz4sfhW0I=
+
+Name: assets/HVGA/T/T2TS
+SHA1-Digest: Ha0bUlAa5rg4gBCnrq90SJmqxYQ=
+
+Name: assets/Default/M/M11M
+SHA1-Digest: 061GD3qVz41XP7qF4Kx39qEL4zA=
+
+Name: assets/Default/S/S7SS
+SHA1-Digest: MWoGgBNuTBNJM/ppPIQ5EuxrH+U=
+
+Name: assets/HVGA/T/T2TJ
+SHA1-Digest: SlrJ5HM5Xo2cPYkKyn+KWSKt4wQ=
+
+Name: assets/HVGA/T/T2TG
+SHA1-Digest: O+XnuhQ8qKav3lBqU03LH14Ssxs=
+
+Name: assets/HVGA/T/T2TF
+SHA1-Digest: 4PfU02YpI/wZh5eZ1gUw4ermoWo=
+
+Name: assets/HVGA/T/T2TE
+SHA1-Digest: aqjUAtIwFDgvk0CxIpGSmQF2VQc=
+
+Name: assets/HVGA/T/T2TC
+SHA1-Digest: vqKrMNTrMqfZ5tjuwRH9BwpAK8M=
+
+Name: assets/HVGA/A/A7A
+SHA1-Digest: dbe8+Wos9Yjsc+M+0xcEaJkdVSE=
+
+Name: assets/Default/S/S7SJ
+SHA1-Digest: 2XqZDNWKimKbZDuDs3xnJCzCZM0=
+
+Name: assets/Default/T/T12TE
+SHA1-Digest: h+V5T3/IaVCPYfSUR+6yxMhcsVE=
+
+Name: assets/Default/S/S9S
+SHA1-Digest: b00ZhBdP+h3YEWeDDn3RnHCyG50=
+
+Name: assets/Default/T/T12TG
+SHA1-Digest: zk0Vbj00GtS8/krt0VPBWUhLiLM=
+
+Name: assets/Default/T/T12TF
+SHA1-Digest: ZdTehMnS3sd7ad4R0cfZSOftqLQ=
+
+Name: assets/Default/T/T12TJ
+SHA1-Digest: LFvHegu151Bnddjc3V5Ngqtvb2I=
+
+Name: assets/Default/S/S30SJ
+SHA1-Digest: qtiHVPbuRLe1ymogmP+Ca11Sejs=
+
+Name: assets/HVGA/T/T34T
+SHA1-Digest: zslgfOxCNke32KkUVE+8qzti8E8=
+
+Name: assets/Default/T/IdxT
+SHA1-Digest: XWzaQg6xoQ2B3GkheyERtqIFzGs=
+
+Name: assets/Default/W/W6W.ogg
+SHA1-Digest: dBnlNQSxzRzl7x5ym+3bgms6bTE=
+
+Name: assets/Default/T/T12TS
+SHA1-Digest: JSOTnjacNQgCxUMGyMceLh+DPHo=
+
+Name: assets/HVGA/A/A46A
+SHA1-Digest: +jregQJGasZDZcd2w1NeX2PNXDE=
+
+Name: assets/Default/M/M10M
+SHA1-Digest: eFQUg1miy7OvVX9YCB6zF76Bp7c=
+
+Name: assets/HVGA/A/A8A
+SHA1-Digest: /qFxGOpeH+BfxU8CF7gmHF/S24k=
+
+Name: assets/Default/T/T12TC
+SHA1-Digest: sAA9A1nFUQUaeKKbScStkgDgh6Y=
+
+Name: assets/Default/T/T23TS
+SHA1-Digest: VHYNjEdo8Ya5Azw/fKAmNcxTJGc=
+
+Name: assets/HVGA/I/I113I
+SHA1-Digest: YcUp34ga2zJYjqWRbN0j+8jhQnQ=
+
+Name: assets/Default/T/T23TJ
+SHA1-Digest: H59wuROKSaMClssWMXklkwRaUn8=
+
+Name: assets/Default/T/T17T
+SHA1-Digest: OrjXwhdCLAFU8UEA7tD4HsnU8C4=
+
+Name: assets/Default/T/T23TF
+SHA1-Digest: jBxivrxmNf6preMp6N6yHxRz+NA=
+
+Name: assets/Default/I/I46I
+SHA1-Digest: Bhxb0BOsrWh+WVl5/7267mq3A1U=
+
+Name: assets/Default/T/T23TG
+SHA1-Digest: bnkVx1kiQZ1sEs2L3TcCgZMQEmI=
+
+Name: assets/Default/A/A101A
+SHA1-Digest: rRhhRVLOtoEUQ8gt83ejuly8vgA=
+
+Name: assets/HVGA/A/A95A
+SHA1-Digest: RmeWEGvv4SV7v2cdLP6q+1bIsBM=
+
+Name: assets/Default/T/T23TE
+SHA1-Digest: jwXiV2Fai11209Ua9zMwS5G7Hxo=
+
+Name: assets/Default/T/T23TC
+SHA1-Digest: LqKwh0QmgbMxqGqiYLZwVgJ1kfE=
+
+Name: assets/HVGA/T/T5T
+SHA1-Digest: YpDdo28j2wYryIcWxzCCQYhPH38=
+
+Name: assets/HVGA/A/IdxA
+SHA1-Digest: oqVq53JsPgSF2txPWxB+U+0lnkQ=
+
+Name: assets/HVGA/A/A56A
+SHA1-Digest: LAVCuEo4PfIZ25KkhLnDa9ysjBc=
+
+Name: assets/Default/A/A102A
+SHA1-Digest: RPSdP6EPNQ//Q8xZMlzEPADM1bk=
+
+Name: assets/HVGA/I/I112I
+SHA1-Digest: Kc9Dr8U3afMg8G4X6A/binLdwFY=
+
+Name: assets/Default/I/I47I
+SHA1-Digest: x2mShOkWAjp0+dmBYOoRnPXcH/U=
+
+Name: assets/HVGA/A/A96A
+SHA1-Digest: ujar0X3+5qf3oLhXeNxvDp+m4xg=
+
+Name: assets/HVGA/S/S30S
+SHA1-Digest: SrjL2WV05vQMlQa9tFBk78nuxH8=
+
+Name: assets/HVGA/T/T4T
+SHA1-Digest: Q2y5vepvM6S2Kc3GPsH4LYhfqu0=
+
+Name: assets/Default/T/T16T
+SHA1-Digest: Y0M00rnStIPCA9bvv5RH/m4TuuU=
+
+Name: assets/HVGA/I/I111I
+SHA1-Digest: qP3pSDCje8wEOh4ZJHckTzPFDjE=
+
+Name: assets/HVGA/A/A55A
+SHA1-Digest: VerN+ZT6rCuVb9yVtvy6WJ3Z94w=
+
+Name: assets/Default/O/O5O
+SHA1-Digest: Fl8BjF5nENrhLhg257VK3q4wm+Q=
+
+Name: assets/Default/A/A103A
+SHA1-Digest: GA0SVoyxY4H9aPrjlv8txYIWQy4=
+
+Name: assets/HVGA/A/A93A
+SHA1-Digest: bwDZg3au1vPk78ZRK41DcoPp0pw=
+
+Name: assets/HVGA/T/T2T
+SHA1-Digest: zbuhGY86uKhSG/j92H66ZEXjs/0=
+
+Name: assets/Default/T/T19T
+SHA1-Digest: X4IBSLIivc9d5+m4VhCK//xnnR4=
+
+Name: assets/HVGA/T/T3T
+SHA1-Digest: B5PXPSwAhA0PJv3dbudDNSvDb6U=
+
+Name: assets/Default/I/I43I
+SHA1-Digest: PWrlnS7q+ygNYuEmXfrh8VENwfA=
+
+Name: assets/HVGA/A/A54A
+SHA1-Digest: n+uxrE/6RYoau2eev+rR6E/ukUY=
+
+Name: assets/HVGA/I/I110I
+SHA1-Digest: b1YpA+84fEoFxh/dZ58igEDOtnQ=
+
+Name: assets/HVGA/S/S24SJ
+SHA1-Digest: dp78QaoIGFJRc4dHhkSWnBZ4cjU=
+
+Name: assets/HVGA/U/U2US
+SHA1-Digest: VY/qFm2Ufq4PHz9KXTum4e2wLd8=
+
+Name: assets/HVGA/S/S24SG
+SHA1-Digest: 4+dYbDhJWEjwBsk/UqLSuAstKfM=
+
+Name: assets/Default/A/A104A
+SHA1-Digest: OorgYiIqf0dIEq1mz4qET8XA/yo=
+
+Name: assets/HVGA/S/S24SE
+SHA1-Digest: W40iY5nqrAAtd5qQ1paHAlY6ov4=
+
+Name: assets/HVGA/S/S24SF
+SHA1-Digest: rEhbf7MODK4VDQHDv8uRNytYWQg=
+
+Name: assets/HVGA/S/S24SS
+SHA1-Digest: 3g7sPxiHrQ3UzMktq28eJmlXegQ=
+
+Name: assets/HVGA/T/T1T
+SHA1-Digest: 0CugIspv7EhyJ87cYSfe2a23JtM=
+
+Name: assets/Default/I/I45I
+SHA1-Digest: yrQM5rT4QtfPCWzkKa6iZCHetUo=
+
+Name: assets/HVGA/A/A94A
+SHA1-Digest: VwEDET+Y33dt/rBV1FEKA8nsXW4=
+
+Name: assets/Default/T/T18T
+SHA1-Digest: SluTzbWHxSpedmlsoh1Ld16faqw=
+
+Name: assets/HVGA/U/U2UG
+SHA1-Digest: gwYLhaN0hRNDVpYVzMCLAIQBvLg=
+
+Name: assets/HVGA/U/U2UJ
+SHA1-Digest: 8F99tktWlsNy+KKxRX89FGF+d/s=
+
+Name: assets/HVGA/U/U2UC
+SHA1-Digest: JUcKJ5E30ehboCe5pBk/bzV/Xsk=
+
+Name: assets/Default/I/I44I
+SHA1-Digest: wbHv/jjpadOtN31S4B77bmFNFgE=
+
+Name: assets/HVGA/U/U2UF
+SHA1-Digest: Ne+DTpk+FrTT5bAsfX3FusJ9L7I=
+
+Name: assets/HVGA/U/U2UE
+SHA1-Digest: iPj+CApNnvyTYU4HUXoz/r4lr7w=
+
+Name: assets/HVGA/S/S24SC
+SHA1-Digest: uzwBga11cqAfuJ8BFqdrBIIAUkU=
+
+Name: assets/HVGA/A/A53A
+SHA1-Digest: aqCg3wVUjPGUbKW8xU85sv+/SIw=
+
+Name: assets/HVGA/I/I117I
+SHA1-Digest: kwrwk6+lIH06JmZaXTUABeq2MzY=
+
+Name: assets/Default/T/T27TG
+SHA1-Digest: xn03slzUbIomOnyVaTC4yLMCI90=
+
+Name: assets/Default/T/T27TF
+SHA1-Digest: 0ZDn7fawjpjE6IoQ8qg8PDRuO5Q=
+
+Name: assets/Default/O/O3O
+SHA1-Digest: SVVVoblGGKk3nvIEP+gBY/x/Y/I=
+
+Name: assets/Default/T/T27TE
+SHA1-Digest: SHe3hn5APFVLLutZW2BgnhNcz9M=
+
+Name: assets/Default/T/T34TJ
+SHA1-Digest: QEVeBbNLPJKtDJIi8HspmEekbrY=
+
+Name: assets/Default/T/T27TC
+SHA1-Digest: dHzz5WQvF6oxnFN5uLgOqc59JTA=
+
+Name: assets/Default/T/T34TG
+SHA1-Digest: WxACJ8FMeXRdYU5fpdKiymPJlN8=
+
+Name: assets/Default/T/T34TF
+SHA1-Digest: WOpTdxfRsCZArz/eYc27P367F4c=
+
+Name: assets/HVGA/A/A52A
+SHA1-Digest: ZCNtZbRejBNb0rovVfX2q7sMhzk=
+
+Name: assets/Default/I/I41I
+SHA1-Digest: UDh95PJRpQ3tfVqNJtU/Za4iH5I=
+
+Name: assets/Default/T/T34TS
+SHA1-Digest: xGLFKjRWhF43nGwsbsmni3L8unI=
+
+Name: assets/HVGA/A/A91A
+SHA1-Digest: 7qZtXpKlCKde4i5BJ/nVeS4ZsrY=
+
+Name: assets/Default/V/IdxV
+SHA1-Digest: UAzl7b2jJPmjhfBqJAlM7oc7zwc=
+
+Name: assets/Default/T/T13T
+SHA1-Digest: /28qiwmZ2OB0qG1xhK7KshmC7Zg=
+
+Name: assets/Default/T/T27TJ
+SHA1-Digest: Zfk0gi9mtHx6flgXwQqZSJVxJV4=
+
+Name: assets/HVGA/T/T9T
+SHA1-Digest: OvM7YamtfPl0SG/kNuJMlDvN/xU=
+
+Name: assets/Default/T/T8TG
+SHA1-Digest: W4ggWx+jgCNfhR2zxReiHnTinOQ=
+
+Name: assets/Default/T/T8TJ
+SHA1-Digest: ttsroe2qHqe82V0Nk0gUMSUO1Lo=
+
+Name: assets/Default/T/T8TC
+SHA1-Digest: Nte/sZnENArCSLneQcDD2YfsHes=
+
+Name: assets/Default/T/T8TE
+SHA1-Digest: iWQQZLLdNKIuWfr95eLXTNC5Ws8=
+
+Name: assets/Default/T/T27TS
+SHA1-Digest: leOWq/zD0m2RO9Cg70S8q50ty/k=
+
+Name: assets/Default/T/T8TF
+SHA1-Digest: vNYLAO7usrgfbD8ePKtw9ndmNy8=
+
+Name: assets/HVGA/I/I116I
+SHA1-Digest: RJL5eSVak0Yjclu7qhbETX6Yglw=
+
+Name: assets/HVGA/I/I60I
+SHA1-Digest: AtKhkrV8fh0xiREHP+MI2QkbYX4=
+
+Name: assets/Default/O/O4O
+SHA1-Digest: WMR7kdaY08Y+BnLXBDQmpEwTGJg=
+
+Name: assets/HVGA/A/A51A
+SHA1-Digest: XHLKdDvQE+9xuiE9v5hna6q22nU=
+
+Name: assets/Default/T/T8TS
+SHA1-Digest: QAcEDRLlatoAtXmH0NLAQCWWhZs=
+
+Name: assets/Default/T/T12T
+SHA1-Digest: JkxLMrixX8kHYdVFA5zRC/N95E0=
+
+Name: assets/HVGA/A/A92A
+SHA1-Digest: O2UGwJ9dccR5abBpqXPpvbqEcxA=
+
+Name: assets/Default/I/I42I
+SHA1-Digest: +YDC5Tw7WA0rHZhcDOkOCmoBL0M=
+
+Name: assets/HVGA/T/T8T
+SHA1-Digest: YIywIAF+uZZS9EloKQlaSt+HONE=
+
+Name: assets/Default/T/T0TE
+SHA1-Digest: HW2QkPLy+21gI9dASe/gjOaE8J8=
+
+Name: assets/Default/T/T0TF
+SHA1-Digest: FbjEsFse/UNJsIbjHBrBn4Aer04=
+
+Name: assets/Default/T/T0TC
+SHA1-Digest: zFrx99XtdKRMvhfz675qrGgIQfs=
+
+Name: assets/HVGA/I/I115I
+SHA1-Digest: hsCP/wAZBIKfGVUt5vZYizFMU6g=
+
+Name: assets/Default/T/T0TJ
+SHA1-Digest: Xyddi9iw5UgskDz7I/+wZSqrg94=
+
+Name: assets/Default/T/T0TG
+SHA1-Digest: K8pXhykFOo0o6G0tLqkRXnLNsVY=
+
+Name: assets/Default/S/S27SF
+SHA1-Digest: jZMGDepDhFdke4R1bvtdGwKE3JQ=
+
+Name: assets/Default/S/S27SE
+SHA1-Digest: +zAl7PF4btDEcg31l78GYbMjpzQ=
+
+Name: assets/HVGA/A/A50A
+SHA1-Digest: iNvv1VMrf8Sr4mXblGXX9mAAsxM=
+
+Name: assets/Default/S/S27SG
+SHA1-Digest: OhZI3EewmyKpa9DUKk+6Wlzz90s=
+
+Name: assets/Default/O/O1O
+SHA1-Digest: 8t6NEdKsLy74EdNMKOzy0FyjtlQ=
+
+Name: assets/Default/S/S27SC
+SHA1-Digest: tm1gHmsFbKYU3encvtRnSwHXm3I=
+
+Name: assets/HVGA/T/T7T
+SHA1-Digest: r5EEueW5ukeNYAJfF50lWuxw48s=
+
+Name: assets/Default/T/T15T
+SHA1-Digest: XkdvMtXL++VH8371mmMr9r2AL4o=
+
+Name: assets/HVGA/U/IdxUS
+SHA1-Digest: 6f7PXMZRRPj1KF4+vDZ8kvXOQbs=
+
+Name: assets/Default/T/T0TS
+SHA1-Digest: qTIoh4dHN/b5EMTsyp4hsYqnPEk=
+
+Name: assets/Default/S/S27SJ
+SHA1-Digest: g+JQuRK6b++hhogJY9XWWEeQByo=
+
+Name: assets/HVGA/T/T23TC
+SHA1-Digest: L5pZzofNpCPm99YsdFfCqdmlnSo=
+
+Name: assets/Default/A/A100A
+SHA1-Digest: URVqv8sj/damV/2hT/nhM4ao15w=
+
+Name: assets/HVGA/R/R2RC
+SHA1-Digest: tQynL6DAZ+vbwwMQ+zVstNdDELs=
+
+Name: assets/HVGA/R/R2RE
+SHA1-Digest: bE8Fw0j3W31fNGYue0QXqTPS1ZU=
+
+Name: assets/HVGA/U/IdxUJ
+SHA1-Digest: 0r/K+vxX837CZD3V9u9Th1l3Xuk=
+
+Name: assets/Default/S/S23SJ
+SHA1-Digest: LIt6okcVWdb3XaR2BEeIyBtUM3w=
+
+Name: assets/HVGA/U/IdxUG
+SHA1-Digest: m0YxbPA5z2C0zo3ilaupeYMclXE=
+
+Name: assets/Default/S/S23SG
+SHA1-Digest: 0lWUDuc4nmUCTF556pDR3N+m1LY=
+
+Name: assets/HVGA/R/R2RG
+SHA1-Digest: ZkXDN4v5A6FyZeq67RBSWM01914=
+
+Name: assets/HVGA/R/R2RF
+SHA1-Digest: a6vBEiOOQInfElmz9YVbb+i7cYM=
+
+Name: assets/HVGA/U/IdxUE
+SHA1-Digest: pOg3t7VWUtaXqPxp9Tfpcnv1XVQ=
+
+Name: assets/Default/S/S23SE
+SHA1-Digest: /TJ++NbHr5XpRFKIxmbeq6GRZzI=
+
+Name: assets/HVGA/U/IdxUF
+SHA1-Digest: DxzdnHSzrf+GD18+1s/4PpDdqlw=
+
+Name: assets/Default/S/S23SF
+SHA1-Digest: pDCqHQPRoFfk6t+O9JCTQdNd4ME=
+
+Name: assets/HVGA/U/IdxUC
+SHA1-Digest: EOUaUaShZS5eutDxjF0E5luhW0k=
+
+Name: assets/Default/S/S23SS
+SHA1-Digest: lveu5MeDuh1n98r16NXgTwbOhPw=
+
+Name: assets/HVGA/I/I114I
+SHA1-Digest: 9nYYQUmevZIJAgL9K2gvzMefk3w=
+
+Name: assets/HVGA/T/T23TS
+SHA1-Digest: ENJL6re7HRdVHDlX3w+VfcNey7g=
+
+Name: assets/HVGA/R/R2RS
+SHA1-Digest: w6R7aMIA1UnvPz97/C/7yQCwpTI=
+
+Name: assets/Default/T/T15TS
+SHA1-Digest: 1QAd1oUNohowHVEYgctjfL0lE2Q=
+
+Name: assets/Default/O/O2O
+SHA1-Digest: a8e5TVZmHoQMKYPbvcXb6iHhMuo=
+
+Name: assets/Default/I/I40I
+SHA1-Digest: I6cXdLp8brfPLJDYOp2x9WD2/fU=
+
+Name: assets/HVGA/R/R2RJ
+SHA1-Digest: yH0rU5KO+okEu8NMgFzIIAwsedE=
+
+Name: assets/Default/S/S23SC
+SHA1-Digest: 2FQ4miHlcSnYzxJc4CQIwSdkIQU=
+
+Name: assets/HVGA/T/T23TJ
+SHA1-Digest: cZbpiI0JX6GybiBFsTN8vDNOOeU=
+
+Name: assets/Default/T/T14T
+SHA1-Digest: AT2K3nH7Y4DN+IjhuExJ/Ky5zyg=
+
+Name: assets/HVGA/T/T6T
+SHA1-Digest: riy1gtkHQeJvXdR6cznkpWe9Kx0=
+
+Name: assets/HVGA/T/T23TG
+SHA1-Digest: Io34KkFyZd+0z4G7rwXVS1unyds=
+
+Name: assets/HVGA/T/T23TF
+SHA1-Digest: DUzw6H9H9q51iEPp9XURcbfx4Ms=
+
+Name: assets/HVGA/T/T23TE
+SHA1-Digest: TVvK5ePIZLDjg+UHwTGC1srR7L8=
+
+Name: assets/HVGA/A/A90A
+SHA1-Digest: f/FscLJZrsBVXjq6ov4b5Ycgttc=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: lPHIYoqZ+2OpY0LPumyDkUdNdoc=
+
+Name: assets/Default/S/S30S
+SHA1-Digest: SrjL2WV05vQMlQa9tFBk78nuxH8=
+
+Name: assets/Default/A/A109A
+SHA1-Digest: 7wawfT08PqsmrRzSgv6zudLRfoU=
+
+Name: assets/Default/A/A78A
+SHA1-Digest: JZ+AXKw1HOze8T656nLyNuxZm70=
+
+Name: assets/HVGA/I/I63I
+SHA1-Digest: 74oArg/mypJiS0mPUPRr1c6nDP0=
+
+Name: assets/HVGA/U/U3U
+SHA1-Digest: o3tEX68SHPMLChM0VR+dnqPjJOs=
+
+Name: assets/HVGA/M/M47M
+SHA1-Digest: A8DiZhfX0d+ZVDG7ypT5GidxEpQ=
+
+Name: assets/HVGA/I/I64I
+SHA1-Digest: lkxDIClnHzzpl4/SMmBH7Cgouyg=
+
+Name: assets/HVGA/M/M46M
+SHA1-Digest: Et1qHfP0LARRmoJtS+NFxVkNEBg=
+
+Name: assets/Default/S/S27SS
+SHA1-Digest: jB/+ebAFsirLBS8FCNTIOtDDy98=
+
+Name: assets/Default/A/A77A
+SHA1-Digest: 7ZaX9/Z6t46KaoTnPhGoPUMF9mc=
+
+Name: assets/HVGA/T/T12TJ
+SHA1-Digest: tAwYW2y5RYjYsSpyth6sTXCLz4Y=
+
+Name: assets/Default/I/IdxI
+SHA1-Digest: 6WPPMBdWzfHlMG0eFrNuDM2F8/Q=
+
+Name: assets/Default/S/S12SC
+SHA1-Digest: MrOhXr5pCU2xw/ukj2YKx1D6h7Q=
+
+Name: assets/HVGA/T/T12TF
+SHA1-Digest: kspf3KXJiNmK27hLuoSP+6S6i3k=
+
+Name: assets/HVGA/T/T12TE
+SHA1-Digest: eQu22oF0qNqriDJyfs7dIpP1v8Y=
+
+Name: assets/HVGA/T/T12TG
+SHA1-Digest: V/BhcnSbUOOZ8jswSMw+EFN8ZAo=
+
+Name: assets/HVGA/T/T12TS
+SHA1-Digest: che4FK7Q0ua8StvtQTl5mxaWeHM=
+
+Name: assets/Default/W/W5W.ogg
+SHA1-Digest: nweQJ565lnAg0Y5H0gVI1R9ULwE=
+
+Name: assets/HVGA/I/I61I
+SHA1-Digest: wAxM5/yMl8CgowGabGMpMNdHFiE=
+
+Name: assets/Default/S/S12SS
+SHA1-Digest: 9EC6+ILOA2E4HenD2507pX4rXKY=
+
+Name: assets/Default/F/IdxF
+SHA1-Digest: s8eE5RBVN9hiYroKpIwt0RxqhTI=
+
+Name: assets/Default/S/S12SJ
+SHA1-Digest: ls8jwLK8RQlcyC7M5RwfPa1koog=
+
+Name: assets/HVGA/T/T12TC
+SHA1-Digest: y1gHOoPVohgjpL6eIrBoi60ygE8=
+
+Name: assets/Default/S/S12SE
+SHA1-Digest: Dm1PaIcjXPO7jAcYZ0Lh0s6s5Vk=
+
+Name: assets/Default/A/A76A
+SHA1-Digest: Kv24VMTPO4TxtzcKHxz1+k+xM8s=
+
+Name: assets/Default/S/S12SF
+SHA1-Digest: G+EGJqCdhRIeSogEf2E3tD4zT2g=
+
+Name: assets/HVGA/M/M49M
+SHA1-Digest: A/QZ3LlV2ZnP9akrTGJR6EQ0in0=
+
+Name: assets/Default/S/S16SS
+SHA1-Digest: pVtWQOwtBPpK3LTMhTPUyvA5OLA=
+
+Name: assets/Default/S/S12SG
+SHA1-Digest: IJPENnbtgwRsQIIPqD5zvoJxQZE=
+
+Name: assets/Default/S/S16SJ
+SHA1-Digest: pb+0o1Hm7eo2KBsUgEPZ0eVLWTM=
+
+Name: assets/Default/S/S16SG
+SHA1-Digest: Dm0uhvG3a/lMyo1EFecDDs2YIWg=
+
+Name: assets/Default/S/S16SF
+SHA1-Digest: A50H1aLp8vQ0VdiEj/IRZ4EbkdA=
+
+Name: assets/Default/S/S16SE
+SHA1-Digest: m23lwKGzbsWJMex3HOcnBcltRsA=
+
+Name: assets/Default/S/S16SC
+SHA1-Digest: pMvBykLkzyo4ktLd/VA87ib7Brk=
+
+Name: assets/HVGA/I/I62I
+SHA1-Digest: 52pkCyGAaBU0icQtxWbKxnMjQmA=
+
+Name: assets/Default/A/A75A
+SHA1-Digest: MpY4DMbKp9cDCPXd2dNqmJshv4E=
+
+Name: assets/HVGA/M/M48M
+SHA1-Digest: mO/kblBmfU8pwJpRJrTVYso7rM4=
+
+Name: assets/HVGA/O/O2OC
+SHA1-Digest: iLj/yoOcG7TXI1ljViHpoHMUwKo=
+
+Name: assets/HVGA/I/I68I
+SHA1-Digest: PYEYHDQWOcxw5vt77k2fKDLYzos=
+
+Name: assets/HVGA/O/O2OE
+SHA1-Digest: X6dS0a94nBBAk5K1Oxn/+49y6FU=
+
+Name: assets/HVGA/O/O2OF
+SHA1-Digest: Lx3jxz4GJhwYux4Nm+X3gdqtzCs=
+
+Name: assets/HVGA/O/O2OG
+SHA1-Digest: lZAVzP2icvjvr4j/yVL3zY71sEQ=
+
+Name: assets/Default/S/S2SS
+SHA1-Digest: crIyxsatbk1nHewal343Er9wFRg=
+
+Name: assets/HVGA/O/O2OJ
+SHA1-Digest: lkbv7N+X8GrQRMsKGynWEfuLOdg=
+
+Name: assets/HVGA/S/S6SC
+SHA1-Digest: EeDtfJTrsJnpW/m9n9QfXQrGYDI=
+
+Name: assets/HVGA/S/S6SF
+SHA1-Digest: skbNHDSXjDdJ5IIDAkj8VNykQZc=
+
+Name: assets/HVGA/S/S6SE
+SHA1-Digest: 5OF4W9CmRBWCg4kB4VR5m2+aicI=
+
+Name: assets/HVGA/S/S6SG
+SHA1-Digest: yQmRkNrIeuNc1hjhUhJIk7V0kZM=
+
+Name: assets/Default/S/S2SJ
+SHA1-Digest: zu0AR2zm2/Wgp8uGEwHt5zHgQO4=
+
+Name: assets/HVGA/S/S6SJ
+SHA1-Digest: OPHPaq5kL6xV1+l71rjOuLM/58g=
+
+Name: assets/Default/O/O2OC
+SHA1-Digest: tY4ZVkfClORx6BTIlknvSmurxfw=
+
+Name: assets/HVGA/A/A99A
+SHA1-Digest: 3mQj+wXGiHlgPqdwr/6xKn9hSc4=
+
+Name: assets/Default/O/O2OE
+SHA1-Digest: jO23ODJvoP/7mIWOIgtqdmTtUL4=
+
+Name: assets/Default/S/S2SF
+SHA1-Digest: VL82MO9DaYsroV7yywwaLaGphDc=
+
+Name: assets/Default/O/O2OF
+SHA1-Digest: 0Eqz0wOhQNac2Pf5T/0mFoYaaD8=
+
+Name: assets/Default/S/S2SG
+SHA1-Digest: wQARPIE50Yr4GqaYMwB9AOh85is=
+
+Name: assets/Default/O/O2OG
+SHA1-Digest: 0kJlZE7rOpEBVhgkwR7zg8EjG1c=
+
+Name: assets/HVGA/T/T0T
+SHA1-Digest: iJHbgxGSz9SQvcMAZ2h29gj+Zqg=
+
+Name: assets/Default/O/O2OJ
+SHA1-Digest: dVDpPVxc/BIAj6xvO4OfSbKX0B8=
+
+Name: assets/Default/S/S2SC
+SHA1-Digest: kmKnNzbjEYKdtmqJvRyG5FDOArI=
+
+Name: assets/Default/A/A105A
+SHA1-Digest: IrveDMlyahjgdysWgxLumR1hz60=
+
+Name: assets/HVGA/S/S6SS
+SHA1-Digest: p2wWt5BURjviB+cJ+vR1tw4E2io=
+
+Name: assets/HVGA/I/I67I
+SHA1-Digest: A1UALfYfryOmai+43n+nSWvviMc=
+
+Name: assets/Default/S/S2SE
+SHA1-Digest: tBb54Mseaysep+xWj1WhoBmhuuU=
+
+Name: assets/HVGA/T/T6TJ
+SHA1-Digest: 35dYIyFx9y2WszyMFn+9J3swLE8=
+
+Name: assets/Default/O/O2OS
+SHA1-Digest: QWc0MDkdZLKdSLaLkz0sibZ29+E=
+
+Name: assets/HVGA/T/T6TF
+SHA1-Digest: lGpGtCd3GZWBqdQEem5SVq32c0I=
+
+Name: assets/HVGA/T/T6TG
+SHA1-Digest: J9+b28nP7IPK8qrzLi/5hYoDgl0=
+
+Name: assets/HVGA/T/T6TE
+SHA1-Digest: Es/+aU3+bO4//Wzvh36fqlNRmjM=
+
+Name: assets/HVGA/I/I69I
+SHA1-Digest: NvctjNZWSBoeRy5MGgL7slA+7iE=
+
+Name: assets/HVGA/T/T6TC
+SHA1-Digest: vh9PqCpjhQIsC60AKovmo/2vlPQ=
+
+Name: assets/HVGA/O/O2OS
+SHA1-Digest: PSa/mw8s3/+Er1w3DVbOjMTEy+0=
+
+Name: assets/HVGA/U/U0U
+SHA1-Digest: qE75rb5KeP+XuboPegxUnMrCAws=
+
+Name: assets/HVGA/T/T6TS
+SHA1-Digest: 6pObzb97GuTFNjEfo9kQOej669s=
+
+Name: assets/Default/A/A106A
+SHA1-Digest: 6lzdPLFCaGPaHM9LX45ue/IQeOA=
+
+Name: assets/Default/I/I89I
+SHA1-Digest: FJW/HYUC12kSK3JrTLPU3uikwJc=
+
+Name: assets/Default/I/I48I
+SHA1-Digest: 29WacQvxRiXlzgExquQZoEopagI=
+
+Name: assets/HVGA/U/U1U
+SHA1-Digest: XnU90AnCH+gwfEjZuCgeji9ugMo=
+
+Name: assets/HVGA/A/A97A
+SHA1-Digest: Zq6cxTi7iHD2k7KtVDd0LHdR3l4=
+
+Name: assets/Default/A/A107A
+SHA1-Digest: pvm6SOWFsVADTiW9PJrWc5JgZ28=
+
+Name: assets/Default/M/M50M
+SHA1-Digest: iHjUj+DmkDbwC2MHN5LtHm4xsyI=
+
+Name: assets/HVGA/I/I65I
+SHA1-Digest: PqxzEf0M7X/nUiD83VYz+/MyJrw=
+
+Name: assets/Default/I/I88I
+SHA1-Digest: 5oOf2CSlCYVIiABKqjO9UX79n+0=
+
+Name: assets/HVGA/T/T32TG
+SHA1-Digest: zbqIcuw4AbNoE95+mpWxmosMQyU=
+
+Name: assets/HVGA/T/T32TJ
+SHA1-Digest: R7Nxl2SqGVE4ehCWcHaNRZJK3BM=
+
+Name: assets/HVGA/T/T32TS
+SHA1-Digest: oV9pTp2AUa7mgibbjMQjyQNRUzE=
+
+Name: assets/Default/I/I49I
+SHA1-Digest: 4J92J/hm4YbvfeMcecI/HwtSU8I=
+
+Name: assets/HVGA/A/A98A
+SHA1-Digest: I28KGVoOxvON3VtO0XWtWvKXqQY=
+
+Name: assets/HVGA/U/U2U
+SHA1-Digest: jzi5se5HDP/NqhzWmLWvT05MRy0=
+
+Name: assets/Default/A/A79A
+SHA1-Digest: 4MLU1hRhulncsOcQaKSyOGPfrGY=
+
+Name: assets/HVGA/T/T32TC
+SHA1-Digest: x6rLYAzwKxLneR15bvFcwkjKUZo=
+
+Name: assets/HVGA/T/T32TF
+SHA1-Digest: ucTpghIYtjb5Ps0J1sYpkKjG4gU=
+
+Name: assets/Default/A/A108A
+SHA1-Digest: UebmR6x0DP6DEzTlHmE09x01n1c=
+
+Name: assets/HVGA/T/T32TE
+SHA1-Digest: O2XGYkFOri0x2h+FuFWNLLE4Grk=
+
+Name: assets/HVGA/I/I66I
+SHA1-Digest: bczo9LP9nbDU5UDz3v34n1l1nXo=
+
+Name: assets/Default/I/I87I
+SHA1-Digest: OIgFLYiDbhnZPlNG14iR0rKuh3A=
+
+Name: assets/HVGA/S/S10SG
+SHA1-Digest: DPStJEVT+aYUp/rpD5SW6BzQBJI=
+
+Name: assets/HVGA/S/S10SF
+SHA1-Digest: tLTKDLL46NtC4l0y0MLfYWCpriY=
+
+Name: assets/HVGA/S/S10SE
+SHA1-Digest: i1wn8AquIbfc10u4lO7/PH/9bRs=
+
+Name: assets/HVGA/T/T7TS
+SHA1-Digest: 8/taG95823ODmUr8x8CS8D04ILs=
+
+Name: assets/HVGA/S/S10SC
+SHA1-Digest: lzXSaVdrLgkUEPH4yWyLqZW0xM4=
+
+Name: assets/Default/M/M27M
+SHA1-Digest: 91wRxfWzUZdz6fifmlIGp+cuY2I=
+
+Name: assets/Default/I/I95I
+SHA1-Digest: PdnkMwqQ1hqwsDG+Ma2wiJIVW5A=
+
+Name: assets/HVGA/T/T7TG
+SHA1-Digest: m7PqS1XMRgQkNUd7f+/f9n3UCIY=
+
+Name: assets/HVGA/T/T34TG
+SHA1-Digest: Jue4NxS8PwMPXjtH+6it0a9Ro90=
+
+Name: assets/HVGA/T/T7TJ
+SHA1-Digest: PQ5h67ph6wFheTug7BUgcqZCc0Q=
+
+Name: assets/HVGA/T/T34TF
+SHA1-Digest: p0uyuN8lYYQkf2QXKjVCEshWsR0=
+
+Name: assets/Default/M/M66M
+SHA1-Digest: poxAz9aFrmp3myZNzJkCG4xTHRA=
+
+Name: assets/HVGA/I/I47I
+SHA1-Digest: x2mShOkWAjp0+dmBYOoRnPXcH/U=
+
+Name: assets/HVGA/T/T7TC
+SHA1-Digest: 7K9W3t/ZM6aE3WuhWr8hisaqKd0=
+
+Name: assets/HVGA/S/S10SS
+SHA1-Digest: 0MGFA6C2m4qiMU17FLVZV8o+/vY=
+
+Name: assets/HVGA/T/T7TF
+SHA1-Digest: jIcOBTIYtpW0hIFuwfIXPQ86sas=
+
+Name: assets/HVGA/T/T34TJ
+SHA1-Digest: 7Lkwus5mwO+zYPLZPQ1+HrI6B+w=
+
+Name: assets/HVGA/T/T7TE
+SHA1-Digest: Uv5NY35C+qBOj3N4u/ogwDxZg9Q=
+
+Name: assets/HVGA/S/S10SJ
+SHA1-Digest: 3qNAgH1yyHEZyrdDX9pD4Kotkgc=
+
+Name: assets/HVGA/T/T34TS
+SHA1-Digest: 2VjijWoSeCJ3hbcXDkOb05sKMDo=
+
+Name: assets/HVGA/S/S14SS
+SHA1-Digest: EzJCeWqfxakuT6dj+3PQWzcyuMM=
+
+Name: assets/Default/M/M26M
+SHA1-Digest: a5gBpqPFZQCIECGycpK4B+BgisM=
+
+Name: assets/Default/I/I96I
+SHA1-Digest: c9q42w383kPUneW+U7Uio81Oyos=
+
+Name: assets/HVGA/I/I45I
+SHA1-Digest: yrQM5rT4QtfPCWzkKa6iZCHetUo=
+
+Name: assets/HVGA/S/S14SJ
+SHA1-Digest: SJPQUgltF8+t9OzYD3C0H2J2Cr4=
+
+Name: assets/HVGA/S/S14SE
+SHA1-Digest: fXuApYqX3wRMjErwI2YYZWHKZkA=
+
+Name: assets/HVGA/S/S14SG
+SHA1-Digest: bodwY6pcYm1wpbtH9QxLF1722w0=
+
+Name: assets/HVGA/S/S14SF
+SHA1-Digest: GN2T2vEqSPjcbtVaNQc+PfyQDTs=
+
+Name: res/drawable-mdpi/facebook_icon.png
+SHA1-Digest: 9jTbeG4b8nJZlZss16UPfagqlUs=
+
+Name: assets/HVGA/S/S14SC
+SHA1-Digest: U877ravtsRlWSDCbIuwnjmUuAus=
+
+Name: assets/HVGA/I/I46I
+SHA1-Digest: Bhxb0BOsrWh+WVl5/7267mq3A1U=
+
+Name: assets/HVGA/M/M40M
+SHA1-Digest: HPBdEqcbTWMbwX/vkgZ7q5DjxvU=
+
+Name: assets/HVGA/T/T3TG
+SHA1-Digest: gogvxd/m2lel40RQC669/u7pphY=
+
+Name: assets/Default/M/M25M
+SHA1-Digest: 0rD4kGdsVr8QEK8YSXpkyMwiaa4=
+
+Name: assets/HVGA/T/T3TJ
+SHA1-Digest: FoSF+3ZlYZVc+h1mAUojftVCwPs=
+
+Name: assets/Default/T/T3TS
+SHA1-Digest: eXELDtE44KI8ZGQ1wzGN8Z+s2Go=
+
+Name: assets/HVGA/T/T3TC
+SHA1-Digest: OcA66ltJNHqtXBGA42v3Ej7jefI=
+
+Name: assets/HVGA/T/T3TE
+SHA1-Digest: daAAOju+IdCuQdi3FWLmr9XC+8A=
+
+Name: assets/Default/I/I97I
+SHA1-Digest: OVqmYp98HChn+3nUagZWKRZaA0E=
+
+Name: assets/HVGA/T/T3TF
+SHA1-Digest: b0YSdCy+PJ9wc6NM9kYZ5Po36M8=
+
+Name: assets/HVGA/S/S19SS
+SHA1-Digest: aRTzRrOlcH4QgXvcNCcEQ9Ntk1A=
+
+Name: assets/Default/T/T3TJ
+SHA1-Digest: /oCcZn5GijdoF0ZdqebZ66sFb0A=
+
+Name: assets/HVGA/I/I49I
+SHA1-Digest: 4J92J/hm4YbvfeMcecI/HwtSU8I=
+
+Name: assets/Default/M/M64M
+SHA1-Digest: LD/n+MaGoFNIAVcw1LOLB1c5cqE=
+
+Name: assets/Default/T/T3TC
+SHA1-Digest: NHRof2nIFNEjKqdzQH5GBIHtRrI=
+
+Name: assets/HVGA/T/T3TS
+SHA1-Digest: fPPVOeuRlePw2upJhaVSfmKvtWs=
+
+Name: assets/Default/T/T3TE
+SHA1-Digest: Xzp8DS88Br/vBUyLMFCrVq+/VUs=
+
+Name: assets/Default/T/T3TF
+SHA1-Digest: ZHrGR3nIMCglTZp9FAjwJxmVwz4=
+
+Name: assets/Default/T/T3TG
+SHA1-Digest: 5e70ZWg9W7RB6uEVK6W8yiqGPoU=
+
+Name: assets/Default/M/M24M
+SHA1-Digest: BkYmCKPSDumDOJtIZaTIzljP5Bs=
+
+Name: assets/Default/I/I98I
+SHA1-Digest: WVBHyUrLLH+Yh9VBks8Ov0AhvpM=
+
+Name: assets/HVGA/I/I48I
+SHA1-Digest: 29WacQvxRiXlzgExquQZoEopagI=
+
+Name: assets/Default/S/S31SJ
+SHA1-Digest: Mi3S6+/Radc4YNL6WpAkgY4uEaI=
+
+Name: assets/Default/M/M65M
+SHA1-Digest: gAVIM21RfW0VyUdzKMXV1+j7Cz0=
+
+Name: assets/HVGA/T/T26TE
+SHA1-Digest: qX10EUKkRjtFE7EPSSipmfP6Dpc=
+
+Name: assets/HVGA/T/T26TC
+SHA1-Digest: zcrfY+S7O7vZUZ9MdxWqrfL/ZXw=
+
+Name: assets/HVGA/T/T26TF
+SHA1-Digest: NQwzZVAfJA8LcxGLQ+vTOwzwdgY=
+
+Name: assets/HVGA/T/T26TG
+SHA1-Digest: Ef6FB3qajvb8UXQQiHXpNyV5D38=
+
+Name: assets/HVGA/S/S20SC
+SHA1-Digest: Z1engN2XpRRMx/muFtlPImQT94w=
+
+Name: assets/Default/P/P0P
+SHA1-Digest: RgxE+XHg6sqCysRc0MwevESyxBA=
+
+Name: assets/Default/I/I91I
+SHA1-Digest: 5kZODL1I32wrt455HhtOm/LQGA8=
+
+Name: assets/HVGA/T/T26TJ
+SHA1-Digest: fjDqEeHoCaj8F1Gg/BTc5cdoJeA=
+
+Name: assets/HVGA/S/S20SG
+SHA1-Digest: raVAL1Lch1y9vjKw6RPMbQunQpg=
+
+Name: assets/HVGA/M/M44M
+SHA1-Digest: l5T6vyQZ/wXRunCEVNs6E8kXGlo=
+
+Name: assets/HVGA/S/S20SE
+SHA1-Digest: nNQ7VOu2IR/AcVq5DFwUShJVuus=
+
+Name: assets/HVGA/S/S20SF
+SHA1-Digest: KdCamYwmrQFnwGN/wdDKEE2QCyE=
+
+Name: assets/HVGA/S/S20SJ
+SHA1-Digest: idPLbUqjhURVSLm6q3tD/Fts0aU=
+
+Name: assets/Default/A/A21A
+SHA1-Digest: eIJGgWqCtJDuZ3x37b/338Trzoc=
+
+Name: assets/HVGA/S/S20SS
+SHA1-Digest: CvaeMBtZDc/P6853WxV865OwJtU=
+
+Name: assets/Default/I/I92I
+SHA1-Digest: S4FElNRXU3KWyNqcHONn8/aLpiY=
+
+Name: assets/HVGA/T/T10TF
+SHA1-Digest: lMiCPF2HeqbWdjnFCOtamnjLKYY=
+
+Name: assets/Default/A/A60A
+SHA1-Digest: 9Gc5IJTPqoTdcTaChS097FnTH9A=
+
+Name: assets/Default/U/U1UC
+SHA1-Digest: MdQCylCtcMnd7jSOqjwhQ6tSfBo=
+
+Name: assets/HVGA/T/T10TE
+SHA1-Digest: UG+fP5tlYEgJ+JJucnBzyURMk8Y=
+
+Name: assets/HVGA/M/M45M
+SHA1-Digest: hWQulxjEAjbKZoOz27E51b1TMEg=
+
+Name: assets/HVGA/T/T10TC
+SHA1-Digest: cHCPtJ/KE0DdQqzhfJfsjub1EPI=
+
+Name: assets/HVGA/T/T10TJ
+SHA1-Digest: axd9LMoyBDvHVdXpHOqZqqNjAzg=
+
+Name: assets/HVGA/T/T10TG
+SHA1-Digest: OiDFYL/vcfz+XopbzxHk7dubEZQ=
+
+Name: assets/Default/A/A22A
+SHA1-Digest: upN7+pHKwjqVGKnCCX8/P8SkXOM=
+
+Name: assets/HVGA/T/T10TS
+SHA1-Digest: QH8onsfmt/zUUAa5KOvk4z4xBzA=
+
+Name: assets/Default/I/I132I
+SHA1-Digest: 36BERmXAUGoa3wWC06F6l99blAk=
+
+Name: assets/Default/I/I93I
+SHA1-Digest: FQ+P/FXk0zO6mdjIUrkVyb3NrRA=
+
+Name: assets/Default/M/M29M
+SHA1-Digest: ZX9OOFIEMjMP1plYKSzM0A9nRGY=
+
+Name: assets/HVGA/S/S19S
+SHA1-Digest: 0hpLLSZwf5xrIbEGZ/GXICLtVBs=
+
+Name: assets/Default/A/A61A
+SHA1-Digest: dvAcXBCo64XEi/PdLm73nvh+wlI=
+
+Name: assets/HVGA/M/M42M
+SHA1-Digest: cVijHNgP6tiObqRuHdrkoFePNAQ=
+
+Name: assets/Default/U/U1UJ
+SHA1-Digest: lnYhB+pMY3Q6US0Erro1SjlQZis=
+
+Name: assets/Default/U/U1UF
+SHA1-Digest: EiVcA48i4Q+nlSVjY8zYb+tJNMI=
+
+Name: assets/Default/U/U1UE
+SHA1-Digest: 7l/moN2MQf3a8vRZGpULqmkNQLg=
+
+Name: assets/HVGA/M/M41M
+SHA1-Digest: zGiyZe0IAw2FIx/gbFXHHiTW5yI=
+
+Name: assets/Default/U/U1UG
+SHA1-Digest: EbyAvbkAQFMOLT/EnX/8hfRfTno=
+
+Name: assets/Default/U/U1US
+SHA1-Digest: Y6kvLF6aGtZGd8Bh0RsiyGE3ir8=
+
+Name: assets/Default/I/I133I
+SHA1-Digest: 4tsFYIdvjTT7J8/LP0cphKMb8WY=
+
+Name: assets/Default/I/I94I
+SHA1-Digest: 1ApW9FjNOAHv0xaNUyeYnk2Q3EU=
+
+Name: assets/Default/M/M28M
+SHA1-Digest: Br8wAhhi17k4DxU9TuqRoP6r0g8=
+
+Name: assets/HVGA/M/M43M
+SHA1-Digest: XR7hE/D0VSjKXkA6Om4c5Wx+W80=
+
+Name: assets/Default/A/A62A
+SHA1-Digest: T3QuMUIH/fn045OcOD86Bw8ZBW0=
+
+Name: assets/HVGA/S/S18S
+SHA1-Digest: oRQKqzGt2f0n1IHV0XBBq8aWnMs=
+
+Name: assets/Default/A/A20A
+SHA1-Digest: JnSaiNKbDFPd51+oYBieDTu9BbA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 2597zAYvL7tv/KpUpw0OOSmh4RU=
+
+Name: assets/HVGA/S/S28S
+SHA1-Digest: 6Iwf149wzszHmhx1KhQeq2kEfLM=
+
+Name: assets/HVGA/T/T21TS
+SHA1-Digest: Egs8eodpGeOLhGZZiqhAUlIFX28=
+
+Name: assets/HVGA/S/S2S
+SHA1-Digest: /vHS5bjfoI7MTZEGUkiA0EfTVWw=
+
+Name: assets/Default/T/T17TS
+SHA1-Digest: FkPwEPX7xi9Bxs7Pc4WJ1a624rQ=
+
+Name: assets/HVGA/S/S17S
+SHA1-Digest: Lq6nwnxHEBq2vyrdPr544so2OWs=
+
+Name: assets/HVGA/T/T21TG
+SHA1-Digest: Zhvvc5Na6mMg3gryP07qAts4Ebk=
+
+Name: assets/HVGA/T/T15TS
+SHA1-Digest: 802Fi2AdhPC3i4KuE+BCY4PpacY=
+
+Name: assets/HVGA/T/T21TJ
+SHA1-Digest: nFvIN63iP1JsMjzjK0NX4tzWFP8=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: V2LEVKYg2PFb0nYYOBnKjQliS/s=
+
+Name: assets/Default/A/A25A
+SHA1-Digest: qUB90GyREjH+koKVP7xhFVW9UIw=
+
+Name: assets/HVGA/T/T21TC
+SHA1-Digest: zLGePU3ovpTwWpIDzlVsB/bHrLg=
+
+Name: assets/HVGA/T/T21TF
+SHA1-Digest: G3JMv5wpxY2xkmSEShCMFEOxpfo=
+
+Name: assets/HVGA/T/T21TE
+SHA1-Digest: FSBtgYd4UL53uc1XcQnnqWJy7Rs=
+
+Name: assets/HVGA/S/S29S
+SHA1-Digest: 2FaANp46Xag8q7gNgYF72nvaKcs=
+
+Name: assets/HVGA/S/S3S
+SHA1-Digest: t+J8VG/i91iSy7oHnRIUz3VV8Dg=
+
+Name: assets/HVGA/S/S16S
+SHA1-Digest: uQOGHuEiF4Os9/HJzgvJNALsmes=
+
+Name: assets/HVGA/S/S31SJ
+SHA1-Digest: Mi3S6+/Radc4YNL6WpAkgY4uEaI=
+
+Name: assets/Default/A/A26A
+SHA1-Digest: 1s+DMwJUKyyPjmfFkxdlDTHz01w=
+
+Name: assets/HVGA/T/T15TJ
+SHA1-Digest: 5t2pCfa1LEnTyUGc+mk7BGCHxAE=
+
+Name: assets/HVGA/A/A20A
+SHA1-Digest: JnSaiNKbDFPd51+oYBieDTu9BbA=
+
+Name: assets/HVGA/I/IdxI
+SHA1-Digest: MsVnJt7csLj7ZwmJkQnTHWeI6eY=
+
+Name: assets/HVGA/T/T15TC
+SHA1-Digest: GF5MTsNrn6kwLYcGabnHopRV47A=
+
+Name: assets/HVGA/T/T15TE
+SHA1-Digest: KFg27tsqXo22coS+Xl3qMBNsmHk=
+
+Name: assets/HVGA/T/T15TF
+SHA1-Digest: hkRgUboDcpkw10RIVs+/6DxnvO4=
+
+Name: assets/HVGA/T/T15TG
+SHA1-Digest: C1UuHLoYqxHlGGX2sIHLUPNltg0=
+
+Name: assets/Default/W/W17W.ogg
+SHA1-Digest: OuHhaxOmQJIhQEcGdokQvvc7Ds4=
+
+Name: assets/HVGA/S/S0S
+SHA1-Digest: odAYdKXXON1dZOnb4wxI0/zZ/0w=
+
+Name: assets/Default/S/S8SC
+SHA1-Digest: xkF2OZfWt3h+JT8djVEaCuftNIA=
+
+Name: assets/HVGA/S/S15S
+SHA1-Digest: fgzKZBaxZ3eZoVhnoB/4Ut7pwUk=
+
+Name: assets/Default/S/S8SF
+SHA1-Digest: zSSOvvfpjSNPrz7n8kJP4t5dnwY=
+
+Name: assets/Default/S/S8SG
+SHA1-Digest: vD1EWUlWGWU90uCqNAyzaadIgOs=
+
+Name: assets/HVGA/S/S26S
+SHA1-Digest: BlmDKtbqHSlAAEoMjld/DRAikAA=
+
+Name: assets/Default/S/S8SE
+SHA1-Digest: rbt8j8J/O9vGq1mjHUwKftc9DkQ=
+
+Name: assets/Default/A/A23A
+SHA1-Digest: YkdzkAVmzQK+xHavUXcWpcZ3WAA=
+
+Name: assets/Default/I/I50I
+SHA1-Digest: liLYwncAUg/ekVk4RIN/iI58vYM=
+
+Name: assets/Default/S/S8SS
+SHA1-Digest: SWVRsjLfRoXMaXEY3qR9ip/4sjw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3XW9SV3bVh0+49MZvxA8vnSLM9I=
+
+Name: assets/Default/S/S8SJ
+SHA1-Digest: Z7v/FUXN+O90E0LZdBfSHbtatXw=
+
+Name: assets/HVGA/S/S1S
+SHA1-Digest: 6cJ01W4P8V0rI7tP1Aqvgtot6Z4=
+
+Name: assets/HVGA/S/S0SS
+SHA1-Digest: pS39xjAB007iOim1/pZjE9cjiPI=
+
+Name: assets/HVGA/S/S14S
+SHA1-Digest: At8T0TzoM8ZnbmE/olO86ZJ9tkw=
+
+Name: assets/HVGA/S/S27S
+SHA1-Digest: BOBFU9VpC/l4Fs2VEdu2KXqP6oI=
+
+Name: assets/Default/A/A24A
+SHA1-Digest: 35dCCLnqsVMQr0MRV52XJSi3qho=
+
+Name: assets/HVGA/T/T26TS
+SHA1-Digest: yhQ7uiTBKu8uGaZ4rQN7QL+nwRE=
+
+Name: assets/Default/I/I90I
+SHA1-Digest: 30D8ZtattmWrq11V+2HbnEYRrjY=
+
+Name: assets/HVGA/S/S0SC
+SHA1-Digest: ifDF3Dkmsd42fqlCKjBe7U6CdaE=
+
+Name: assets/HVGA/S/S0SF
+SHA1-Digest: /QZHze6ZX5IFQQyBEXFZ433LPks=
+
+Name: assets/HVGA/S/S0SE
+SHA1-Digest: ScbpXPVaPzNkdyl8qTNUGS3IbGg=
+
+Name: assets/HVGA/S/S0SG
+SHA1-Digest: 8iu/5xrH1xou2gB3Tq0sxIKY4wo=
+
+Name: assets/HVGA/S/S0SJ
+SHA1-Digest: i5glNwnKkI2tiJNvU6UNdxceTcs=
+
+Name: assets/Default/A/A29A
+SHA1-Digest: jmOcoWD4HrG2WqB3bcT57gzm4S0=
+
+Name: assets/HVGA/A/A57A
+SHA1-Digest: LQptqDeqJ92Q1YOJRiMFlL8UJoc=
+
+Name: assets/HVGA/S/S13S
+SHA1-Digest: ffJevT4b2MlykS2b5bhNJie2O9U=
+
+Name: assets/HVGA/S/S1SS
+SHA1-Digest: 671unAxIYYQ9KkLxYRPY+Azv1nc=
+
+Name: assets/HVGA/S/S24S
+SHA1-Digest: 1t6HR9+7Va5Xk4azCS+OhRiA3Dw=
+
+Name: assets/Default/S/S18SG
+SHA1-Digest: Bg1mt3cEundOaBZ6p3tomF3bGo0=
+
+Name: assets/Default/S/S18SJ
+SHA1-Digest: jYzpfrawXB6PL42ZXTzvvJW+7K4=
+
+Name: assets/HVGA/S/S1SF
+SHA1-Digest: puiwCMqhpzJeDqgE/2ejj06dilw=
+
+Name: assets/HVGA/S/S1SG
+SHA1-Digest: RV9Ebbv1f/ybpgRZOPizJvz8LiE=
+
+Name: assets/HVGA/S/S1SJ
+SHA1-Digest: us0qcti/bQlb77GvoZG8fp9ldZg=
+
+Name: assets/Default/S/S18SC
+SHA1-Digest: 34qyulWKKAF2q5SrMv9hjWyTbr4=
+
+Name: assets/HVGA/S/S1SE
+SHA1-Digest: ZUvwURBkSJVFaB70n0XlnKihG8c=
+
+Name: assets/Default/S/S18SF
+SHA1-Digest: wiLVZWgihwRc0DBvcJzmQ7xwaHE=
+
+Name: assets/Default/S/S18SE
+SHA1-Digest: GMNh0spyWVrznmYWzVm9zj4tf3s=
+
+Name: assets/Default/M/M23M
+SHA1-Digest: mnSamwgpWndSrBHI1xBEleLkJ4c=
+
+Name: assets/HVGA/S/S1SC
+SHA1-Digest: IK5TVfhTyh3wX1WSOBoFa8dHNTo=
+
+Name: assets/HVGA/S/S19SF
+SHA1-Digest: At4oaMX/4S2ZCq1zvdWGMp627Hw=
+
+Name: assets/HVGA/S/S19SE
+SHA1-Digest: 4RHwhweDZeMG/9tuq74uyfFamM8=
+
+Name: assets/HVGA/S/S19SC
+SHA1-Digest: fLc7n48vNRyJcPfJlyC0dHgHgXU=
+
+Name: assets/HVGA/A/A58A
+SHA1-Digest: i6vRPtLVq+i1pm9Yhc9qUauq+3g=
+
+Name: assets/HVGA/S/S12S
+SHA1-Digest: SSQtsIb5EEERZnj6u52pRb6ywcs=
+
+Name: assets/HVGA/S/S19SJ
+SHA1-Digest: DP6Uc4Oa5FGqDADonlh9TnZDYi4=
+
+Name: assets/HVGA/S/S25S
+SHA1-Digest: 9MbdY2vsIphBfIH+4u2wXWrGSU4=
+
+Name: assets/Default/S/S18SS
+SHA1-Digest: aYosJnTZdpcm7e8tZgDVXqhhfgU=
+
+Name: assets/HVGA/S/S19SG
+SHA1-Digest: F2DtgGmQPwSe5zpS8fS0fDIzraQ=
+
+Name: assets/Default/M/M22M
+SHA1-Digest: tyScFjaCxlDDCbUK4i9Pd4jAcCI=
+
+Name: assets/HVGA/A/A59A
+SHA1-Digest: 7kEapgzv0hP3r7cjUr8GFPbRIxw=
+
+Name: assets/Default/A/A27A
+SHA1-Digest: zHqZ+QI9aQMKiAp7SEZD425nR9c=
+
+Name: assets/HVGA/S/S22S
+SHA1-Digest: qML7Z+Cgjn4dsdnsMUXWFl1xuZw=
+
+Name: assets/HVGA/S/S11S
+SHA1-Digest: weDlIposK6yA6zlxhQLtGBKZPlE=
+
+Name: assets/HVGA/F/IdxF
+SHA1-Digest: s8eE5RBVN9hiYroKpIwt0RxqhTI=
+
+Name: assets/Default/M/M21M
+SHA1-Digest: mNo7JELL48HN01W+p8UweFs/Qjg=
+
+Name: assets/HVGA/S/S9SS
+SHA1-Digest: hWZrf+ukFGqiOxA/GJTP0fBH8xo=
+
+Name: assets/HVGA/S/S10S
+SHA1-Digest: WJGbiaWNnJPaOb0Pv8dCC0st8AA=
+
+Name: assets/Default/T/T11TS
+SHA1-Digest: 7kTks8Tg75NVaul8fqwdOD7Y/WI=
+
+Name: assets/Default/F/F0F
+SHA1-Digest: a2Nd5bZor4mPOuekxoT0CPacwLc=
+
+Name: assets/Default/A/A28A
+SHA1-Digest: vM6R/xKf8IKjBWRhZWCH+gdA7s0=
+
+Name: assets/Default/T/T11TJ
+SHA1-Digest: u0VJ3hizEmBeNTspNL6r6rchvyM=
+
+Name: assets/HVGA/S/S9SJ
+SHA1-Digest: vx+9rAWVtQNAR9eCQWgAotMWfdg=
+
+Name: assets/HVGA/S/S23S
+SHA1-Digest: NyZLhUXAHiWfy8jm3Kldbl6MyNs=
+
+Name: assets/HVGA/S/S9SG
+SHA1-Digest: x7VC/Mky5CsJldM0hpwevvuajCY=
+
+Name: assets/Default/T/T11TF
+SHA1-Digest: +7bpEtbv9hhVbsgsBLpHtlLfUSs=
+
+Name: assets/HVGA/S/S9SF
+SHA1-Digest: iL903czpNqSncg34VOan9ukqVvk=
+
+Name: assets/Default/T/T11TE
+SHA1-Digest: GPHRB+Hg4ol8PwIYluadQmZ+Jmg=
+
+Name: assets/Default/T/T11TG
+SHA1-Digest: T0KhQPD2SI9hkXjm71N6AsrjQjE=
+
+Name: assets/HVGA/S/S9SC
+SHA1-Digest: qo34UyF5MHQJ2YdLeyYab1r/cqM=
+
+Name: assets/Default/T/T11TC
+SHA1-Digest: qdOFC0Wd56TLCkS5wfiuNjajXyM=
+
+Name: assets/HVGA/S/S9SE
+SHA1-Digest: cmQ8omivwoxuRnTO9VBSgDeVQkQ=
+
+Name: assets/Default/T/T17TG
+SHA1-Digest: cT9/aexT/Vzxg5IjbtcvmINFS3A=
+
+Name: assets/Default/T/T17TJ
+SHA1-Digest: mpN70nBUX2VA7Huy0dMYSkkkZn4=
+
+Name: assets/Default/T/T17TC
+SHA1-Digest: CtJ1Od/CecJOqzen6K+dQfHVX5c=
+
+Name: assets/Default/T/T17TF
+SHA1-Digest: 8O8eLUyh8NqRn18FTuF2OZEl0cU=
+
+Name: assets/Default/T/T17TE
+SHA1-Digest: OdAcZwb5rCEPvHMJMNz7rshqwu8=
+
+Name: assets/Default/M/M20M
+SHA1-Digest: fVf7Nf/kUOCU8zlBbKcA4k5G6Wk=
+
+Name: assets/Default/I/I56I
+SHA1-Digest: y2pWwfUarA98GuPu5O0ACc4ekPk=
+
+Name: assets/HVGA/I/I123I
+SHA1-Digest: D1Ofvpyu/zIoFoBrnB9Wbe81SsA=
+
+Name: assets/Default/M/M9M
+SHA1-Digest: uhuYdjQsm9NHzxzDTKoId9SKQLc=
+
+Name: assets/HVGA/A/A16A
+SHA1-Digest: njjAiMg9cGL9Mg63FuLi7FM7tv4=
+
+Name: assets/HVGA/I/I122I
+SHA1-Digest: wK5ERCXd9Dz5kfFapRrgAGxNUIk=
+
+Name: assets/Default/B/B7B
+SHA1-Digest: I8oFD+akL9z8xiKcDlCC+3cQfUA=
+
+Name: assets/HVGA/A/A66A
+SHA1-Digest: HjATtocHOutcLjIP/T8DNB4ZkYY=
+
+Name: assets/HVGA/I/I98I
+SHA1-Digest: WVBHyUrLLH+Yh9VBks8Ov0AhvpM=
+
+Name: assets/HVGA/S/S21S
+SHA1-Digest: hhmirYs7PCxFJxpJdn9sgZ+Bsw4=
+
+Name: assets/Default/I/I55I
+SHA1-Digest: 6MwT+FCPiqZsRViCh8/kuQXRYMc=
+
+Name: assets/Default/W/W4W.ogg
+SHA1-Digest: yxFwMrwejg+40t/gg4OXmR6nLu8=
+
+Name: assets/Default/T/T7TE
+SHA1-Digest: n7roo8x9DOvw1pgfEG9UZDI73q8=
+
+Name: assets/Default/I/I57I
+SHA1-Digest: xqCOwT2VVUEZn/IGuP5Fx5kO5rA=
+
+Name: assets/Default/T/T7TG
+SHA1-Digest: +SMoJFkav3WemAJ1LkjOflTXeIA=
+
+Name: assets/Default/T/T7TF
+SHA1-Digest: AwWYxcgIgE4KhAhSNU/B4iliObk=
+
+Name: assets/Default/T/T7TJ
+SHA1-Digest: t9WoEFxqcD8aagoMB+h5Jkc5Src=
+
+Name: assets/HVGA/A/A15A
+SHA1-Digest: WuMn+phj0AOywKA9iSqUBunL6II=
+
+Name: assets/Default/T/T7TC
+SHA1-Digest: 8urWEA62Z0EA5GXa+tIocoFltQs=
+
+Name: assets/Default/W/W9W.ogg
+SHA1-Digest: +6M7lEL8BAZstVN7WQOzKBwpSEE=
+
+Name: assets/Default/B/B6B
+SHA1-Digest: DIi+6+9gMwridA//vvG09kO3JlI=
+
+Name: assets/HVGA/I/I121I
+SHA1-Digest: 7M0lDz5ZH3cnEFvjfdvUhWiwtRI=
+
+Name: assets/HVGA/A/A65A
+SHA1-Digest: x6NnRdaVWHvEA5fdrmJAFyL8jSo=
+
+Name: assets/HVGA/I/I97I
+SHA1-Digest: OVqmYp98HChn+3nUagZWKRZaA0E=
+
+Name: assets/HVGA/S/S20S
+SHA1-Digest: TBNj2xZ3wmHIt25WemdcL5Wj1ls=
+
+Name: assets/Default/T/T7TS
+SHA1-Digest: hp1i4QbXvCfLB1AMwEQrtG/yAOs=
+
+Name: assets/Default/I/I58I
+SHA1-Digest: 2BUCdQbkug0MebNdCxIdnUNlpw4=
+
+Name: assets/HVGA/A/A14A
+SHA1-Digest: GGHQNNTjPjoygsExoDpeR0Opm78=
+
+Name: assets/HVGA/I/I125I
+SHA1-Digest: B/kd2Xv7lCuvvwUsHn5V7XvWAPc=
+
+Name: assets/HVGA/F/F0F
+SHA1-Digest: a2Nd5bZor4mPOuekxoT0CPacwLc=
+
+Name: assets/HVGA/S/S9S
+SHA1-Digest: b00ZhBdP+h3YEWeDDn3RnHCyG50=
+
+Name: assets/Default/B/B5B
+SHA1-Digest: EDb35SuIUsV3+ZxOSb+IIs5UuJc=
+
+Name: assets/HVGA/A/A68A
+SHA1-Digest: 9bemQ0sM+HmodZVg0PqhxKa/eEI=
+
+Name: assets/Default/I/I59I
+SHA1-Digest: EcBPZJMq+VmMUjFtlBaVa03IATw=
+
+Name: assets/HVGA/U/U3US
+SHA1-Digest: 60tW1IjQp8R2eQFyOKFLJl2coxo=
+
+Name: assets/HVGA/A/A9A
+SHA1-Digest: 3y6SOxR5AI1jSOK+hsI1PACTIsw=
+
+Name: assets/HVGA/A/A13A
+SHA1-Digest: ZR71nYEtViXTmgZ7hccb/FruMIs=
+
+Name: assets/HVGA/I/I124I
+SHA1-Digest: ZTL+A9Bz3nzEP+f+xM13fOgr9aA=
+
+Name: assets/HVGA/A/A67A
+SHA1-Digest: GsxVikpbACdRFWiDwGt88mCPBqc=
+
+Name: assets/HVGA/U/U3UJ
+SHA1-Digest: 60tW1IjQp8R2eQFyOKFLJl2coxo=
+
+Name: assets/Default/P/IdxP
+SHA1-Digest: cbavI8xcvol06vXiLhLsFX6SMnw=
+
+Name: assets/HVGA/U/U3UC
+SHA1-Digest: XdIv/p8AiR5l5QhhttFL4U4/Dww=
+
+Name: assets/Default/A/A19A
+SHA1-Digest: 4uAKRi1ud3MNIZQAP83swHcRlO4=
+
+Name: assets/HVGA/O/IdxO
+SHA1-Digest: UAyY9z9R7cEctCHhPPO7Ylo8FHI=
+
+Name: assets/HVGA/U/U3UE
+SHA1-Digest: EnyfaqPD0c2mJ+DUhFT+NsZi1LY=
+
+Name: assets/HVGA/I/I99I
+SHA1-Digest: 2a7BVXnsTB/1FqmmnRYfvgq60YA=
+
+Name: assets/HVGA/U/U3UG
+SHA1-Digest: 60tW1IjQp8R2eQFyOKFLJl2coxo=
+
+Name: assets/HVGA/U/U3UF
+SHA1-Digest: 60tW1IjQp8R2eQFyOKFLJl2coxo=
+
+Name: assets/HVGA/S/S8S
+SHA1-Digest: gShqz6oWtVj87wMGcH7jx+F3RGo=
+
+Name: assets/Default/B/B4B
+SHA1-Digest: 5DkkEb3CluV2IAMe7ZdRSfDhQLY=
+
+Name: assets/Default/T/IdxTF
+SHA1-Digest: lobZqJUrzkFME5Lno8B2Z9BjkJY=
+
+Name: assets/Default/T/IdxTG
+SHA1-Digest: rV3qEcrthNjslSZG2f0wCW7bsKU=
+
+Name: assets/Default/T/IdxTE
+SHA1-Digest: hIJwkoHHvtnG6D4vVBCIeBiEy0g=
+
+Name: assets/Default/T/IdxTJ
+SHA1-Digest: RaS6dModgYz9uqbhQDED0dRzlBc=
+
+Name: assets/HVGA/I/I127I
+SHA1-Digest: PtdY4wppvqiaHrzbZu5GxzgS46Y=
+
+Name: assets/Default/W/W11W.ogg
+SHA1-Digest: pkcCbfLvYb2R+WS0RaszvmHJakc=
+
+Name: assets/Default/T/IdxTC
+SHA1-Digest: u6M2SaV3YmgAS6iKBnKMda8YT0I=
+
+Name: assets/Default/M/M5M
+SHA1-Digest: 54Mzem4ZxPLzLh78Nj6abq5LH+o=
+
+Name: assets/HVGA/A/A12A
+SHA1-Digest: wuRf+QaOOogvQuFWAtSufAIThwc=
+
+Name: assets/Default/T/T28TJ
+SHA1-Digest: UzaEnEK5GB0YPhEGJvJUlh4w6vc=
+
+Name: assets/Default/I/I51I
+SHA1-Digest: 1go2Cp4uz9KWsid1Vrf75sqAb2o=
+
+Name: assets/Default/T/T28TG
+SHA1-Digest: FGkxPvTaz0KQoHNNkOtjCNzw55c=
+
+Name: assets/HVGA/A/A62A
+SHA1-Digest: T3QuMUIH/fn045OcOD86Bw8ZBW0=
+
+Name: assets/Default/T/T28TF
+SHA1-Digest: OmkyLwC64ZTbfHuT+70hZg1d94g=
+
+Name: assets/Default/T/T28TE
+SHA1-Digest: xUuEqe5z5XUoAHvVGk8T6v+irjA=
+
+Name: assets/HVGA/S/S7S
+SHA1-Digest: 2Zs9wiwQihauwslyXHNjahc6fu8=
+
+Name: assets/Default/T/T28TC
+SHA1-Digest: cgl+GHRbWtUmkgEHywFBaRfuelM=
+
+Name: assets/Default/S/S20SF
+SHA1-Digest: KdCamYwmrQFnwGN/wdDKEE2QCyE=
+
+Name: assets/HVGA/I/I126I
+SHA1-Digest: PnR/R4QMKvHXdWJyog7PC+I+HhQ=
+
+Name: assets/HVGA/P/P0P
+SHA1-Digest: RgxE+XHg6sqCysRc0MwevESyxBA=
+
+Name: assets/Default/S/S20SG
+SHA1-Digest: raVAL1Lch1y9vjKw6RPMbQunQpg=
+
+Name: assets/Default/S/S20SE
+SHA1-Digest: nNQ7VOu2IR/AcVq5DFwUShJVuus=
+
+Name: assets/Default/S/S20SC
+SHA1-Digest: Z1engN2XpRRMx/muFtlPImQT94w=
+
+Name: assets/Default/T/T28TS
+SHA1-Digest: CXQeqJp9yRsD5+gFbZFVomyKvd8=
+
+Name: assets/Default/S/S28SS
+SHA1-Digest: E2DVjyW4ZvJQ7j6TPvX+9+hkyDQ=
+
+Name: assets/Default/M/M6M
+SHA1-Digest: Cj9v9bswAHrCitANBtOWQK9Pj8A=
+
+Name: assets/HVGA/A/A11A
+SHA1-Digest: VtxUgkVT7mnmVjfiSQqMm2qFmUg=
+
+Name: assets/Default/S/S20SS
+SHA1-Digest: CvaeMBtZDc/P6853WxV865OwJtU=
+
+Name: assets/Default/I/I52I
+SHA1-Digest: cLrhcjebzuvzjAuGXHZB6ccZRIg=
+
+Name: assets/HVGA/A/A61A
+SHA1-Digest: dvAcXBCo64XEi/PdLm73nvh+wlI=
+
+Name: assets/Default/S/S20SJ
+SHA1-Digest: idPLbUqjhURVSLm6q3tD/Fts0aU=
+
+Name: assets/HVGA/S/S6S
+SHA1-Digest: s9SzYL/7FAhG0zfdDsHr5fdJ+Z4=
+
+Name: assets/Default/T/IdxTS
+SHA1-Digest: rS7fSV6VDUoO3eKGiW8te9vvDmc=
+
+Name: assets/HVGA/I/I129I
+SHA1-Digest: 7eCAoTqL22zqZFpD5wBFAKQ0o4A=
+
+Name: assets/Default/M/M7M
+SHA1-Digest: dOJM6Y+9gU8/dBNRcD0wJIpMXk8=
+
+Name: assets/HVGA/A/A10A
+SHA1-Digest: AurJfPCvt2ovu62EfWgp6YxCIIc=
+
+Name: assets/Default/W/W8W.ogg
+SHA1-Digest: RnsVPO8Onwi/7Qe9o1hHf04EvJk=
+
+Name: assets/Default/I/I53I
+SHA1-Digest: iap1xygiBI7xvqPNaZoeyJaXs0c=
+
+Name: assets/Default/S/S28SJ
+SHA1-Digest: PpvYvIWNvgbvcsLd1GDJXwpVO5M=
+
+Name: assets/Default/B/B9B
+SHA1-Digest: iSrPEg4wj5TThcR0WozN73Aluh8=
+
+Name: assets/HVGA/A/A64A
+SHA1-Digest: MCoddGgDGqb/C3CfohLBCKoUQYg=
+
+Name: assets/HVGA/S/S5S
+SHA1-Digest: p4118Lp99D66GmoVqWl+yNeZLVQ=
+
+Name: assets/Default/S/S28SC
+SHA1-Digest: a/IDskRo7P5bNVhkLU5/ZiTpUGU=
+
+Name: assets/Default/S/S28SE
+SHA1-Digest: Z1T3hiXr3l3AzhJA48ZtdrYYNqE=
+
+Name: assets/Default/S/S28SG
+SHA1-Digest: rrVAUlG8tbwWFTrmzy2iwJj7Ko4=
+
+Name: assets/Default/S/S28SF
+SHA1-Digest: 3KkP6SYFPjhQtVWe2UhBUbATT5k=
+
+Name: assets/HVGA/S/S25SG
+SHA1-Digest: IVJ8WvlV6SFgipbnE19xU7IomXI=
+
+Name: assets/HVGA/S/S25SF
+SHA1-Digest: 9d81AojZulO7zzKk6oZNJl95I/k=
+
+Name: assets/HVGA/I/I128I
+SHA1-Digest: 99dLH4ZIxuO0ZLEdG480WpOJXP0=
+
+Name: assets/HVGA/S/S25SE
+SHA1-Digest: anNLzOm0SglkPrvZnWIzJjtdN74=
+
+Name: assets/Default/S/S24SS
+SHA1-Digest: 3g7sPxiHrQ3UzMktq28eJmlXegQ=
+
+Name: assets/HVGA/S/S25SJ
+SHA1-Digest: nUy11emLBPh0lFCchukfTsGx2QA=
+
+Name: assets/Default/M/M8M
+SHA1-Digest: yaS81R17biNQDvx2C5HbDrk9GvI=
+
+Name: assets/Default/S/S24SF
+SHA1-Digest: rEhbf7MODK4VDQHDv8uRNytYWQg=
+
+Name: assets/Default/S/S24SG
+SHA1-Digest: 4+dYbDhJWEjwBsk/UqLSuAstKfM=
+
+Name: assets/Default/S/S24SE
+SHA1-Digest: W40iY5nqrAAtd5qQ1paHAlY6ov4=
+
+Name: assets/Default/S/S24SJ
+SHA1-Digest: dp78QaoIGFJRc4dHhkSWnBZ4cjU=
+
+Name: assets/HVGA/S/S25SS
+SHA1-Digest: vVoxwJeIHD/9KGC9clafie1k8tQ=
+
+Name: assets/HVGA/T/T22TE
+SHA1-Digest: JQWbMU386hnLvXRaHyxHrs8d0J0=
+
+Name: assets/HVGA/S/IdxS
+SHA1-Digest: 1DRtQis9hD7sNfyhYWCZISjsfVQ=
+
+Name: assets/HVGA/T/T22TC
+SHA1-Digest: DW9lvfQaEg2D6UDeXGqeMcFleIA=
+
+Name: assets/Default/I/I54I
+SHA1-Digest: L2Dgq4KFS+igVss2hKlO51NPCq8=
+
+Name: assets/HVGA/T/T22TG
+SHA1-Digest: OJj9Pzo9VU4lQwZaJRaYwhL42a0=
+
+Name: assets/HVGA/T/T22TF
+SHA1-Digest: m+yvrMBE8N41HQK9Jb8IbQNPv/0=
+
+Name: assets/Default/S/S24SC
+SHA1-Digest: uzwBga11cqAfuJ8BFqdrBIIAUkU=
+
+Name: assets/HVGA/T/T22TJ
+SHA1-Digest: 5hvWbwYH2+iNkAnPUL7X56A+n60=
+
+Name: assets/Default/B/B8B
+SHA1-Digest: M/eLvfSZnMfgqYmDQqiUSlLdqzU=
+
+Name: assets/HVGA/S/S4S
+SHA1-Digest: 8hU/rKEJHZiCg7YCp66YqRlAne8=
+
+Name: assets/HVGA/A/A63A
+SHA1-Digest: uSCw5CN0Tb+a+LGnJ7tox6YvOo4=
+
+Name: assets/HVGA/S/S25SC
+SHA1-Digest: U2kSCUiEairXR9+IuZPSYmLOWk0=
+
+Name: assets/HVGA/T/T22TS
+SHA1-Digest: bJ0g/F/Eq6zfLfG++rao2X2rZow=
+
+Name: assets/Default/T/T33TG
+SHA1-Digest: RAiMoNmiL4bG2BhGk32ipzjals8=
+
+Name: assets/HVGA/O/O3OE
+SHA1-Digest: 92NNuHRXnU/axvCE/Y40vgwirq0=
+
+Name: assets/Default/T/T33TE
+SHA1-Digest: sEGoClsGRCBQBocOip0zjUjCHwk=
+
+Name: assets/HVGA/O/O3OG
+SHA1-Digest: Og5J8eHO7k7Ix5/Yi10qCRPn7YI=
+
+Name: assets/Default/T/T33TF
+SHA1-Digest: jBTkRAYNfThSPFPzxJnqAvWQxfw=
+
+Name: assets/HVGA/O/O3OF
+SHA1-Digest: QRjZJJKeUi4hcxWa4BBtJ3dUrIA=
+
+Name: assets/HVGA/I/I90I
+SHA1-Digest: 30D8ZtattmWrq11V+2HbnEYRrjY=
+
+Name: assets/Default/U/IdxUC
+SHA1-Digest: EOUaUaShZS5eutDxjF0E5luhW0k=
+
+Name: assets/HVGA/O/O3OC
+SHA1-Digest: 5oLKQTvsB690VAaiD9kt0DpJQBw=
+
+Name: assets/Default/T/T33TJ
+SHA1-Digest: g8gS0GHamfyMUwsLIcqo85YbAnU=
+
+Name: assets/Default/U/IdxUF
+SHA1-Digest: DxzdnHSzrf+GD18+1s/4PpDdqlw=
+
+Name: assets/Default/W/W18W.ogg
+SHA1-Digest: q7Krp5hEAmYyMAyv8QKk74gGckk=
+
+Name: assets/Default/U/IdxUG
+SHA1-Digest: m0YxbPA5z2C0zo3ilaupeYMclXE=
+
+Name: assets/Default/U/IdxUE
+SHA1-Digest: pOg3t7VWUtaXqPxp9Tfpcnv1XVQ=
+
+Name: assets/Default/T/T33TS
+SHA1-Digest: yJz3iaCgwmCR/Fi9a0Kka7bzSDs=
+
+Name: assets/Default/U/IdxUJ
+SHA1-Digest: 0r/K+vxX837CZD3V9u9Th1l3Xuk=
+
+Name: assets/HVGA/U/IdxU
+SHA1-Digest: c2lP988u+4vw0eEhiRuCj+SSaKs=
+
+Name: assets/HVGA/O/O3OJ
+SHA1-Digest: sUXGSxxhmIMpQansjk/aRl6joW8=
+
+Name: assets/Default/O/O1OG
+SHA1-Digest: mXdoPBWCyt3wOc8J4bQu/Qzx4DE=
+
+Name: assets/Default/O/O1OJ
+SHA1-Digest: aE4QnVviw7CYrd2CKxJJb9s5j48=
+
+Name: assets/Default/W/W15W.ogg
+SHA1-Digest: cH/js7ew51xwXC3q0P4klMfCEcA=
+
+Name: assets/HVGA/M/M37M
+SHA1-Digest: pg15ALEqH6SQOInXuAqkv+Yvuw0=
+
+Name: assets/Default/O/O1OC
+SHA1-Digest: t4Yp2lsB1gWpcwA7zJXAs218Nek=
+
+Name: assets/Default/O/O1OF
+SHA1-Digest: nlxntZf61P9kT/A0t8MrA6YrY8o=
+
+Name: assets/Default/A/A64A
+SHA1-Digest: MCoddGgDGqb/C3CfohLBCKoUQYg=
+
+Name: assets/Default/O/O1OE
+SHA1-Digest: kXSs14E+dFJJMcSdHW6UiXK80oU=
+
+Name: assets/HVGA/T/T19TS
+SHA1-Digest: eTyrtglNNrwZsRQR6BWlaObS60w=
+
+Name: assets/Default/I/I131I
+SHA1-Digest: wr/efnW3iSfs9TRNf/ztoNnjp60=
+
+Name: assets/Default/T/T33TC
+SHA1-Digest: skg+LL+Rvlf4ibImjGGEhnEcKBs=
+
+Name: assets/Default/R/R2RC
+SHA1-Digest: tQynL6DAZ+vbwwMQ+zVstNdDELs=
+
+Name: assets/Default/R/R2RF
+SHA1-Digest: a6vBEiOOQInfElmz9YVbb+i7cYM=
+
+Name: assets/HVGA/T/T19TJ
+SHA1-Digest: T4hzx7LZqRGrdhL9xtSa1oD3Oxg=
+
+Name: assets/Default/R/R2RE
+SHA1-Digest: bE8Fw0j3W31fNGYue0QXqTPS1ZU=
+
+Name: assets/Default/R/R2RG
+SHA1-Digest: ZkXDN4v5A6FyZeq67RBSWM01914=
+
+Name: assets/HVGA/T/T19TG
+SHA1-Digest: zsSF9c14lpJEqNPVSp/bsJhfCEg=
+
+Name: assets/Default/R/R2RJ
+SHA1-Digest: yH0rU5KO+okEu8NMgFzIIAwsedE=
+
+Name: assets/Default/O/O1OS
+SHA1-Digest: 84dGYNSipxmQK3joOXgw6k6xDkE=
+
+Name: assets/HVGA/T/T19TF
+SHA1-Digest: Sa0wc3c/D5LNF4VNGgtibs9h4C0=
+
+Name: assets/HVGA/T/T19TE
+SHA1-Digest: QnEVO90/epCgogMNFltQAJIGC/k=
+
+Name: assets/HVGA/T/T19TC
+SHA1-Digest: LRpmK8rumwnqyiCbyD2K/JtVrVs=
+
+Name: assets/Default/R/R2RS
+SHA1-Digest: w6R7aMIA1UnvPz97/C/7yQCwpTI=
+
+Name: assets/Default/A/A63A
+SHA1-Digest: uSCw5CN0Tb+a+LGnJ7tox6YvOo4=
+
+Name: assets/HVGA/M/M36M
+SHA1-Digest: 0dZuB8ff9UNKuo8vdfBCEbc9hV0=
+
+Name: assets/HVGA/O/O3OS
+SHA1-Digest: pMTdEAnoF5su/f8EAiEKrpX0vpE=
+
+Name: assets/HVGA/I/I50I
+SHA1-Digest: liLYwncAUg/ekVk4RIN/iI58vYM=
+
+Name: assets/Default/I/I130I
+SHA1-Digest: 4IWMU3tZI3xByt0MY7DgksayOUw=
+
+Name: assets/HVGA/I/I92I
+SHA1-Digest: S4FElNRXU3KWyNqcHONn8/aLpiY=
+
+Name: assets/HVGA/T/T11TS
+SHA1-Digest: HxZ3Hu/ejJRss3bAIhATZRMc9S0=
+
+Name: assets/HVGA/A/A60A
+SHA1-Digest: 9Gc5IJTPqoTdcTaChS097FnTH9A=
+
+Name: assets/HVGA/T/T11TG
+SHA1-Digest: kFGBA4DdfRCYBRLNQ/RvTBuHTgE=
+
+Name: assets/HVGA/T/T11TF
+SHA1-Digest: xJozyNbruExcKLrz78SydwdwP5Y=
+
+Name: assets/HVGA/T/T11TJ
+SHA1-Digest: NUtWGSOvUAnkeQ6xc6mGZTRr2LA=
+
+Name: assets/Default/W/W10W.ogg
+SHA1-Digest: CAyLmzVHProTy5I817DkaoNTbNI=
+
+Name: assets/Default/S/S13SC
+SHA1-Digest: AW/L6ryF7wPWjrfOIBZpLFKlh8A=
+
+Name: assets/Default/S/S13SE
+SHA1-Digest: JXNGN5RaO8iXXGrS9spcm0wWRjI=
+
+Name: assets/Default/A/A66A
+SHA1-Digest: HjATtocHOutcLjIP/T8DNB4ZkYY=
+
+Name: assets/Default/S/S13SF
+SHA1-Digest: YN83nkuReei5E6kCotgSPQHn9RU=
+
+Name: assets/HVGA/M/M35M
+SHA1-Digest: Oavhsmnn8QeE2Vw+yL9SwvnJ6CQ=
+
+Name: assets/Default/S/S17SS
+SHA1-Digest: 4YJqf/npUmv5/Wy1r1NRCftG5Os=
+
+Name: assets/Default/S/S13SG
+SHA1-Digest: Bsp7POBFhUijTUq7HCFCVN0GsRU=
+
+Name: assets/HVGA/T/T11TC
+SHA1-Digest: Cp05kLMXAWKlBIDcmNHqsBfPIYM=
+
+Name: assets/Default/S/S13SJ
+SHA1-Digest: gyoV4i5kOLYs5TFwL/7brl/QSVs=
+
+Name: assets/HVGA/T/T11TE
+SHA1-Digest: YAqt5VfVRVukJ1FozFLuEPe6dCM=
+
+Name: assets/HVGA/I/I51I
+SHA1-Digest: 1go2Cp4uz9KWsid1Vrf75sqAb2o=
+
+Name: assets/Default/S/S13SS
+SHA1-Digest: c3AxAUAwp5nIUSInQOk/gAgf8CQ=
+
+Name: assets/Default/S/S17SC
+SHA1-Digest: 6uNq5Z6DfkGc6sYuc2YUrY5T7PI=
+
+Name: assets/HVGA/I/I91I
+SHA1-Digest: 5kZODL1I32wrt455HhtOm/LQGA8=
+
+Name: assets/Default/S/S17SG
+SHA1-Digest: TgFr9mCvB6wcGmwOefojA84sM74=
+
+Name: assets/Default/S/S17SF
+SHA1-Digest: BA4nmMsPnMnDscHXDY3OlA++sf0=
+
+Name: assets/Default/S/S17SE
+SHA1-Digest: i5THZJTOU1YZh23FSOa1CG3h7Mw=
+
+Name: assets/Default/S/S17SJ
+SHA1-Digest: 1DMY8IQBq7k/O2wkJ51zLBMo1s4=
+
+Name: assets/Default/A/A65A
+SHA1-Digest: x6NnRdaVWHvEA5fdrmJAFyL8jSo=
+
+Name: assets/Default/U/IdxUS
+SHA1-Digest: 6f7PXMZRRPj1KF4+vDZ8kvXOQbs=
+
+Name: assets/Default/W/W2W.ogg
+SHA1-Digest: YZWzptWH0F+5VClfL2yQrRWCwXU=
+
+Name: assets/HVGA/M/M34M
+SHA1-Digest: y2Enan4NyySit2Kf7uwuXntVabg=
+
+Name: assets/HVGA/I/I52I
+SHA1-Digest: cLrhcjebzuvzjAuGXHZB6ccZRIg=
+
+Name: assets/HVGA/S/S5SG
+SHA1-Digest: +uuezb4metqdvDLInM/thheo3fo=
+
+Name: assets/HVGA/I/I94I
+SHA1-Digest: 1ApW9FjNOAHv0xaNUyeYnk2Q3EU=
+
+Name: assets/HVGA/S/S5SF
+SHA1-Digest: h+FlVfMW54Q2Bh/15Yeb0lEeffo=
+
+Name: assets/HVGA/S/S5SC
+SHA1-Digest: krFSOxdKDfzY8u9lQTM2MvKRats=
+
+Name: assets/Default/T/T22TC
+SHA1-Digest: sGb4xEGxfUY4/Ecgi09h3C/9gls=
+
+Name: assets/HVGA/S/S5SE
+SHA1-Digest: ugV77OC84koXq0Tv2Wc6UlVXm3M=
+
+Name: assets/Default/S/S3SS
+SHA1-Digest: 9//Clh/VbfxCzbkfYPibLGuEHzc=
+
+Name: assets/Default/M/M63M
+SHA1-Digest: Q7rbsIp6Z/3Kn0fLIR7nmZz+zIQ=
+
+Name: assets/Default/A/A68A
+SHA1-Digest: 9bemQ0sM+HmodZVg0PqhxKa/eEI=
+
+Name: assets/Default/M/M62M
+SHA1-Digest: 8M3/4Bd3YnSR4u2+y3CFqryxDLE=
+
+Name: assets/HVGA/I/I53I
+SHA1-Digest: iap1xygiBI7xvqPNaZoeyJaXs0c=
+
+Name: assets/HVGA/S/S5SS
+SHA1-Digest: l4TIMfqjZFn/ZozqknWSdJ7/DKI=
+
+Name: assets/Default/S/S3SC
+SHA1-Digest: XVIyAIFitT3Fk9pJgpGKAc/rQmg=
+
+Name: assets/Default/T/T22TS
+SHA1-Digest: xVfMSpFlwruDi0VMTqIKj2SGyVE=
+
+Name: assets/Default/T/T22TF
+SHA1-Digest: bXdVyAokffjzvWn8EJ4V38dOjQw=
+
+Name: assets/Default/S/S3SE
+SHA1-Digest: PChfr99swHROkJvkCDB5dDlEqxI=
+
+Name: assets/Default/T/T22TE
+SHA1-Digest: KQhnXpVOfp0gqOcd0q+/PNKrKAI=
+
+Name: assets/Default/S/S3SF
+SHA1-Digest: 8NxE4OWL6ZcA141w5LBIEDhLMXU=
+
+Name: assets/Default/S/S3SG
+SHA1-Digest: B+SrlhUt97KHP1MqEU9g9492FAQ=
+
+Name: assets/Default/T/T22TG
+SHA1-Digest: 9YPpkCwc1joNwAPntlmoMcGfRWg=
+
+Name: assets/Default/T/T22TJ
+SHA1-Digest: LpMUSvGnca8hZ0XIhyq3ZZ4sDRY=
+
+Name: assets/HVGA/S/S5SJ
+SHA1-Digest: 63/FeiQWXDRUA0xPlNi55RCDXBA=
+
+Name: assets/Default/S/S3SJ
+SHA1-Digest: qPrbdYeqIhR9YP6jHXB9/pUhVrk=
+
+Name: assets/HVGA/S/IdxSS
+SHA1-Digest: 15PuSjdSWCB+LGYnsdjbZ2RatM0=
+
+Name: assets/HVGA/S/IdxSE
+SHA1-Digest: OZxPvnf6spc9i+BP9y3gJdFrRZU=
+
+Name: assets/HVGA/S/IdxSF
+SHA1-Digest: /phyVSgQEHUltF6U3O0kpkwpn+o=
+
+Name: assets/HVGA/I/I93I
+SHA1-Digest: FQ+P/FXk0zO6mdjIUrkVyb3NrRA=
+
+Name: assets/HVGA/S/IdxSG
+SHA1-Digest: ypqzJGxP8HFxW29vIYK2/m2rLow=
+
+Name: assets/HVGA/S/IdxSJ
+SHA1-Digest: /MKQ9syNwkft61MPExkvbRCGPn8=
+
+Name: assets/HVGA/S/IdxSC
+SHA1-Digest: F5QLNIKtPr6+HBFuCKbNLpX+wsI=
+
+Name: assets/Default/A/A67A
+SHA1-Digest: GsxVikpbACdRFWiDwGt88mCPBqc=
+
+Name: assets/Default/M/M61M
+SHA1-Digest: RRu48WtuW7FLcpagZ/2scUVetow=
+
+Name: assets/HVGA/I/I54I
+SHA1-Digest: L2Dgq4KFS+igVss2hKlO51NPCq8=
+
+Name: assets/Default/I/I99I
+SHA1-Digest: 2a7BVXnsTB/1FqmmnRYfvgq60YA=
+
+Name: assets/HVGA/A/A19A
+SHA1-Digest: 4uAKRi1ud3MNIZQAP83swHcRlO4=
+
+Name: assets/HVGA/I/I96I
+SHA1-Digest: c9q42w383kPUneW+U7Uio81Oyos=
+
+Name: assets/HVGA/I/I120I
+SHA1-Digest: oIl1UjHvx9diXWTHlVlt3IDQRxY=
+
+Name: assets/HVGA/S/S15SJ
+SHA1-Digest: dKXBPz05IXESG+YNRjf/ndezw64=
+
+Name: assets/HVGA/A/A18A
+SHA1-Digest: 4KKbG6r/m99wX1Z5zJhQn/GPacY=
+
+Name: assets/HVGA/S/S15SG
+SHA1-Digest: pin75qVeQyiE9LCzU4jMDcd8P8A=
+
+Name: assets/HVGA/I/I55I
+SHA1-Digest: 6MwT+FCPiqZsRViCh8/kuQXRYMc=
+
+Name: assets/Default/M/M60M
+SHA1-Digest: YPlLSKfoDJKACF1Fvmq9KtC5kOg=
+
+Name: assets/HVGA/S/S15SE
+SHA1-Digest: TcyADn8JgmZj6r+JTS5NamivYgA=
+
+Name: assets/HVGA/S/S15SF
+SHA1-Digest: dghFFoWJA5IeSPoP4ggsQ7xxj5M=
+
+Name: assets/HVGA/S/S15SC
+SHA1-Digest: SsWeqsSk0rJVf+rNblHbtlylBRc=
+
+Name: assets/HVGA/M/M39M
+SHA1-Digest: juDjl9hyVWyGllso3DiTEszNlRI=
+
+Name: assets/Default/W/W13W.ogg
+SHA1-Digest: 6tTVliBYkEdRlX/mcsN2qmgIDPg=
+
+Name: assets/HVGA/I/I95I
+SHA1-Digest: PdnkMwqQ1hqwsDG+Ma2wiJIVW5A=
+
+Name: assets/HVGA/T/T33TS
+SHA1-Digest: SQT2nE1+xJjaisorWqbEA0/Ancg=
+
+Name: assets/HVGA/T/T33TF
+SHA1-Digest: UWz37ar+4Ii5k8P6QMRD7Dj18qU=
+
+Name: assets/HVGA/V/IdxV
+SHA1-Digest: UAzl7b2jJPmjhfBqJAlM7oc7zwc=
+
+Name: assets/HVGA/T/T33TG
+SHA1-Digest: 4YuQnBF5d3qXcpg8E0uaugk8stU=
+
+Name: assets/HVGA/T/T33TJ
+SHA1-Digest: nZSgQ5KovfjqH1BWAdLgBm0mmwE=
+
+Name: assets/HVGA/I/I57I
+SHA1-Digest: xqCOwT2VVUEZn/IGuP5Fx5kO5rA=
+
+Name: assets/HVGA/I/I56I
+SHA1-Digest: y2pWwfUarA98GuPu5O0ACc4ekPk=
+
+Name: assets/HVGA/A/A17A
+SHA1-Digest: dI7WR5bkScmGh6sm+wLC4hQNhwM=
+
+Name: assets/HVGA/T/T33TC
+SHA1-Digest: hEa7QG99Y+wPWG8Qp41joeN/8hw=
+
+Name: assets/HVGA/T/T33TE
+SHA1-Digest: L7VqQ4OU03K/nwSSG8KphMzeoZw=
+
+Name: assets/Default/A/A69A
+SHA1-Digest: Uo/377gwfWSuahV9vwgvD2L1TS8=
+
+Name: assets/HVGA/M/M38M
+SHA1-Digest: H3idEXPIzIzf8Uf7o6e8oBJSKdU=
+
+Name: assets/HVGA/T/T18TG
+SHA1-Digest: c+lqwpWLy6cxXrSQ7ykAYsy5JYY=
+
+Name: assets/Default/A/A55A
+SHA1-Digest: VerN+ZT6rCuVb9yVtvy6WJ3Z94w=
+
+Name: assets/Default/M/M32M
+SHA1-Digest: zjMo+tXSPPO57pCWMR70t07PgPs=
+
+Name: assets/HVGA/M/M58M
+SHA1-Digest: XXTLsAgJzqO7mVQ1FSAU2vYSeHo=
+
+Name: assets/HVGA/T/T18TJ
+SHA1-Digest: hYqOx1YFx2L6Js8/GsNwBZad0ig=
+
+Name: assets/HVGA/T/T18TC
+SHA1-Digest: UyUwCZ/KeV5mlCxKxC46+LF/SoA=
+
+Name: assets/HVGA/T/T18TE
+SHA1-Digest: CDiGs4Moq2nxccoQ/lcmZ2zo7K0=
+
+Name: assets/HVGA/I/I15I
+SHA1-Digest: y1+ShSEdDFuhh5U4seQkr12h2Y0=
+
+Name: assets/HVGA/T/T18TF
+SHA1-Digest: NnaF5ZgiYNA7pwdTxZAAxPUiTaQ=
+
+Name: assets/HVGA/T/T14TS
+SHA1-Digest: NBNseDBIoWTZeWrApWbJnMrqCGk=
+
+Name: assets/Default/A/A97A
+SHA1-Digest: Zq6cxTi7iHD2k7KtVDd0LHdR3l4=
+
+Name: assets/HVGA/I/I4I
+SHA1-Digest: sJrVCkWvbz8gWug3pV6yOw3xs7o=
+
+Name: assets/HVGA/T/T12T
+SHA1-Digest: lpdCGI0dCcdQaFcobO+j7stgXFE=
+
+Name: assets/Default/A/A16A
+SHA1-Digest: njjAiMg9cGL9Mg63FuLi7FM7tv4=
+
+Name: assets/Default/M/M33M
+SHA1-Digest: yTCZB5RXx5LjEdDR3B0WcYE8We0=
+
+Name: assets/HVGA/M/M59M
+SHA1-Digest: NkXXyypuk1bctOziGqmA9pDftXI=
+
+Name: assets/Default/A/A56A
+SHA1-Digest: LAVCuEo4PfIZ25KkhLnDa9ysjBc=
+
+Name: assets/Default/I/I0I
+SHA1-Digest: EnoiBAcQDsmWaDzleDKjULISAKs=
+
+Name: assets/HVGA/I/I14I
+SHA1-Digest: 6MU9h0y9POMrw0XSf3dqxmUErD0=
+
+Name: assets/HVGA/M/M30M
+SHA1-Digest: sAfm0SMbzzeuCbV2jeglxnlpyi4=
+
+Name: assets/HVGA/M/M31M
+SHA1-Digest: yy39RvV58Cm7ZgIeLw9f6oFefj0=
+
+Name: assets/Default/T/T18TS
+SHA1-Digest: fV662sVa5FuM0Aiu5ySRiLd11nc=
+
+Name: assets/Default/A/A98A
+SHA1-Digest: I28KGVoOxvON3VtO0XWtWvKXqQY=
+
+Name: assets/HVGA/T/T14TJ
+SHA1-Digest: cYZBw3UGb1O6xty/OGS937ovU1Q=
+
+Name: assets/HVGA/I/I3I
+SHA1-Digest: cJmy9bEjh9h4npXfx23Y42TW8hg=
+
+Name: assets/Default/A/A15A
+SHA1-Digest: WuMn+phj0AOywKA9iSqUBunL6II=
+
+Name: assets/HVGA/T/T18TS
+SHA1-Digest: UbOSLL+S5lpMHzJzGbeX9svrGzg=
+
+Name: assets/HVGA/T/T14TG
+SHA1-Digest: Ok0wKrFHHTDWnUPh5IMk6SgGlJo=
+
+Name: assets/HVGA/T/T14TF
+SHA1-Digest: sitDcQCQByYV2jRhynVmbY3LrUI=
+
+Name: assets/HVGA/T/T14TE
+SHA1-Digest: SbI/KBQIdUv7lTfSb0KRXy2V2E0=
+
+Name: assets/HVGA/T/T14TC
+SHA1-Digest: EY/2difhgT/ZHyjMcbTisOcQ2Pw=
+
+Name: assets/HVGA/T/T13T
+SHA1-Digest: +u4leWpb0StKDXgT9g/j50EF770=
+
+Name: assets/HVGA/I/I1I
+SHA1-Digest: JqCVTBmYCihz5nYMxp+k7+f3rvg=
+
+Name: assets/HVGA/I/I39I
+SHA1-Digest: dghzWHWbYUBfDiwPEq4mBXi5J9E=
+
+Name: assets/Default/M/M34M
+SHA1-Digest: y2Enan4NyySit2Kf7uwuXntVabg=
+
+Name: assets/Default/T/T18TC
+SHA1-Digest: OyJR+e/idoKDjbEBxWPCbBO2F9M=
+
+Name: assets/Default/U/U2US
+SHA1-Digest: VY/qFm2Ufq4PHz9KXTum4e2wLd8=
+
+Name: assets/Default/T/T18TE
+SHA1-Digest: kRDbRIB1koZK+5nnv07rwlqcjn0=
+
+Name: assets/Default/T/T18TF
+SHA1-Digest: 4LjSeqybq86qczhzz0IeBb3bPY4=
+
+Name: assets/Default/U/U2UE
+SHA1-Digest: iPj+CApNnvyTYU4HUXoz/r4lr7w=
+
+Name: assets/HVGA/I/I17I
+SHA1-Digest: gw9Rw3roYLgALd00bcUP2NqlIt0=
+
+Name: assets/Default/T/T18TG
+SHA1-Digest: PxzvEkwrwrDC7YySjIwry/sTuH0=
+
+Name: assets/Default/U/U2UG
+SHA1-Digest: gwYLhaN0hRNDVpYVzMCLAIQBvLg=
+
+Name: assets/Default/U/U2UF
+SHA1-Digest: Ne+DTpk+FrTT5bAsfX3FusJ9L7I=
+
+Name: assets/Default/T/T18TJ
+SHA1-Digest: nT4NkN/Ce0gclqGPVBjhFBKfJlY=
+
+Name: assets/Default/A/A57A
+SHA1-Digest: LQptqDeqJ92Q1YOJRiMFlL8UJoc=
+
+Name: assets/Default/U/U2UJ
+SHA1-Digest: 8F99tktWlsNy+KKxRX89FGF+d/s=
+
+Name: assets/Default/A/A95A
+SHA1-Digest: RmeWEGvv4SV7v2cdLP6q+1bIsBM=
+
+Name: lib/armeabi-v7a/libdhunter.so
+SHA1-Digest: eT32JDs9bjdts6xEi0OXnappDCw=
+
+Name: assets/HVGA/M/M32M
+SHA1-Digest: zjMo+tXSPPO57pCWMR70t07PgPs=
+
+Name: assets/Default/A/A18A
+SHA1-Digest: 4KKbG6r/m99wX1Z5zJhQn/GPacY=
+
+Name: assets/HVGA/T/T10T
+SHA1-Digest: nrw1QK+pLyVXHE8mCkTfhhcETYo=
+
+Name: assets/HVGA/I/I2I
+SHA1-Digest: COGjKzWkaYKN9qwx4OX1CV9X3ho=
+
+Name: assets/HVGA/I/I0I
+SHA1-Digest: EnoiBAcQDsmWaDzleDKjULISAKs=
+
+Name: assets/HVGA/I/I38I
+SHA1-Digest: 6cQ02MiG9QW+Q1TEQTPp0bdQRaQ=
+
+Name: assets/Default/M/M35M
+SHA1-Digest: Oavhsmnn8QeE2Vw+yL9SwvnJ6CQ=
+
+Name: assets/Default/S/S10SE
+SHA1-Digest: i1wn8AquIbfc10u4lO7/PH/9bRs=
+
+Name: assets/Default/S/S10SF
+SHA1-Digest: tLTKDLL46NtC4l0y0MLfYWCpriY=
+
+Name: assets/HVGA/I/I16I
+SHA1-Digest: lieytKOFlc4pJGQsiBCcQLMl7EY=
+
+Name: assets/Default/S/S10SC
+SHA1-Digest: lzXSaVdrLgkUEPH4yWyLqZW0xM4=
+
+Name: assets/Default/A/A58A
+SHA1-Digest: i6vRPtLVq+i1pm9Yhc9qUauq+3g=
+
+Name: assets/Default/S/S10SJ
+SHA1-Digest: 3qNAgH1yyHEZyrdDX9pD4Kotkgc=
+
+Name: assets/Default/A/A96A
+SHA1-Digest: ujar0X3+5qf3oLhXeNxvDp+m4xg=
+
+Name: assets/Default/S/S10SG
+SHA1-Digest: DPStJEVT+aYUp/rpD5SW6BzQBJI=
+
+Name: assets/HVGA/M/M33M
+SHA1-Digest: yTCZB5RXx5LjEdDR3B0WcYE8We0=
+
+Name: assets/Default/A/A17A
+SHA1-Digest: dI7WR5bkScmGh6sm+wLC4hQNhwM=
+
+Name: assets/HVGA/T/T11T
+SHA1-Digest: alz4uZmRxLuHV64BGhhNUYwsbeA=
+
+Name: assets/Default/S/S10SS
+SHA1-Digest: 0MGFA6C2m4qiMU17FLVZV8o+/vY=
+
+Name: assets/HVGA/T/T8TC
+SHA1-Digest: ZY/HGQ85aBU0m5LKNltUgzBHxrc=
+
+Name: assets/Default/A/A51A
+SHA1-Digest: XHLKdDvQE+9xuiE9v5hna6q22nU=
+
+Name: assets/HVGA/T/T8TE
+SHA1-Digest: UfbXmBoWqGaA/4WlWR3H1YF79sU=
+
+Name: assets/HVGA/I/I37I
+SHA1-Digest: V/Cr1bI4GROizAv/asQQMa/lvYQ=
+
+Name: assets/HVGA/T/T8TG
+SHA1-Digest: PTjOjSGYVhetbXNm19k2L1g1zm8=
+
+Name: assets/HVGA/T/T8TF
+SHA1-Digest: sXBltk33vbywUtxEQ+vQr7nvWvw=
+
+Name: assets/Default/I/I39I
+SHA1-Digest: dghzWHWbYUBfDiwPEq4mBXi5J9E=
+
+Name: assets/HVGA/T/T8TJ
+SHA1-Digest: 6VQPIoR8zNNzJ9JWQ36KU5XLUv0=
+
+Name: assets/HVGA/T/T29TF
+SHA1-Digest: NB4s2/HZ+kgId8Qv0xmTXy6ST3g=
+
+Name: assets/HVGA/T/T29TE
+SHA1-Digest: a6+Gk8URduSznuHUBpWdBXt2hB8=
+
+Name: assets/HVGA/T/T16T
+SHA1-Digest: prG6bvppr1nNdzroBZO3ZiNH1dc=
+
+Name: assets/Default/I/I100I
+SHA1-Digest: xS+4iwTBuvycMKaD6z+yBIEGNm8=
+
+Name: assets/Default/A/A12A
+SHA1-Digest: wuRf+QaOOogvQuFWAtSufAIThwc=
+
+Name: assets/HVGA/T/T29TC
+SHA1-Digest: eLlL6/fhoOhCivQ0Et9q1qwRqpg=
+
+Name: assets/HVGA/S/S30SJ
+SHA1-Digest: qtiHVPbuRLe1ymogmP+Ca11Sejs=
+
+Name: assets/Default/S/S23S
+SHA1-Digest: NyZLhUXAHiWfy8jm3Kldbl6MyNs=
+
+Name: assets/HVGA/I/I8I
+SHA1-Digest: 1SR5AL3ssj3GrpghbdB6xcgsNZ0=
+
+Name: assets/HVGA/S/S27SS
+SHA1-Digest: jB/+ebAFsirLBS8FCNTIOtDDy98=
+
+Name: assets/HVGA/T/T8TS
+SHA1-Digest: JxjB0g6xeGDD7UdFrxRnQAC+Wvw=
+
+Name: assets/Default/A/A93A
+SHA1-Digest: bwDZg3au1vPk78ZRK41DcoPp0pw=
+
+Name: assets/HVGA/T/T29TJ
+SHA1-Digest: bzvYoSUpLyCoGHRHeUoGsWf3DEY=
+
+Name: assets/Default/I/I4I
+SHA1-Digest: sJrVCkWvbz8gWug3pV6yOw3xs7o=
+
+Name: assets/HVGA/I/I10I
+SHA1-Digest: Vadkss/n73ScvL/CyfL8GZ8PgAQ=
+
+Name: assets/HVGA/T/T29TG
+SHA1-Digest: 32DxDxuwNtsvW5/BjWg4hfVl7t4=
+
+Name: assets/HVGA/S/S27SG
+SHA1-Digest: OhZI3EewmyKpa9DUKk+6Wlzz90s=
+
+Name: assets/HVGA/S/S27SF
+SHA1-Digest: jZMGDepDhFdke4R1bvtdGwKE3JQ=
+
+Name: assets/HVGA/S/S27SC
+SHA1-Digest: tm1gHmsFbKYU3encvtRnSwHXm3I=
+
+Name: assets/HVGA/S/S27SE
+SHA1-Digest: +zAl7PF4btDEcg31l78GYbMjpzQ=
+
+Name: assets/HVGA/T/T20TE
+SHA1-Digest: sl5zrmj3rTYrSoWr1JA2YTcfl+0=
+
+Name: assets/HVGA/T/T20TF
+SHA1-Digest: NQfUQKZ4rUuMKIE9pkdDGQk2LwI=
+
+Name: assets/HVGA/I/I36I
+SHA1-Digest: ZBDJmmSJizKA+XNmdUUc5RKBvPM=
+
+Name: assets/HVGA/T/T20TG
+SHA1-Digest: HZdQTdz00669woDtpf2uhiuJpzc=
+
+Name: assets/Default/I/I102I
+SHA1-Digest: oz/CuVMFJdqEJjw1tYuZ3EyoxSQ=
+
+Name: assets/Default/A/A52A
+SHA1-Digest: ZCNtZbRejBNb0rovVfX2q7sMhzk=
+
+Name: assets/Default/I/I38I
+SHA1-Digest: 6cQ02MiG9QW+Q1TEQTPp0bdQRaQ=
+
+Name: assets/HVGA/S/S27SJ
+SHA1-Digest: g+JQuRK6b++hhogJY9XWWEeQByo=
+
+Name: assets/HVGA/T/T20TC
+SHA1-Digest: qSXtg+YFvF2jPf3rNVm2Wrg3FZs=
+
+Name: assets/HVGA/T/T17T
+SHA1-Digest: Kx67YPehvvsWWFbSEo153L1wzWM=
+
+Name: assets/Default/I/I101I
+SHA1-Digest: g7pLBJOllvMxYsrAe9YSWeRCXvg=
+
+Name: assets/Default/S/S22S
+SHA1-Digest: qML7Z+Cgjn4dsdnsMUXWFl1xuZw=
+
+Name: assets/HVGA/I/I7I
+SHA1-Digest: KpCmr39/b66IFWpo/kpy7AE5b3M=
+
+Name: assets/HVGA/T/T20TJ
+SHA1-Digest: jyFWQD1RRaRHZ6PA9mZW2g4OYoY=
+
+Name: assets/Default/A/A94A
+SHA1-Digest: VwEDET+Y33dt/rBV1FEKA8nsXW4=
+
+Name: assets/Default/I/I5I
+SHA1-Digest: VTGwoFXToinwfn4hqNW0V6KAu7s=
+
+Name: assets/HVGA/T/T20TS
+SHA1-Digest: mFx2ZFG0khkbJWKLYo6UZDyw1G4=
+
+Name: assets/Default/A/A11A
+SHA1-Digest: VtxUgkVT7mnmVjfiSQqMm2qFmUg=
+
+Name: assets/HVGA/T/T4TS
+SHA1-Digest: KYQOORCSAWzTCgbjTMKv/7p6E/8=
+
+Name: assets/Default/A/A91A
+SHA1-Digest: 7qZtXpKlCKde4i5BJ/nVeS4ZsrY=
+
+Name: assets/HVGA/I/I13I
+SHA1-Digest: ZOtyTdY4+BaB3/3uo12FacqupAY=
+
+Name: assets/HVGA/S/S15SS
+SHA1-Digest: M6UdhEsxO0PU2kDS4n9NK186NiE=
+
+Name: assets/Default/I/I1I
+SHA1-Digest: JqCVTBmYCihz5nYMxp+k7+f3rvg=
+
+Name: assets/Default/M/M30M
+SHA1-Digest: sAfm0SMbzzeuCbV2jeglxnlpyi4=
+
+Name: assets/Default/A/A53A
+SHA1-Digest: aqCg3wVUjPGUbKW8xU85sv+/SIw=
+
+Name: assets/Default/I/I103I
+SHA1-Digest: xYoSFq5nRJcO/U3I+ZYhsQO3q8k=
+
+Name: assets/Default/I/I37I
+SHA1-Digest: V/Cr1bI4GROizAv/asQQMa/lvYQ=
+
+Name: assets/HVGA/I/I35I
+SHA1-Digest: 9yXVrxDVICPlEb7xKqIV7dqGbNY=
+
+Name: assets/HVGA/T/T4TC
+SHA1-Digest: YpOPapZ3yK+0ztnEHeWmGYUjKcM=
+
+Name: assets/HVGA/T/T4TE
+SHA1-Digest: dYY2OZ6tTEi7dLFF1JyJWxclJU8=
+
+Name: assets/Default/S/S21S
+SHA1-Digest: hhmirYs7PCxFJxpJdn9sgZ+Bsw4=
+
+Name: assets/HVGA/I/I34I
+SHA1-Digest: fpAzw8ocLBMQuCLvWeUa8oIUCnw=
+
+Name: assets/HVGA/I/I6I
+SHA1-Digest: 77ccoUeAn4sNcxUZ/We7aF5sJ94=
+
+Name: assets/HVGA/W/IdxW
+SHA1-Digest: mT1H9V3CWmh/NYDBJOMQo/VKR2g=
+
+Name: assets/Default/A/A14A
+SHA1-Digest: GGHQNNTjPjoygsExoDpeR0Opm78=
+
+Name: res/drawable-ldpi/alert_dialog_icon.png
+SHA1-Digest: F9oU372J/CEicGHuOszme6YbvRs=
+
+Name: assets/HVGA/T/T14T
+SHA1-Digest: Hkj0hiMEMs7/DgNGSTXyZSaJLhE=
+
+Name: assets/HVGA/T/T4TJ
+SHA1-Digest: wYfNQnLMGeotxDrG22Q+eeWlSE0=
+
+Name: assets/HVGA/I/I12I
+SHA1-Digest: DFQWR/PV+un9YhOgo9lguhfIFpA=
+
+Name: assets/HVGA/T/T4TF
+SHA1-Digest: gHwnLusWvTp8bd24HW6rFOiry60=
+
+Name: assets/HVGA/T/T4TG
+SHA1-Digest: 0fd1T7PoUTXMWTm/kXmlJJZhOvY=
+
+Name: assets/HVGA/T/T0TG
+SHA1-Digest: WU0lQX1U4E3zJVp4o8JiDFgzn9U=
+
+Name: assets/HVGA/T/T0TF
+SHA1-Digest: feQqARgU/WX1nS1J2gbZKgWjRtM=
+
+Name: assets/HVGA/T/T29TS
+SHA1-Digest: kz2YkmoRUEDmHSAZ7ypXvr/3WIc=
+
+Name: assets/HVGA/T/T0TE
+SHA1-Digest: Ct4dfSQT8QCD0rRmk2WgAQ9Y898=
+
+Name: assets/Default/I/I2I
+SHA1-Digest: COGjKzWkaYKN9qwx4OX1CV9X3ho=
+
+Name: assets/HVGA/T/T0TC
+SHA1-Digest: CPVADIu0GdXgmMtSO++jdJaSmW4=
+
+Name: assets/Default/T/T10TS
+SHA1-Digest: ejU18Bo3dRgGxawUUxsKzBcXErY=
+
+Name: assets/Default/W/W7W.ogg
+SHA1-Digest: DajIeX1TQ7BhKbDPQsXvYnZ/7ng=
+
+Name: assets/Default/T/T10TF
+SHA1-Digest: E4ZLBwcxsphV2Vqi9WURMTJFANU=
+
+Name: assets/Default/I/I104I
+SHA1-Digest: uZ8DTzG0XozONO3HD+PTWyyfgGE=
+
+Name: assets/Default/M/M31M
+SHA1-Digest: yy39RvV58Cm7ZgIeLw9f6oFefj0=
+
+Name: assets/Default/T/T10TG
+SHA1-Digest: 9IQMufwKXFodKJSqE4fYGdbzCNc=
+
+Name: assets/Default/A/A54A
+SHA1-Digest: n+uxrE/6RYoau2eev+rR6E/ukUY=
+
+Name: assets/Default/T/T10TJ
+SHA1-Digest: z5Md/7jfauqpZSH+H95qDtFGfcc=
+
+Name: assets/HVGA/T/T0TJ
+SHA1-Digest: vF9nnMlDObHGLdJ6OvkQzEuevy0=
+
+Name: assets/Default/I/I36I
+SHA1-Digest: ZBDJmmSJizKA+XNmdUUc5RKBvPM=
+
+Name: assets/HVGA/I/I33I
+SHA1-Digest: RzFfQPPzbIOiGJulkLi8W4ffYtE=
+
+Name: assets/HVGA/T/T15T
+SHA1-Digest: x7fAGKqvomBPsBD1li6ZA2XO/64=
+
+Name: assets/Default/T/T10TE
+SHA1-Digest: IXKZTzvTX8OicDEJkYux5Ot1yBs=
+
+Name: assets/Default/A/A13A
+SHA1-Digest: ZR71nYEtViXTmgZ7hccb/FruMIs=
+
+Name: assets/Default/T/T10TC
+SHA1-Digest: e8NLtK91YRS9u4LJRsE51fRsp2I=
+
+Name: assets/HVGA/I/I5I
+SHA1-Digest: VTGwoFXToinwfn4hqNW0V6KAu7s=
+
+Name: assets/HVGA/T/T0TS
+SHA1-Digest: tCXBlLs2dujZ/NfIS7KrSzPNhNo=
+
+Name: assets/HVGA/I/I11I
+SHA1-Digest: PFEAjax/XAqQGnblsEBFqTjX724=
+
+Name: assets/Default/I/I3I
+SHA1-Digest: cJmy9bEjh9h4npXfx23Y42TW8hg=
+
+Name: assets/Default/A/A92A
+SHA1-Digest: O2UGwJ9dccR5abBpqXPpvbqEcxA=
+
+Name: assets/Default/S/S20S
+SHA1-Digest: TBNj2xZ3wmHIt25WemdcL5Wj1ls=
+
+Name: assets/HVGA/U/U0US
+SHA1-Digest: RtlCrIx9cXJO3rIMNclec6ge1zs=
+
+Name: assets/Default/I/I8I
+SHA1-Digest: 1SR5AL3ssj3GrpghbdB6xcgsNZ0=
+
+Name: assets/HVGA/S/S11SC
+SHA1-Digest: aebn5TAezJ7Kk4FCsA6iegamn7s=
+
+Name: assets/HVGA/S/S11SE
+SHA1-Digest: 4q7Sxjq+/lAzwvnIzj9LJxyO4LY=
+
+Name: assets/HVGA/S/S11SF
+SHA1-Digest: JXZtV9ymmtxShbQZ8X4HD1sXrOo=
+
+Name: assets/HVGA/U/U0UJ
+SHA1-Digest: AGShS0nEnUUymk8Qk1b5t9SS8qU=
+
+Name: assets/Default/S/S27S
+SHA1-Digest: BOBFU9VpC/l4Fs2VEdu2KXqP6oI=
+
+Name: assets/HVGA/U/U0UG
+SHA1-Digest: soerCzkIzx/bKCwktq4+rB4Es70=
+
+Name: assets/HVGA/U/U0UF
+SHA1-Digest: KjCcQM0gw0KVrueG3Oy/YDdI244=
+
+Name: assets/HVGA/U/U0UE
+SHA1-Digest: hKER2pdwlP7qi3yHWj7RmBHd4ew=
+
+Name: assets/Default/I/I35I
+SHA1-Digest: 9yXVrxDVICPlEb7xKqIV7dqGbNY=
+
+Name: assets/HVGA/S/S11SS
+SHA1-Digest: zKJVgAfwQ2C9LMIV7HbtdmLdOsQ=
+
+Name: assets/Default/I/I105I
+SHA1-Digest: vrTXg1YgtTz7PQt9ShZ2bQUfi6k=
+
+Name: assets/HVGA/S/S11SG
+SHA1-Digest: 037ykDTR77LEujQO3GGch2M0nmk=
+
+Name: assets/HVGA/S/S11SJ
+SHA1-Digest: uXTT0lPRTxN0Q0xBLKgnA8UT6zE=
+
+Name: assets/Default/B/B0B
+SHA1-Digest: 3JMWWTfBVAcHoaQ9k/ZcFBUzSWM=
+
+Name: assets/Default/I/I9I
+SHA1-Digest: zFZzWEiK9bGrHaDOU1kmlHfQ2rw=
+
+Name: assets/Default/S/S26S
+SHA1-Digest: BlmDKtbqHSlAAEoMjld/DRAikAA=
+
+Name: assets/Default/I/I33I
+SHA1-Digest: RzFfQPPzbIOiGJulkLi8W4ffYtE=
+
+Name: assets/Default/I/I34I
+SHA1-Digest: fpAzw8ocLBMQuCLvWeUa8oIUCnw=
+
+Name: assets/Default/I/I106I
+SHA1-Digest: GXZy47u/O6FmjlFiL8pIXzFJDp4=
+
+Name: assets/HVGA/R/IdxR
+SHA1-Digest: oS53JsEti2jB9NWbEscZ0KuSbk0=
+
+Name: assets/HVGA/R/IdxRC
+SHA1-Digest: fNLIn2CTVfMcroHN7DuoWVMDsRY=
+
+Name: assets/HVGA/R/IdxRG
+SHA1-Digest: 0L96o8K+8KA53yduKtXPswDaofU=
+
+Name: assets/HVGA/R/IdxRF
+SHA1-Digest: VaqP6oV/UZKfuQuUB64h9gik954=
+
+Name: assets/HVGA/R/IdxRE
+SHA1-Digest: v1dmpgOhtCCeo8ivLaexUFnygLs=
+
+Name: assets/Default/A/A90A
+SHA1-Digest: f/FscLJZrsBVXjq6ov4b5Ycgttc=
+
+Name: assets/Default/B/B1B
+SHA1-Digest: Md/NFbenzMJAMX9nnhWobp2FqPw=
+
+Name: assets/HVGA/R/IdxRJ
+SHA1-Digest: 6TeLrNSUTP0VXtWvvBI388pS63w=
+
+Name: assets/Default/I/I6I
+SHA1-Digest: 77ccoUeAn4sNcxUZ/We7aF5sJ94=
+
+Name: assets/Default/A/A10A
+SHA1-Digest: AurJfPCvt2ovu62EfWgp6YxCIIc=
+
+Name: assets/Default/W/W14W.ogg
+SHA1-Digest: tqwJlmZn6mXEbWRZOyt4xn0WgW0=
+
+Name: assets/Default/I/I32I
+SHA1-Digest: u9kC5ksJWgIqvOIp/IZQEeH2mlg=
+
+Name: assets/Default/S/S25S
+SHA1-Digest: 9MbdY2vsIphBfIH+4u2wXWrGSU4=
+
+Name: assets/Default/I/I107I
+SHA1-Digest: a93wyXMHYfB4ARk/JXZWD1ZYWq0=
+
+Name: assets/Default/T/T30T
+SHA1-Digest: lqlON4AiN4LJFrqe5APqX92m8ag=
+
+Name: assets/HVGA/A/A69A
+SHA1-Digest: Uo/377gwfWSuahV9vwgvD2L1TS8=
+
+Name: assets/Default/B/B2B
+SHA1-Digest: rMciMlvU5bKhG7wgqyLISwfkXYs=
+
+Name: assets/Default/R/R0RJ
+SHA1-Digest: yhHDymLZkXAIvTx8R1Lq1zGZpqE=
+
+Name: assets/Default/R/R0RG
+SHA1-Digest: ZGvHHtc8P9to0jzYpQrDkbs8XUM=
+
+Name: assets/Default/I/I7I
+SHA1-Digest: KpCmr39/b66IFWpo/kpy7AE5b3M=
+
+Name: assets/Default/R/R0RF
+SHA1-Digest: bPwJxf7OaZqU7FUIMEsAnrb19qs=
+
+Name: assets/Default/R/R0RE
+SHA1-Digest: yH90gzUCit4gvjH+hICxNK9/Vpk=
+
+Name: assets/Default/S/S24S
+SHA1-Digest: 1t6HR9+7Va5Xk4azCS+OhRiA3Dw=
+
+Name: assets/Default/S/S1SS
+SHA1-Digest: 671unAxIYYQ9KkLxYRPY+Azv1nc=
+
+Name: assets/Default/R/R0RC
+SHA1-Digest: KrljdLRxIZ7CAYaWnEK2p5ROMgo=
+
+Name: assets/Default/I/I31I
+SHA1-Digest: sKa7cs2HXOpen27d6nEEJiFaGP0=
+
+Name: assets/Default/S/S1SG
+SHA1-Digest: RV9Ebbv1f/ybpgRZOPizJvz8LiE=
+
+Name: assets/Default/I/I108I
+SHA1-Digest: H+DaQmoYKt9m6zSZygUyH1EcgBM=
+
+Name: assets/HVGA/U/U0UC
+SHA1-Digest: ZLRcpBLnDxmsDkswARFAtP6slfQ=
+
+Name: assets/Default/S/S1SJ
+SHA1-Digest: us0qcti/bQlb77GvoZG8fp9ldZg=
+
+Name: assets/Default/S/S1SC
+SHA1-Digest: IK5TVfhTyh3wX1WSOBoFa8dHNTo=
+
+Name: assets/Default/R/R0RS
+SHA1-Digest: OQ6Lwk7lkRW9bYEgIkADcVfN7L4=
+
+Name: assets/Default/S/S1SE
+SHA1-Digest: ZUvwURBkSJVFaB70n0XlnKihG8c=
+
+Name: assets/Default/T/T31T
+SHA1-Digest: NQezwZKWUsFKOLGUUFTTV1ZM3K0=
+
+Name: assets/Default/S/S1SF
+SHA1-Digest: puiwCMqhpzJeDqgE/2ejj06dilw=
+
+Name: assets/Default/B/B3B
+SHA1-Digest: xAO3Nuhhn0jR/Ksfyksrg5pvl24=
+
+Name: assets/Default/W/W16W.ogg
+SHA1-Digest: lEpBoNZXJcpenXN1krpNLXlQH30=
+
+Name: assets/Default/I/I30I
+SHA1-Digest: 4O9rca25pkm5i0o0EfaALxZRY+M=
+
+Name: assets/Default/U/U1U
+SHA1-Digest: xfWAsO0Z/CDj67Pf8z6pmyUDrdk=
+
+Name: assets/HVGA/O/O0OJ
+SHA1-Digest: XQC0WjAQhgZ6FN6VguGpMJeX10g=
+
+Name: assets/HVGA/O/O0OG
+SHA1-Digest: frILwHhR1EnM2r8OiKGsynwUUIY=
+
+Name: assets/HVGA/O/O0OE
+SHA1-Digest: tKM/g5YsT/t1w1lwbC1ROAMjar4=
+
+Name: assets/HVGA/O/O0OF
+SHA1-Digest: 7LdNkKCnowZRI58kf7kn4XQM39E=
+
+Name: assets/HVGA/O/O0OC
+SHA1-Digest: 6XQKKxxBH1OYzdEiRUMkstwH8h8=
+
+Name: assets/Default/A/A59A
+SHA1-Digest: 7kEapgzv0hP3r7cjUr8GFPbRIxw=
+
+Name: assets/Default/I/I62I
+SHA1-Digest: 52pkCyGAaBU0icQtxWbKxnMjQmA=
+
+Name: assets/Default/T/T32T
+SHA1-Digest: 7s1wWCexGJFLfbGC5lviB2bPfSU=
+
+Name: assets/HVGA/I/I19I
+SHA1-Digest: aOfbpzBA2t5H4kixF3vQ1JXFlVU=
+
+Name: assets/Default/M/M36M
+SHA1-Digest: 0dZuB8ff9UNKuo8vdfBCEbc9hV0=
+
+Name: assets/Default/I/I109I
+SHA1-Digest: F5kzipP7DWFDQ6hs0Vr+vWB/jQI=
+
+Name: assets/Default/W/W12W.ogg
+SHA1-Digest: Pv547oxqQ9Quq0YW0SccIawrXgQ=
+
+Name: assets/Default/U/U0U
+SHA1-Digest: Ea0oQGfYBRq/KHPXMC5wA3NyRi4=
+
+Name: assets/HVGA/A/A30A
+SHA1-Digest: OSJHrjkTDe0oLk7pse2PAaZB5gw=
+
+Name: assets/Default/U/U2UC
+SHA1-Digest: JUcKJ5E30ehboCe5pBk/bzV/Xsk=
+
+Name: assets/Default/I/I61I
+SHA1-Digest: wAxM5/yMl8CgowGabGMpMNdHFiE=
+
+Name: assets/HVGA/I/I18I
+SHA1-Digest: e3eIg+jbX6lLtHAhN76b1PcFKOw=
+
+Name: assets/Default/T/T33T
+SHA1-Digest: kGPUZAWSFz3SLor6WbAkZmmMCL0=
+
+Name: res/drawable-mdpi/alert_dialog_icon.png
+SHA1-Digest: F9oU372J/CEicGHuOszme6YbvRs=
+
+Name: assets/Default/M/M37M
+SHA1-Digest: pg15ALEqH6SQOInXuAqkv+Yvuw0=
+
+Name: assets/HVGA/O/O0OS
+SHA1-Digest: XCmZKIgDdJ85AVBxitFWj/aG8zw=
+
+Name: assets/Default/T/T6TS
+SHA1-Digest: FvK/wWzqi/kEP9k2TAYb1WZH7ms=
+
+Name: assets/Default/S/S9SJ
+SHA1-Digest: vx+9rAWVtQNAR9eCQWgAotMWfdg=
+
+Name: assets/Default/U/U3U
+SHA1-Digest: bxhz1ga7k/75nuKsoegQ+IsIepk=
+
+Name: assets/Default/S/S9SG
+SHA1-Digest: x7VC/Mky5CsJldM0hpwevvuajCY=
+
+Name: assets/HVGA/A/A31A
+SHA1-Digest: 8TetNwNfnntYAoa7K6ij7Dt7pj4=
+
+Name: assets/Default/S/S9SS
+SHA1-Digest: hWZrf+ukFGqiOxA/GJTP0fBH8xo=
+
+Name: assets/Default/T/T6TC
+SHA1-Digest: ZCTn6h+6DYTzftyGwhM3GEXv/Aw=
+
+Name: assets/Default/O/O5OJ
+SHA1-Digest: tx70VJ0CrGO79ZDYLsUDgZtbOIA=
+
+Name: assets/Default/O/O5OG
+SHA1-Digest: xoYe4NFPDhus9fa/U0Lvq79HKjQ=
+
+Name: assets/Default/T/T34T
+SHA1-Digest: Xvbubyu0/DJKnyaqgS6raxnWgPo=
+
+Name: assets/Default/M/M38M
+SHA1-Digest: H3idEXPIzIzf8Uf7o6e8oBJSKdU=
+
+Name: assets/Default/I/I60I
+SHA1-Digest: AtKhkrV8fh0xiREHP+MI2QkbYX4=
+
+Name: assets/Default/S/S9SE
+SHA1-Digest: cmQ8omivwoxuRnTO9VBSgDeVQkQ=
+
+Name: assets/Default/S/S29S
+SHA1-Digest: 2FaANp46Xag8q7gNgYF72nvaKcs=
+
+Name: assets/Default/S/S9SF
+SHA1-Digest: iL903czpNqSncg34VOan9ukqVvk=
+
+Name: assets/Default/S/S9SC
+SHA1-Digest: qo34UyF5MHQJ2YdLeyYab1r/cqM=
+
+Name: assets/Default/T/T6TJ
+SHA1-Digest: Kwyq1LrNsJ1Ud+AcWZTtv10ew6Y=
+
+Name: assets/Default/O/O5OE
+SHA1-Digest: bWzuqSzdwuKIwh/ghrrwR69adp0=
+
+Name: assets/Default/T/T6TG
+SHA1-Digest: vnhjxoFDyjpE1c0F7G/qdnSBifY=
+
+Name: assets/Default/O/O5OF
+SHA1-Digest: 8SJolXypEzrGlg7S8LoT5SrLr8I=
+
+Name: assets/Default/O/O5OC
+SHA1-Digest: Y776bQJB7Vkul2XQXrjzXpzGNiE=
+
+Name: assets/Default/T/T6TE
+SHA1-Digest: va0M/JOMu8GSaenSsA3anej6Ieo=
+
+Name: assets/Default/T/T6TF
+SHA1-Digest: Yi25G+Z91ShW1VEEtkMbayjvFUs=
+
+Name: assets/Default/T/T2TF
+SHA1-Digest: mOFaMb71iHd47NAqA5lnt5EWm98=
+
+Name: assets/Default/U/U2U
+SHA1-Digest: 4m5f3i5+WFSfz8BehnJ6OjvoMNQ=
+
+Name: assets/Default/T/T2TE
+SHA1-Digest: WajLzK6s4DdnV+zRiGEtHW94eMk=
+
+Name: assets/Default/T/T2TG
+SHA1-Digest: wSRs7W3hQ5NeWzIKXg6qjVME/4g=
+
+Name: assets/Default/S/S28S
+SHA1-Digest: 6Iwf149wzszHmhx1KhQeq2kEfLM=
+
+Name: assets/Default/T/T2TC
+SHA1-Digest: LQ+VmkMlMqbkeBMGvJ12+D+RsfM=
+
+Name: assets/HVGA/A/A32A
+SHA1-Digest: x/pEZMFhEzR6F6lqClXQWIUItFQ=
+
+Name: assets/Default/T/T2TJ
+SHA1-Digest: pEnqe5dYBUXiJWIcbYO5BXU5lZ8=
+
+Name: assets/Default/O/O5OS
+SHA1-Digest: 189/2v/4maWIUeLl5aJnuNBOt2w=
+
+Name: assets/Default/M/M39M
+SHA1-Digest: juDjl9hyVWyGllso3DiTEszNlRI=
+
+Name: assets/Default/T/T2TS
+SHA1-Digest: ctXSg9yETYt94MZKxlvWo8Yzlj4=
+
+Name: assets/Default/S/S25SS
+SHA1-Digest: vVoxwJeIHD/9KGC9clafie1k8tQ=
+
+Name: assets/HVGA/A/A76A
+SHA1-Digest: Kv24VMTPO4TxtzcKHxz1+k+xM8s=
+
+Name: assets/HVGA/M/M0M
+SHA1-Digest: uHsgGwl92tTlpClTJKJ5RUZLteE=
+
+Name: assets/Default/I/I65I
+SHA1-Digest: PqxzEf0M7X/nUiD83VYz+/MyJrw=
+
+Name: assets/Default/T/T13TF
+SHA1-Digest: gBU41iOi6kvjZp3XoF3XP+sbCME=
+
+Name: assets/Default/A/A7A
+SHA1-Digest: dbe8+Wos9Yjsc+M+0xcEaJkdVSE=
+
+Name: assets/HVGA/I/I131I
+SHA1-Digest: wr/efnW3iSfs9TRNf/ztoNnjp60=
+
+Name: assets/Default/T/T13TE
+SHA1-Digest: ZTiY3E84eP7bwJ0aMX4LJfcREtM=
+
+Name: assets/Default/T/T25TG
+SHA1-Digest: 1DS5yGlTmfI5O1iaAfsEGXp/XA0=
+
+Name: assets/Default/T/T25TF
+SHA1-Digest: iLTwmk5mKpDAEbvwr03eqs5Oc7Q=
+
+Name: assets/Default/T/T13TC
+SHA1-Digest: UScyQX/kQ8yh5Ewg4n87hmISl/o=
+
+Name: assets/HVGA/A/A22A
+SHA1-Digest: upN7+pHKwjqVGKnCCX8/P8SkXOM=
+
+Name: assets/Default/T/T25TE
+SHA1-Digest: xybgjqm4ebPA7HflR55cYwSVaXw=
+
+Name: assets/Default/T/T13TJ
+SHA1-Digest: BS69643bOjGNns/eBZS6Z6hwYeY=
+
+Name: assets/Default/T/T25TC
+SHA1-Digest: BDQsNPsotANgPmpj1FweW0K3OsI=
+
+Name: assets/Default/T/T13TG
+SHA1-Digest: 7IrlyJ4EWWB+qeXU0EPL04w8X04=
+
+Name: assets/HVGA/O/O1O
+SHA1-Digest: k37jH317gs3uHpeBO3N7XsFwsfE=
+
+Name: assets/Default/T/T2T
+SHA1-Digest: Wr5qkFtARAuxmQ6+aG4R9dVQwA4=
+
+Name: assets/Default/T/T25TJ
+SHA1-Digest: Odm+Gq6pANTWech3A1tzpSF5E+w=
+
+Name: assets/Default/T/T21TJ
+SHA1-Digest: HDiFb4K5J1QUSDWotmC2NW0lSeg=
+
+Name: assets/HVGA/A/A75A
+SHA1-Digest: MpY4DMbKp9cDCPXd2dNqmJshv4E=
+
+Name: assets/Default/T/T21TF
+SHA1-Digest: pFqPv9EaEp4+0xrjOFw/rOufZB0=
+
+Name: assets/HVGA/M/M1M
+SHA1-Digest: /xeKlXQ3IGviG8dORRFe8JLoWN0=
+
+Name: assets/Default/T/T25TS
+SHA1-Digest: Wc7R1/sbNtNMeYa2cjCFANK6u4Q=
+
+Name: assets/Default/T/T21TG
+SHA1-Digest: e+8WIUlRrq/RAGIwI++LYb+EtIk=
+
+Name: assets/Default/T/T4T
+SHA1-Digest: hbokkdL2hQDoikM3tqmyckoWp1k=
+
+Name: assets/Default/I/I66I
+SHA1-Digest: bczo9LP9nbDU5UDz3v34n1l1nXo=
+
+Name: assets/Default/T/T21TS
+SHA1-Digest: CFE6H8kjeciWK8f9UPGX7RLSwvQ=
+
+Name: assets/HVGA/I/I132I
+SHA1-Digest: 36BERmXAUGoa3wWC06F6l99blAk=
+
+Name: assets/HVGA/A/A21A
+SHA1-Digest: eIJGgWqCtJDuZ3x37b/338Trzoc=
+
+Name: assets/Default/W/W0W.ogg
+SHA1-Digest: NHwjzrfFnGQKpq5E20SYi8KTpKw=
+
+Name: assets/HVGA/O/O0O
+SHA1-Digest: w7LlFBC9NgJv9Yw+xElqIfi1EFM=
+
+Name: assets/Default/A/A6A
+SHA1-Digest: ZTSFSGHKCzzavAjoJ+U1ue3wuU8=
+
+Name: assets/Default/S/S29SS
+SHA1-Digest: RV5sTd+PjFWj0QoXvol2sRQFesI=
+
+Name: assets/Default/I/I67I
+SHA1-Digest: A1UALfYfryOmai+43n+nSWvviMc=
+
+Name: assets/Default/T/T21TC
+SHA1-Digest: TC1r4OTU1oMEBnQztDGgg0LqWBI=
+
+Name: assets/Default/T/T3T
+SHA1-Digest: g+rTcsIwVH2Y4ZUY/Nmhojuq9N0=
+
+Name: assets/Default/T/T21TE
+SHA1-Digest: 09gs2c4qPx2K1AEFsmc7l27tohc=
+
+Name: assets/Default/T/T5T
+SHA1-Digest: lAoTEUrkWg2Jn7LYms1qf8QyAkk=
+
+Name: assets/HVGA/A/A74A
+SHA1-Digest: Ys2IFy8jn0grJYCqKA4uL1xb/ZI=
+
+Name: assets/HVGA/M/M2M
+SHA1-Digest: B1a+i5xUmJG5juNyuzvPmQb1Y2g=
+
+Name: assets/Default/I/I63I
+SHA1-Digest: 74oArg/mypJiS0mPUPRr1c6nDP0=
+
+Name: assets/Default/O/IdxOS
+SHA1-Digest: GEsjQrU3Ov18SbeMAkN8K1ImNYo=
+
+Name: assets/HVGA/O/O3O
+SHA1-Digest: LZJvc0ZTccxws3dTsVL/LqzfFzc=
+
+Name: assets/Default/A/A9A
+SHA1-Digest: 3y6SOxR5AI1jSOK+hsI1PACTIsw=
+
+Name: assets/Default/S/S14SS
+SHA1-Digest: EzJCeWqfxakuT6dj+3PQWzcyuMM=
+
+Name: assets/HVGA/A/A24A
+SHA1-Digest: 35dCCLnqsVMQr0MRV52XJSi3qho=
+
+Name: assets/Default/S/S14SG
+SHA1-Digest: bodwY6pcYm1wpbtH9QxLF1722w0=
+
+Name: assets/Default/T/T6T
+SHA1-Digest: ecHolZcfb5wJLeKTJV92M44YUgs=
+
+Name: assets/HVGA/A/A73A
+SHA1-Digest: WY+3hhQQZQJM96M+qWOTYBznqWk=
+
+Name: assets/Default/S/S14SJ
+SHA1-Digest: SJPQUgltF8+t9OzYD3C0H2J2Cr4=
+
+Name: assets/Default/S/S14SC
+SHA1-Digest: U877ravtsRlWSDCbIuwnjmUuAus=
+
+Name: assets/Default/S/S14SE
+SHA1-Digest: fXuApYqX3wRMjErwI2YYZWHKZkA=
+
+Name: assets/HVGA/M/IdxM
+SHA1-Digest: MlJqD0NiP/58c89WYBgiU8GGvSQ=
+
+Name: assets/HVGA/M/M3M
+SHA1-Digest: 5eMy62jd+UNfdfm2pUq6L6VjYl0=
+
+Name: assets/Default/S/S14SF
+SHA1-Digest: GN2T2vEqSPjcbtVaNQc+PfyQDTs=
+
+Name: assets/Default/I/I64I
+SHA1-Digest: lkxDIClnHzzpl4/SMmBH7Cgouyg=
+
+Name: assets/HVGA/I/I89I
+SHA1-Digest: FJW/HYUC12kSK3JrTLPU3uikwJc=
+
+Name: res/drawable-hdpi/alert_dialog_icon.png
+SHA1-Digest: F9oU372J/CEicGHuOszme6YbvRs=
+
+Name: assets/HVGA/O/O2O
+SHA1-Digest: pLRziqRk1MoTmwrlHBh1VF8OJss=
+
+Name: assets/HVGA/A/A23A
+SHA1-Digest: YkdzkAVmzQK+xHavUXcWpcZ3WAA=
+
+Name: assets/Default/A/A8A
+SHA1-Digest: /qFxGOpeH+BfxU8CF7gmHF/S24k=
+
+Name: assets/HVGA/I/I130I
+SHA1-Digest: 4IWMU3tZI3xByt0MY7DgksayOUw=
+
+Name: assets/HVGA/I/I88I
+SHA1-Digest: 5oOf2CSlCYVIiABKqjO9UX79n+0=
+
+Name: assets/Default/R/R1RS
+SHA1-Digest: JE6ji/6Q/aYr0F+/tp1gnShLHl8=
+
+Name: assets/Default/T/T29TJ
+SHA1-Digest: 5adPemGv3lAG/danOS/CxShyhiE=
+
+Name: assets/HVGA/S/S8SE
+SHA1-Digest: rbt8j8J/O9vGq1mjHUwKftc9DkQ=
+
+Name: assets/HVGA/S/S8SF
+SHA1-Digest: zSSOvvfpjSNPrz7n8kJP4t5dnwY=
+
+Name: assets/HVGA/S/S8SC
+SHA1-Digest: xkF2OZfWt3h+JT8djVEaCuftNIA=
+
+Name: assets/Default/T/T29TF
+SHA1-Digest: HCTnN89uFPau8fn2OCuzLogGvLw=
+
+Name: assets/Default/T/T29TG
+SHA1-Digest: r4ScNVsZnykQpAI1cr1yGkU77fE=
+
+Name: assets/Default/T/T29TE
+SHA1-Digest: /wCmCp+BqHtRwbqxM9TXGqIYnoQ=
+
+Name: assets/HVGA/M/M4M
+SHA1-Digest: jDGQcvtWYGPGhhh79neIdEBLofo=
+
+Name: assets/Default/T/T29TC
+SHA1-Digest: ubBhl8YUvB9JX2XUqDrs4JVpCxY=
+
+Name: assets/HVGA/T/T25TS
+SHA1-Digest: 8IH7bbY7455a/GRZwZ8Fh7lz+KY=
+
+Name: assets/Default/R/R1RC
+SHA1-Digest: 06kQc9IhmOqk+kIv8LAU4Ww8CsI=
+
+Name: assets/HVGA/A/A118A
+SHA1-Digest: C5C7WnpMdyoFbqak0BTif/l0pNI=
+
+Name: assets/HVGA/A/A26A
+SHA1-Digest: 1s+DMwJUKyyPjmfFkxdlDTHz01w=
+
+Name: assets/HVGA/S/S8SS
+SHA1-Digest: SWVRsjLfRoXMaXEY3qR9ip/4sjw=
+
+Name: assets/HVGA/S/S8SJ
+SHA1-Digest: Z7v/FUXN+O90E0LZdBfSHbtatXw=
+
+Name: assets/Default/R/R1RJ
+SHA1-Digest: HIX19QHKFYls74j4IS4+mqVPhKE=
+
+Name: assets/HVGA/S/S8SG
+SHA1-Digest: vD1EWUlWGWU90uCqNAyzaadIgOs=
+
+Name: assets/Default/R/R1RE
+SHA1-Digest: QIFuVqDjdl12G/zwiQ/ZL8LzdQE=
+
+Name: assets/Default/R/R1RF
+SHA1-Digest: u0V8IbIEHfKJySPTmxcTCG5u6oE=
+
+Name: assets/Default/R/R1RG
+SHA1-Digest: PBeylZC7hv/kS7RmRFzPE7KKeeE=
+
+Name: assets/HVGA/I/I87I
+SHA1-Digest: OIgFLYiDbhnZPlNG14iR0rKuh3A=
+
+Name: assets/HVGA/S/S4SS
+SHA1-Digest: rycez/tpS7nhZ7uJ+D4OYpnZPD0=
+
+Name: assets/Default/S/S21SS
+SHA1-Digest: itbQpxUcwVivJnAwTbPLNmQafQ0=
+
+Name: assets/HVGA/A/A79A
+SHA1-Digest: 4MLU1hRhulncsOcQaKSyOGPfrGY=
+
+Name: assets/Default/S/S21SJ
+SHA1-Digest: zf3riz1EIsIf5kDWV7Qp6wyilws=
+
+Name: assets/HVGA/M/M5M
+SHA1-Digest: 54Mzem4ZxPLzLh78Nj6abq5LH+o=
+
+Name: assets/Default/S/S21SG
+SHA1-Digest: PtLkroEr4z11iJJXhfCECCF0c0Q=
+
+Name: assets/HVGA/S/S4SC
+SHA1-Digest: jx6V5vtUhS1WLIjW3od2N/A/fV8=
+
+Name: assets/HVGA/S/S4SF
+SHA1-Digest: +GJ8i0PjfEDVpX07SS1j1YwS0ZU=
+
+Name: assets/HVGA/S/S4SE
+SHA1-Digest: UpSdJCD4e2D7LLyqWsN9x1x17E4=
+
+Name: assets/Default/S/S21SF
+SHA1-Digest: bJluOHhqaH+LlVnrLczIrG8qwZI=
+
+Name: assets/Default/S/S21SE
+SHA1-Digest: nkXKNTdTIU9aoViz4lXlLMgPMqE=
+
+Name: assets/HVGA/S/S4SG
+SHA1-Digest: K7R/RUmB0XAJiNvZz/TxAI428QE=
+
+Name: assets/HVGA/A/A119A
+SHA1-Digest: rdQNv9MZcs7ONAblvay+soJPNmE=
+
+Name: assets/HVGA/S/S4SJ
+SHA1-Digest: nUbxc2OmyDIkldell1w6So6MPoM=
+
+Name: assets/Default/S/S21SC
+SHA1-Digest: DkZd0R0ddh7G9q30las8iSiWINw=
+
+Name: assets/HVGA/A/A25A
+SHA1-Digest: qUB90GyREjH+koKVP7xhFVW9UIw=
+
+Name: assets/Default/T/T29TS
+SHA1-Digest: 3O+OAec8+hUVGmLx6136ePrLTvg=
+
+Name: assets/HVGA/M/M6M
+SHA1-Digest: Cj9v9bswAHrCitANBtOWQK9Pj8A=
+
+Name: assets/Default/S/S29SJ
+SHA1-Digest: gdFxwlGXayGP1cmgqV4NbRgPQNQ=
+
+Name: assets/HVGA/I/I86I
+SHA1-Digest: a4VruRdzs25eSfO4AXwyLLHckrc=
+
+Name: assets/Default/S/S29SF
+SHA1-Digest: XHcTJsULULFq/tq8YNnfmUWuORc=
+
+Name: assets/HVGA/A/A78A
+SHA1-Digest: JZ+AXKw1HOze8T656nLyNuxZm70=
+
+Name: assets/Default/A/IdxA
+SHA1-Digest: oqVq53JsPgSF2txPWxB+U+0lnkQ=
+
+Name: assets/Default/T/T0T
+SHA1-Digest: oknELibFICvHfHqwdcY3TolwAuI=
+
+Name: assets/HVGA/A/A28A
+SHA1-Digest: vM6R/xKf8IKjBWRhZWCH+gdA7s0=
+
+Name: assets/HVGA/M/M60M
+SHA1-Digest: YPlLSKfoDJKACF1Fvmq9KtC5kOg=
+
+Name: assets/Default/I/I68I
+SHA1-Digest: PYEYHDQWOcxw5vt77k2fKDLYzos=
+
+Name: assets/HVGA/T/T25TJ
+SHA1-Digest: BLhH3kTNAf3MxNMftbk7ump1T/E=
+
+Name: assets/HVGA/T/T25TG
+SHA1-Digest: j1E/9QleQZzsn8ELRjcRq686iXM=
+
+Name: assets/HVGA/I/I85I
+SHA1-Digest: m/lUkAvFyM5im6vEddAVHykR8xc=
+
+Name: assets/HVGA/M/M7M
+SHA1-Digest: dOJM6Y+9gU8/dBNRcD0wJIpMXk8=
+
+Name: assets/HVGA/T/T25TE
+SHA1-Digest: aQSIA5w84gE0ugGZuffa1Lw7Hek=
+
+Name: assets/HVGA/T/T25TF
+SHA1-Digest: KNkU0Wl+VIffuVf2sGF58gYE2nw=
+
+Name: assets/HVGA/T/T25TC
+SHA1-Digest: Oy0CbTtTfZ8TySPm4DpnJCA9bwg=
+
+Name: assets/Default/T/T13TS
+SHA1-Digest: JnqRAqO4FEYpfwkeg3fstvxjkiQ=
+
+Name: assets/HVGA/A/A77A
+SHA1-Digest: 7ZaX9/Z6t46KaoTnPhGoPUMF9mc=
+
+Name: assets/HVGA/A/A27A
+SHA1-Digest: zHqZ+QI9aQMKiAp7SEZD425nR9c=
+
+Name: assets/Default/T/T1T
+SHA1-Digest: /nsnaVDxosuCQqNgvtTss3+stTQ=
+
+Name: assets/Default/S/S25SJ
+SHA1-Digest: nUy11emLBPh0lFCchukfTsGx2QA=
+
+Name: assets/Default/I/I69I
+SHA1-Digest: NvctjNZWSBoeRy5MGgL7slA+7iE=
+
+Name: assets/Default/S/S25SG
+SHA1-Digest: IVJ8WvlV6SFgipbnE19xU7IomXI=
+
+Name: assets/Default/S/S25SF
+SHA1-Digest: 9d81AojZulO7zzKk6oZNJl95I/k=
+
+Name: assets/Default/S/S25SE
+SHA1-Digest: anNLzOm0SglkPrvZnWIzJjtdN74=
+
+Name: assets/Default/S/S25SC
+SHA1-Digest: U2kSCUiEairXR9+IuZPSYmLOWk0=
+
+Name: assets/HVGA/M/M27M
+SHA1-Digest: 91wRxfWzUZdz6fifmlIGp+cuY2I=
+
+Name: lib/armeabi/libdhunter.so
+SHA1-Digest: /M0OtdpOOsTgXqvunNa1xehhEGw=
+
+Name: assets/HVGA/I/I43I
+SHA1-Digest: PWrlnS7q+ygNYuEmXfrh8VENwfA=
+
+Name: assets/HVGA/M/M62M
+SHA1-Digest: 8M3/4Bd3YnSR4u2+y3CFqryxDLE=
+
+Name: assets/HVGA/R/R1R
+SHA1-Digest: 68uJpgWyJNSKqdTpUiU78XPaRkc=
+
+Name: assets/HVGA/M/M8M
+SHA1-Digest: yaS81R17biNQDvx2C5HbDrk9GvI=
+
+Name: assets/HVGA/I/I84I
+SHA1-Digest: v7ihnZAWou3NnzAlL/QBvT9/TtE=
+
+Name: assets/HVGA/M/M26M
+SHA1-Digest: a5gBpqPFZQCIECGycpK4B+BgisM=
+
+Name: assets/HVGA/A/A29A
+SHA1-Digest: jmOcoWD4HrG2WqB3bcT57gzm4S0=
+
+Name: assets/HVGA/I/I44I
+SHA1-Digest: wbHv/jjpadOtN31S4B77bmFNFgE=
+
+Name: assets/HVGA/M/M61M
+SHA1-Digest: RRu48WtuW7FLcpagZ/2scUVetow=
+
+Name: assets/HVGA/R/R0R
+SHA1-Digest: 3A3g2QWq9lGA7C5HWwzK7BPb6eQ=
+
+Name: assets/HVGA/S/S16SS
+SHA1-Digest: pVtWQOwtBPpK3LTMhTPUyvA5OLA=
+
+Name: assets/HVGA/M/M9M
+SHA1-Digest: uhuYdjQsm9NHzxzDTKoId9SKQLc=
+
+Name: assets/HVGA/I/I83I
+SHA1-Digest: boo56GPa5GjMEMMVvHkTBjVD8Ok=
+
+Name: assets/HVGA/S/S16SJ
+SHA1-Digest: pb+0o1Hm7eo2KBsUgEPZ0eVLWTM=
+
+Name: assets/HVGA/S/S16SE
+SHA1-Digest: m23lwKGzbsWJMex3HOcnBcltRsA=
+
+Name: assets/HVGA/I/I41I
+SHA1-Digest: UDh95PJRpQ3tfVqNJtU/Za4iH5I=
+
+Name: assets/HVGA/M/M29M
+SHA1-Digest: ZX9OOFIEMjMP1plYKSzM0A9nRGY=
+
+Name: assets/HVGA/S/S16SC
+SHA1-Digest: pMvBykLkzyo4ktLd/VA87ib7Brk=
+
+Name: assets/Default/A/A1A
+SHA1-Digest: Yc3zsQBHNo7xSuOFTUVfeZd72Fw=
+
+Name: assets/HVGA/I/I9I
+SHA1-Digest: zFZzWEiK9bGrHaDOU1kmlHfQ2rw=
+
+Name: assets/HVGA/S/S16SF
+SHA1-Digest: A50H1aLp8vQ0VdiEj/IRZ4EbkdA=
+
+Name: assets/HVGA/S/S16SG
+SHA1-Digest: Dm0uhvG3a/lMyo1EFecDDs2YIWg=
+
+Name: assets/Default/A/A50A
+SHA1-Digest: iNvv1VMrf8Sr4mXblGXX9mAAsxM=
+
+Name: assets/HVGA/M/M65M
+SHA1-Digest: gAVIM21RfW0VyUdzKMXV1+j7Cz0=
+
+Name: assets/HVGA/I/I82I
+SHA1-Digest: 4F1Gy7uAf7rO2VgDm2+uotb7USk=
+
+Name: assets/HVGA/S/S26SJ
+SHA1-Digest: 3QV7/WvYz9BmLsRXhNkn+xk5WZs=
+
+Name: assets/HVGA/S/S26SG
+SHA1-Digest: pz5+kffqRLsIn1SLpprcVfJW5qI=
+
+Name: assets/HVGA/S/S26SE
+SHA1-Digest: +8/AIac534yWst2tmASTYLcwMV0=
+
+Name: assets/HVGA/S/S26SF
+SHA1-Digest: AL/tcEHc0cThhFYHLagu0B1/Bds=
+
+Name: assets/HVGA/S/S26SC
+SHA1-Digest: rG/rtwsGbOSo+jC7Me70qBPksN4=
+
+Name: assets/HVGA/S/S22SS
+SHA1-Digest: nRHpOE2FssJfSsrIGP2X/tURYvg=
+
+Name: assets/HVGA/I/I20I
+SHA1-Digest: 9TzdUgHfd4BTPDEFMnf65QEZVz0=
+
+Name: assets/HVGA/M/M28M
+SHA1-Digest: Br8wAhhi17k4DxU9TuqRoP6r0g8=
+
+Name: assets/Default/A/A0A
+SHA1-Digest: h/YgQs5OSzE+2yROie3F2Cd5B5g=
+
+Name: assets/HVGA/S/S22SG
+SHA1-Digest: /x1kxtzc0oAe5I46reM6mylBk3w=
+
+Name: assets/HVGA/S/S26SS
+SHA1-Digest: cPmLc3p3xDyQM0YjjkeSRbhm0WY=
+
+Name: assets/HVGA/S/S22SJ
+SHA1-Digest: nWkEXfytO5Y9RpAeKvUSEPPC3Ig=
+
+Name: assets/HVGA/I/I42I
+SHA1-Digest: +YDC5Tw7WA0rHZhcDOkOCmoBL0M=
+
+Name: assets/HVGA/M/M63M
+SHA1-Digest: Q7rbsIp6Z/3Kn0fLIR7nmZz+zIQ=
+
+Name: assets/HVGA/S/S22SC
+SHA1-Digest: xDnW+oPjovFFq6lH6VCGhJfeJUI=
+
+Name: assets/HVGA/M/M64M
+SHA1-Digest: LD/n+MaGoFNIAVcw1LOLB1c5cqE=
+
+Name: assets/HVGA/S/S22SE
+SHA1-Digest: gnJFeWmO7st45P/g2qCFyrEHA8M=
+
+Name: assets/HVGA/S/S22SF
+SHA1-Digest: bZY6s2pC3iE9iC+rfsNi61B8ph4=
+
+Name: assets/HVGA/I/I81I
+SHA1-Digest: s3ixETyyl50QStiTQjlttWfd0RA=
+
+Name: assets/Default/T/T32TE
+SHA1-Digest: habW/51GLPkZClGuoFtMyg9y96g=
+
+Name: assets/Default/S/S4SC
+SHA1-Digest: jx6V5vtUhS1WLIjW3od2N/A/fV8=
+
+Name: assets/Default/T/T32TC
+SHA1-Digest: iVYtNXTG3ZsgiI8BGNpM3kUfwc4=
+
+Name: assets/Default/O/O0OS
+SHA1-Digest: RcZYTc8N7T8SK8exwnWErLlGWfk=
+
+Name: assets/Default/O/O0OE
+SHA1-Digest: nvk12ZBxNZfhe5Glao4HFe/C6k0=
+
+Name: assets/Default/O/O0OG
+SHA1-Digest: l2WxwECe4Dm0d3wfqXOcEee8hYA=
+
+Name: assets/Default/S/S4SJ
+SHA1-Digest: nUbxc2OmyDIkldell1w6So6MPoM=
+
+Name: assets/Default/O/O0OF
+SHA1-Digest: Ds2QHf0uZLsoP9+4wlv4RDhxCEQ=
+
+Name: assets/Default/S/S4SE
+SHA1-Digest: UpSdJCD4e2D7LLyqWsN9x1x17E4=
+
+Name: assets/HVGA/M/M23M
+SHA1-Digest: mnSamwgpWndSrBHI1xBEleLkJ4c=
+
+Name: assets/Default/S/S4SG
+SHA1-Digest: K7R/RUmB0XAJiNvZz/TxAI428QE=
+
+Name: assets/Default/S/S4SF
+SHA1-Digest: +GJ8i0PjfEDVpX07SS1j1YwS0ZU=
+
+Name: assets/Default/A/A3A
+SHA1-Digest: 9kVqRQQ3cgWocas11NRMscnYrwQ=
+
+Name: assets/Default/O/O0OJ
+SHA1-Digest: q98WUdTVoHlqmHwlnTSOFbjIzHA=
+
+Name: assets/HVGA/O/O4OG
+SHA1-Digest: jCwF7SOcWyxAqqNTOJMCwGrgePs=
+
+Name: assets/HVGA/O/O5O
+SHA1-Digest: l9Cwt8Dkj/nMqoQOgmzIFFYaJRA=
+
+Name: assets/HVGA/O/O4OJ
+SHA1-Digest: Qat+wsknKVZzb3rwlQdRMOXNv0Q=
+
+Name: assets/Default/S/S4SS
+SHA1-Digest: rycez/tpS7nhZ7uJ+D4OYpnZPD0=
+
+Name: assets/Default/T/T32TS
+SHA1-Digest: glyVMOT4yZa2UnDSf4Kc1/ATHW0=
+
+Name: assets/Default/O/O0OC
+SHA1-Digest: 9WGY5JQGnSsSQ6U+G2/nuKoSfyo=
+
+Name: assets/Default/T/T32TJ
+SHA1-Digest: hkL+tfF82imCVp14J0KHyPrkcF8=
+
+Name: assets/HVGA/I/I80I
+SHA1-Digest: 8+RNXKhuPS+/8qJX+IwaHGiLq7w=
+
+Name: assets/HVGA/O/IdxOS
+SHA1-Digest: GEsjQrU3Ov18SbeMAkN8K1ImNYo=
+
+Name: assets/Default/T/T7T
+SHA1-Digest: 2BICiWAq+Jnw1zbc78v7Wpdxz/Y=
+
+Name: assets/HVGA/O/O4OC
+SHA1-Digest: 34DucGiQ90dC0c0qxC+tze1bz6Q=
+
+Name: assets/Default/T/T32TF
+SHA1-Digest: /PDh6EqWy5UAsXpMz/HeTsIJPWQ=
+
+Name: assets/HVGA/A/A72A
+SHA1-Digest: TmOcuBCm7uZBJMJCncpZcfC8bjk=
+
+Name: assets/HVGA/O/O4OF
+SHA1-Digest: PIKEgQxJd1D/mcGOtDD4KaFQeWk=
+
+Name: assets/Default/T/T32TG
+SHA1-Digest: qNta8lQzo59qqx9ca66KBXdUuyA=
+
+Name: assets/HVGA/O/O4OE
+SHA1-Digest: jWo1accwjYQAZLg3YkQAyHrpjfE=
+
+Name: assets/Default/A/A2A
+SHA1-Digest: hQ15QEZXBfO02MlGuktMSRoWRg4=
+
+Name: assets/Default/O/IdxOC
+SHA1-Digest: YvRX1qqb6JjytULw1ofJYws9eaQ=
+
+Name: assets/HVGA/O/IdxOJ
+SHA1-Digest: kX6VT0Gor16UPvzHMikn1IgTxI8=
+
+Name: assets/HVGA/I/I40I
+SHA1-Digest: I6cXdLp8brfPLJDYOp2x9WD2/fU=
+
+Name: assets/HVGA/O/IdxOG
+SHA1-Digest: 71dnJNcnvuj4roMQyUrKB6ROwOs=
+
+Name: assets/HVGA/O/IdxOE
+SHA1-Digest: pcJ7Obcv5PFOvnt4Qey1iel190U=
+
+Name: assets/HVGA/O/IdxOF
+SHA1-Digest: xDZjx9/JNuYPMz1zTkIWEE9r4pA=
+
+Name: assets/HVGA/O/IdxOC
+SHA1-Digest: YvRX1qqb6JjytULw1ofJYws9eaQ=
+
+Name: assets/Default/O/IdxOJ
+SHA1-Digest: kX6VT0Gor16UPvzHMikn1IgTxI8=
+
+Name: assets/Default/O/IdxOE
+SHA1-Digest: pcJ7Obcv5PFOvnt4Qey1iel190U=
+
+Name: assets/Default/O/IdxOF
+SHA1-Digest: xDZjx9/JNuYPMz1zTkIWEE9r4pA=
+
+Name: assets/HVGA/M/M22M
+SHA1-Digest: tyScFjaCxlDDCbUK4i9Pd4jAcCI=
+
+Name: assets/HVGA/O/O4OS
+SHA1-Digest: Y/w9QftvEJlbkvc/RNSAhUAsT74=
+
+Name: assets/Default/O/IdxOG
+SHA1-Digest: 71dnJNcnvuj4roMQyUrKB6ROwOs=
+
+Name: res/layout/main.xml
+SHA1-Digest: XcyOyU987R4VEjSKE3Azy3cQ68o=
+
+Name: assets/HVGA/O/O4O
+SHA1-Digest: LDJ7hAE9w6KzKyp/xmPU/laIGo0=
+
+Name: assets/Default/T/T8T
+SHA1-Digest: LrW6aQVrfjYyK7HhRbPzLWA4nM0=
+
+Name: assets/HVGA/A/A71A
+SHA1-Digest: +OQirqn19dI3RCfiUJgtDw6ZknU=
+
+Name: assets/HVGA/M/M66M
+SHA1-Digest: poxAz9aFrmp3myZNzJkCG4xTHRA=
+
+Name: assets/HVGA/A/A70A
+SHA1-Digest: MTm+AlFSXZkrJdWWO79t7btgcTs=
+
+Name: assets/Default/A/A5A
+SHA1-Digest: HVSWXQSHNsFcHrFmQHZChkY7Cng=
+
+Name: assets/HVGA/I/I133I
+SHA1-Digest: 4tsFYIdvjTT7J8/LP0cphKMb8WY=
+
+Name: assets/HVGA/M/M25M
+SHA1-Digest: 0rD4kGdsVr8QEK8YSXpkyMwiaa4=
+
+Name: assets/Default/T/T9T
+SHA1-Digest: mY1kqLSIx59gZF9epXbYrtG0oUQ=
+
+Name: assets/HVGA/T/T30TE
+SHA1-Digest: PrOkkANsrlChC2CCUwgnP4OTORc=
+
+Name: assets/HVGA/T/T30TF
+SHA1-Digest: wdtiAQoH0s7NsEpzl+IrykmsLoQ=
+
+Name: assets/HVGA/T/T30TG
+SHA1-Digest: IMtTenGF1QyN5UKT6I0Dgwn3nl4=
+
+Name: assets/HVGA/R/R0RC
+SHA1-Digest: KrljdLRxIZ7CAYaWnEK2p5ROMgo=
+
+Name: assets/HVGA/T/T30TC
+SHA1-Digest: 5sGw5gTnm/+TsdfaJnet9JCjTQ8=
+
+Name: assets/HVGA/R/R2R
+SHA1-Digest: G+TGnrmHguzBRTP1ahlBqs6ix/Y=
+
+Name: assets/Default/A/A4A
+SHA1-Digest: OlYDvwOyrH63/LjSuO4QmLKwQJI=
+
+Name: assets/HVGA/R/R0RF
+SHA1-Digest: bPwJxf7OaZqU7FUIMEsAnrb19qs=
+
+Name: assets/HVGA/R/R0RG
+SHA1-Digest: ZGvHHtc8P9to0jzYpQrDkbs8XUM=
+
+Name: assets/HVGA/R/R0RE
+SHA1-Digest: yH90gzUCit4gvjH+hICxNK9/Vpk=
+
+Name: assets/HVGA/M/M24M
+SHA1-Digest: BkYmCKPSDumDOJtIZaTIzljP5Bs=
+
+Name: assets/HVGA/R/R0RJ
+SHA1-Digest: yhHDymLZkXAIvTx8R1Lq1zGZpqE=
+
+Name: assets/Default/A/A99A
+SHA1-Digest: 3mQj+wXGiHlgPqdwr/6xKn9hSc4=
+
+Name: assets/HVGA/R/R0RS
+SHA1-Digest: OQ6Lwk7lkRW9bYEgIkADcVfN7L4=
+
+Name: assets/HVGA/T/T30TS
+SHA1-Digest: 2fgA+N3GOW/dEktHdtwkNOpEqJk=
+
+Name: assets/HVGA/T/T30TJ
+SHA1-Digest: nFFHtlKkral4aDqzRri8TbVRYSM=
+
+Name: assets/HVGA/T/T17TC
+SHA1-Digest: 8LDIL31Eeg00kwDqmBlozzdRBn8=
+
+Name: assets/HVGA/T/T17TE
+SHA1-Digest: YbDT30svSsm19CY0XWTzoVB9TJM=
+
+Name: assets/HVGA/T/T17TF
+SHA1-Digest: OUV9ZX1/j7jmbPhkizWvDbErs7k=
+
+Name: assets/Default/A/A45A
+SHA1-Digest: UaPcGfama0ZFDsCiVangxAqIYRw=
+
+Name: assets/HVGA/T/T17TG
+SHA1-Digest: jR5R2i++PuIeXN3qccCAlm6y7o4=
+
+Name: assets/HVGA/T/T9TE
+SHA1-Digest: urDVIjVOX6dZqVpBtagoTYZ1OW0=
+
+Name: assets/Default/I/I29I
+SHA1-Digest: Icrkc7UgbClYjmypxUw/zFQs7H0=
+
+Name: assets/HVGA/T/T9TF
+SHA1-Digest: cf+zUvLIFiwwNZ0eH6jUleXAq0o=
+
+Name: assets/HVGA/T/T9TG
+SHA1-Digest: vW0wdeu8FfjHFf89wUHCGXV/BoU=
+
+Name: assets/HVGA/T/T17TJ
+SHA1-Digest: fsmMqcUjdImqMz43bel6mJNFSWA=
+
+Name: assets/Default/M/M46M
+SHA1-Digest: Et1qHfP0LARRmoJtS+NFxVkNEBg=
+
+Name: assets/HVGA/T/T9TC
+SHA1-Digest: tflA3jr6Pvp9ePtYjvUYnTuMy1E=
+
+Name: assets/HVGA/I/I27I
+SHA1-Digest: esjgf3VKGzayJFVPo0BKLW+GDSE=
+
+Name: assets/HVGA/T/T22T
+SHA1-Digest: /LK4ug8j8/HURc/aGqY8QMoi1NI=
+
+Name: assets/HVGA/T/T9TJ
+SHA1-Digest: f5PUtqP7+e+wK5btySM0pQnJero=
+
+Name: assets/Default/I/I110I
+SHA1-Digest: b1YpA+84fEoFxh/dZ58igEDOtnQ=
+
+Name: assets/Default/A/A83A
+SHA1-Digest: c84D2aG3pvjwG+SCQc2CoGhXtGk=
+
+Name: assets/HVGA/T/T9TS
+SHA1-Digest: mYdniiu/xMK6fEAjuo7A2PR8QKg=
+
+Name: assets/HVGA/M/M20M
+SHA1-Digest: fVf7Nf/kUOCU8zlBbKcA4k5G6Wk=
+
+Name: assets/Default/A/A46A
+SHA1-Digest: +jregQJGasZDZcd2w1NeX2PNXDE=
+
+Name: assets/Default/I/I28I
+SHA1-Digest: LH8xCX79GZdwZBYx6hwZTrKwZ6U=
+
+Name: assets/Default/M/M47M
+SHA1-Digest: A8DiZhfX0d+ZVDG7ypT5GidxEpQ=
+
+Name: assets/HVGA/I/I26I
+SHA1-Digest: iSoZsPOvUK3EopDnV4FKprlq7bo=
+
+Name: assets/HVGA/T/T13TC
+SHA1-Digest: 9Ka7z/52Jy4tQ0xZ/mnxX576/O4=
+
+Name: assets/HVGA/T/T17TS
+SHA1-Digest: 5u05zN+FsE9AFSHm0hdq6LvibiA=
+
+Name: assets/HVGA/T/T13TG
+SHA1-Digest: JSa6WUjLOadhL9wVE6lQHU50vpc=
+
+Name: assets/HVGA/T/T13TF
+SHA1-Digest: U4T2FJN+DBdfmb/okCB3V8WE+K0=
+
+Name: assets/HVGA/T/T23T
+SHA1-Digest: yTdBq19e/ovjYu9zBn/pbpZC6Jw=
+
+Name: assets/HVGA/T/T13TE
+SHA1-Digest: qvQLt4obriCyWsE1CR19ohFNgXU=
+
+Name: assets/Default/M/IdxM
+SHA1-Digest: MlJqD0NiP/58c89WYBgiU8GGvSQ=
+
+Name: assets/HVGA/T/T13TJ
+SHA1-Digest: RshJMRe8cQyDpqbua3qa8xDsUHQ=
+
+Name: assets/Default/I/I111I
+SHA1-Digest: qP3pSDCje8wEOh4ZJHckTzPFDjE=
+
+Name: assets/HVGA/T/T13TS
+SHA1-Digest: PtwS4n/MKoynQx4Y2jhi7bVbpek=
+
+Name: assets/HVGA/M/M21M
+SHA1-Digest: mNo7JELL48HN01W+p8UweFs/Qjg=
+
+Name: assets/Default/T/T19TS
+SHA1-Digest: rSOEwC7wT4uCw7TxsyovNcxZP2A=
+
+Name: assets/Default/A/A84A
+SHA1-Digest: +n8ZL0/c+/Y8StygULh9yAD6/nU=
+
+Name: assets/Default/T/T5TC
+SHA1-Digest: w7RV1KYHmA+Y93YJ+LmWtNhHGmU=
+
+Name: assets/HVGA/T/T5TS
+SHA1-Digest: b6DdaClDW/f8MTQ8A8Az9Ut1XW0=
+
+Name: assets/Default/T/T5TE
+SHA1-Digest: 7tol08A16Ml6qebkUEKvI5E7sek=
+
+Name: assets/Default/T/T5TG
+SHA1-Digest: AaOYcfunY06tL4M3ejUzocj41Qo=
+
+Name: assets/Default/T/T5TF
+SHA1-Digest: kYZcmuhsBL4X+CvDBZim9QZPgPw=
+
+Name: assets/Default/A/A43A
+SHA1-Digest: U2L1DYzzS4QMhyxsAIxojfnBXIw=
+
+Name: assets/Default/T/T5TJ
+SHA1-Digest: 5z4Ty0kS/Vu6KuN/Jr8cTQGgpjI=
+
+Name: assets/HVGA/I/I29I
+SHA1-Digest: Icrkc7UgbClYjmypxUw/zFQs7H0=
+
+Name: assets/Default/M/M44M
+SHA1-Digest: l5T6vyQZ/wXRunCEVNs6E8kXGlo=
+
+Name: assets/HVGA/T/T24T
+SHA1-Digest: 772T0Z5LsX9VsQYzqlfzmcfdQ+8=
+
+Name: assets/Default/T/T5TS
+SHA1-Digest: ftDiOpV5FYBZW9gRosNAGKVNeIg=
+
+Name: assets/HVGA/T/T5TC
+SHA1-Digest: aQqv34E28YJTbjhQ5wFXgrXUo6w=
+
+Name: assets/HVGA/T/T5TF
+SHA1-Digest: jS/mXmB3Mh1B2Opy/TMKlm658WA=
+
+Name: assets/HVGA/T/T5TE
+SHA1-Digest: 44/MRpEio1BP+ZZ07T02erWvLpY=
+
+Name: assets/HVGA/T/T5TG
+SHA1-Digest: DfMkUU8Uq0VyfMjoc+/DvnXbjuU=
+
+Name: assets/HVGA/T/T5TJ
+SHA1-Digest: EJkRy8kMunyrqFn3k/YzE+4AzHY=
+
+Name: assets/Default/A/A85A
+SHA1-Digest: EfSFztq+CFmTNF79o/whwOyFEQk=
+
+Name: assets/HVGA/T/T1TC
+SHA1-Digest: cYMt1/5RERdZYnHMHAmi42v2ouI=
+
+Name: assets/Default/S/S11SE
+SHA1-Digest: 4q7Sxjq+/lAzwvnIzj9LJxyO4LY=
+
+Name: assets/Default/S/S6SJ
+SHA1-Digest: OPHPaq5kL6xV1+l71rjOuLM/58g=
+
+Name: assets/Default/S/S11SC
+SHA1-Digest: aebn5TAezJ7Kk4FCsA6iegamn7s=
+
+Name: assets/HVGA/T/T1TG
+SHA1-Digest: 6sRlHUldEy7c+IgtqI4lMptA534=
+
+Name: assets/HVGA/T/T28TS
+SHA1-Digest: mwEw8TJf58WodTZ6i4OY8Yjyidc=
+
+Name: assets/HVGA/T/T1TE
+SHA1-Digest: iW2c+zd0TKj4vCRUw26YpDGfdLI=
+
+Name: assets/HVGA/T/T1TF
+SHA1-Digest: 8VBak2LfW05BrUaNOEzpII7gsHM=
+
+Name: assets/Default/S/IdxSS
+SHA1-Digest: 15PuSjdSWCB+LGYnsdjbZ2RatM0=
+
+Name: assets/Default/S/S6SS
+SHA1-Digest: p2wWt5BURjviB+cJ+vR1tw4E2io=
+
+Name: assets/Default/M/M45M
+SHA1-Digest: hWQulxjEAjbKZoOz27E51b1TMEg=
+
+Name: assets/HVGA/T/T1TJ
+SHA1-Digest: EES1I54078KmB52Dg6KxFOunBSo=
+
+Name: assets/HVGA/I/I28I
+SHA1-Digest: LH8xCX79GZdwZBYx6hwZTrKwZ6U=
+
+Name: assets/Default/A/A44A
+SHA1-Digest: BQtLNFP3JCD4Du/yIBl+cQ9n5t8=
+
+Name: assets/HVGA/T/T25T
+SHA1-Digest: ufj2wh0mjAhF16a0wQOAdaDuKQM=
+
+Name: assets/HVGA/T/T1TS
+SHA1-Digest: w3NciIqeE4A05EPLgzb8gCF9Fq8=
+
+Name: assets/Default/S/S11SS
+SHA1-Digest: zKJVgAfwQ2C9LMIV7HbtdmLdOsQ=
+
+Name: assets/Default/S/S6SE
+SHA1-Digest: 5OF4W9CmRBWCg4kB4VR5m2+aicI=
+
+Name: assets/Default/S/S6SC
+SHA1-Digest: EeDtfJTrsJnpW/m9n9QfXQrGYDI=
+
+Name: assets/Default/S/S11SJ
+SHA1-Digest: uXTT0lPRTxN0Q0xBLKgnA8UT6zE=
+
+Name: assets/Default/A/A86A
+SHA1-Digest: 21jCYYtFmxMEvQUbJAN4GC06ZfU=
+
+Name: assets/Default/S/S6SF
+SHA1-Digest: skbNHDSXjDdJ5IIDAkj8VNykQZc=
+
+Name: assets/Default/S/S11SG
+SHA1-Digest: 037ykDTR77LEujQO3GGch2M0nmk=
+
+Name: assets/Default/S/S6SG
+SHA1-Digest: yQmRkNrIeuNc1hjhUhJIk7V0kZM=
+
+Name: assets/Default/S/S11SF
+SHA1-Digest: JXZtV9ymmtxShbQZ8X4HD1sXrOo=
+
+Name: assets/Default/I/I115I
+SHA1-Digest: hsCP/wAZBIKfGVUt5vZYizFMU6g=
+
+Name: assets/Default/M/M42M
+SHA1-Digest: cVijHNgP6tiObqRuHdrkoFePNAQ=
+
+Name: assets/Default/A/A41A
+SHA1-Digest: b6dLDwpJd3ykD2myDkGmCFGZ+Ls=
+
+Name: assets/Default/I/I25I
+SHA1-Digest: Ojexga2y/bfvyfeyZZkd8In8Bkk=
+
+Name: assets/HVGA/T/T28TJ
+SHA1-Digest: pEjkLeL33UGG8fvzeSYsU3HPwuk=
+
+Name: assets/Default/S/IdxSC
+SHA1-Digest: F5QLNIKtPr6+HBFuCKbNLpX+wsI=
+
+Name: assets/HVGA/T/T28TC
+SHA1-Digest: 3rfs/wQqTW9K8PNe3c8xBcc7+1s=
+
+Name: assets/HVGA/S/S28SS
+SHA1-Digest: E2DVjyW4ZvJQ7j6TPvX+9+hkyDQ=
+
+Name: assets/Default/S/IdxSE
+SHA1-Digest: OZxPvnf6spc9i+BP9y3gJdFrRZU=
+
+Name: assets/Default/S/IdxSF
+SHA1-Digest: /phyVSgQEHUltF6U3O0kpkwpn+o=
+
+Name: assets/HVGA/I/I22I
+SHA1-Digest: rbKjjObB+0yvTrCryPTVrLDZs7I=
+
+Name: assets/Default/S/IdxSG
+SHA1-Digest: ypqzJGxP8HFxW29vIYK2/m2rLow=
+
+Name: assets/HVGA/T/T28TG
+SHA1-Digest: GoJV00TpT7ET/AyzcSC+3nIMr/U=
+
+Name: assets/HVGA/T/T28TF
+SHA1-Digest: dQzVcTpaLSqK1FSvGNr7fW+xbRc=
+
+Name: assets/HVGA/T/T28TE
+SHA1-Digest: nFJoSXLqm8Sa5X03sirKFxY4KF0=
+
+Name: assets/HVGA/T/T26T
+SHA1-Digest: cv+PPjKF7t7AV9dAJEd7RFKbInM=
+
+Name: assets/Default/S/IdxSJ
+SHA1-Digest: /MKQ9syNwkft61MPExkvbRCGPn8=
+
+Name: assets/Default/A/A42A
+SHA1-Digest: iXLrEwSTbIczX99NTwusnU6dp0I=
+
+Name: assets/HVGA/S/S28SJ
+SHA1-Digest: PpvYvIWNvgbvcsLd1GDJXwpVO5M=
+
+Name: assets/Default/M/M43M
+SHA1-Digest: XR7hE/D0VSjKXkA6Om4c5Wx+W80=
+
+Name: assets/Default/I/I116I
+SHA1-Digest: RJL5eSVak0Yjclu7qhbETX6Yglw=
+
+Name: assets/Default/I/I24I
+SHA1-Digest: B3PQ3J3CHtJF8azDoOWoRYMPVVc=
+
+Name: assets/Default/A/A80A
+SHA1-Digest: nIp/5Lj923ILYKaBRYwi7T7eYIo=
+
+Name: assets/HVGA/S/S28SC
+SHA1-Digest: a/IDskRo7P5bNVhkLU5/ZiTpUGU=
+
+Name: assets/HVGA/S/S28SF
+SHA1-Digest: 3KkP6SYFPjhQtVWe2UhBUbATT5k=
+
+Name: assets/HVGA/S/S28SE
+SHA1-Digest: Z1T3hiXr3l3AzhJA48ZtdrYYNqE=
+
+Name: assets/HVGA/S/S28SG
+SHA1-Digest: rrVAUlG8tbwWFTrmzy2iwJj7Ko4=
+
+Name: assets/HVGA/I/I21I
+SHA1-Digest: 8ZcR17idgA456hL/clrvzM+dCac=
+
+Name: assets/HVGA/T/T27T
+SHA1-Digest: FvAxvoSE997JimE/okVyiOlgCv4=
+
+Name: assets/HVGA/I/I25I
+SHA1-Digest: Ojexga2y/bfvyfeyZZkd8In8Bkk=
+
+Name: assets/Default/I/I113I
+SHA1-Digest: YcUp34ga2zJYjqWRbN0j+8jhQnQ=
+
+Name: assets/Default/I/I27I
+SHA1-Digest: esjgf3VKGzayJFVPo0BKLW+GDSE=
+
+Name: assets/Default/A/A81A
+SHA1-Digest: 7wFOag7MkYeNNjVkiHHeazCYGEA=
+
+Name: assets/HVGA/P/IdxP
+SHA1-Digest: cbavI8xcvol06vXiLhLsFX6SMnw=
+
+Name: assets/HVGA/T/T28T
+SHA1-Digest: k1EgjoN75Xtxu1qpx/Q58rZNvOw=
+
+Name: assets/Default/I/I112I
+SHA1-Digest: Kc9Dr8U3afMg8G4X6A/binLdwFY=
+
+Name: assets/Default/S/S11S
+SHA1-Digest: weDlIposK6yA6zlxhQLtGBKZPlE=
+
+Name: assets/Default/I/I26I
+SHA1-Digest: iSoZsPOvUK3EopDnV4FKprlq7bo=
+
+Name: assets/Default/A/A40A
+SHA1-Digest: ZYVRK4f4EH9F3mqTaEq0j8LEyAw=
+
+Name: assets/HVGA/I/I24I
+SHA1-Digest: B3PQ3J3CHtJF8azDoOWoRYMPVVc=
+
+Name: assets/HVGA/T/T29T
+SHA1-Digest: sMNruROIotyYzz3MWrWOPAk+IGE=
+
+Name: assets/Default/I/I114I
+SHA1-Digest: 9nYYQUmevZIJAgL9K2gvzMefk3w=
+
+Name: assets/Default/M/M41M
+SHA1-Digest: zGiyZe0IAw2FIx/gbFXHHiTW5yI=
+
+Name: assets/Default/A/A82A
+SHA1-Digest: zcsRlZ9r+PVrPBL3KgkKxw1Hk18=
+
+Name: assets/Default/M/M40M
+SHA1-Digest: HPBdEqcbTWMbwX/vkgZ7q5DjxvU=
+
+Name: assets/Default/S/S10S
+SHA1-Digest: WJGbiaWNnJPaOb0Pv8dCC0st8AA=
+
+Name: assets/HVGA/I/I23I
+SHA1-Digest: r8IHjCHpaUL890Px7xdCKPSPK3E=
+
+Name: assets/HVGA/U/U1UG
+SHA1-Digest: EbyAvbkAQFMOLT/EnX/8hfRfTno=
+
+Name: assets/Default/I/I20I
+SHA1-Digest: 9TzdUgHfd4BTPDEFMnf65QEZVz0=
+
+Name: assets/HVGA/U/U1UF
+SHA1-Digest: EiVcA48i4Q+nlSVjY8zYb+tJNMI=
+
+Name: assets/HVGA/U/U1UE
+SHA1-Digest: 7l/moN2MQf3a8vRZGpULqmkNQLg=
+
+Name: assets/Default/S/S13S
+SHA1-Digest: ffJevT4b2MlykS2b5bhNJie2O9U=
+
+Name: assets/HVGA/U/U1UJ
+SHA1-Digest: lnYhB+pMY3Q6US0Erro1SjlQZis=
+
+Name: assets/HVGA/A/A117A
+SHA1-Digest: /+oSvKNpUhRI+wrQfFvv/GtfrTY=
+
+Name: assets/HVGA/S/S12SC
+SHA1-Digest: MrOhXr5pCU2xw/ukj2YKx1D6h7Q=
+
+Name: assets/HVGA/S/S12SE
+SHA1-Digest: Dm1PaIcjXPO7jAcYZ0Lh0s6s5Vk=
+
+Name: assets/HVGA/U/U1US
+SHA1-Digest: Y6kvLF6aGtZGd8Bh0RsiyGE3ir8=
+
+Name: assets/HVGA/S/S12SJ
+SHA1-Digest: ls8jwLK8RQlcyC7M5RwfPa1koog=
+
+Name: assets/HVGA/T/IdxT
+SHA1-Digest: XWzaQg6xoQ2B3GkheyERtqIFzGs=
+
+Name: assets/HVGA/S/S12SG
+SHA1-Digest: IJPENnbtgwRsQIIPqD5zvoJxQZE=
+
+Name: assets/HVGA/S/S12SF
+SHA1-Digest: G+EGJqCdhRIeSogEf2E3tD4zT2g=
+
+Name: assets/HVGA/S/S12SS
+SHA1-Digest: 9EC6+ILOA2E4HenD2507pX4rXKY=
+
+Name: assets/Default/I/I119I
+SHA1-Digest: RTCQOQTvaaAiZD2MYTKS1vX1DA0=
+
+Name: assets/Default/S/S12S
+SHA1-Digest: SSQtsIb5EEERZnj6u52pRb6ywcs=
+
+Name: assets/HVGA/A/A116A
+SHA1-Digest: WCwQNq2DcyVPALgivZFgF0OR8yY=
+
+Name: assets/HVGA/A/A40A
+SHA1-Digest: ZYVRK4f4EH9F3mqTaEq0j8LEyAw=
+
+Name: assets/Default/S/S15S
+SHA1-Digest: fgzKZBaxZ3eZoVhnoB/4Ut7pwUk=
+
+Name: assets/HVGA/A/A115A
+SHA1-Digest: NBsBKVN3gVIReptGRD38ua4BtIs=
+
+Name: assets/Default/I/I22I
+SHA1-Digest: rbKjjObB+0yvTrCryPTVrLDZs7I=
+
+Name: assets/Default/I/I70I
+SHA1-Digest: kLyKVg6X4qAwTC7yVIcG0Kv3AeI=
+
+Name: assets/Default/I/I23I
+SHA1-Digest: r8IHjCHpaUL890Px7xdCKPSPK3E=
+
+Name: assets/Default/I/I117I
+SHA1-Digest: kwrwk6+lIH06JmZaXTUABeq2MzY=
+
+Name: assets/Default/S/S14S
+SHA1-Digest: At8T0TzoM8ZnbmE/olO86ZJ9tkw=
+
+Name: assets/Default/S/S0SS
+SHA1-Digest: pS39xjAB007iOim1/pZjE9cjiPI=
+
+Name: assets/Default/S/IdxS
+SHA1-Digest: 1DRtQis9hD7sNfyhYWCZISjsfVQ=
+
+Name: assets/Default/I/I21I
+SHA1-Digest: 8ZcR17idgA456hL/clrvzM+dCac=
+
+Name: assets/HVGA/A/A114A
+SHA1-Digest: yy0nqOaiyw3L/fGnVwwdNGEcbek=
+
+Name: classes.dex
+SHA1-Digest: dPUM1qZRv+I6lN9V5Avq/rmmc1U=
+
+Name: assets/Default/S/S0SC
+SHA1-Digest: ifDF3Dkmsd42fqlCKjBe7U6CdaE=
+
+Name: assets/Default/S/S0SE
+SHA1-Digest: ScbpXPVaPzNkdyl8qTNUGS3IbGg=
+
+Name: assets/Default/S/S0SF
+SHA1-Digest: /QZHze6ZX5IFQQyBEXFZ433LPks=
+
+Name: assets/Default/S/S0SG
+SHA1-Digest: 8iu/5xrH1xou2gB3Tq0sxIKY4wo=
+
+Name: assets/Default/S/S0SJ
+SHA1-Digest: i5glNwnKkI2tiJNvU6UNdxceTcs=
+
+Name: assets/Default/I/I118I
+SHA1-Digest: ZN3RUedda1G06oSZxSMGeQpHsjo=
+
+Name: assets/HVGA/A/A43A
+SHA1-Digest: U2L1DYzzS4QMhyxsAIxojfnBXIw=
+
+Name: assets/HVGA/T/IdxTS
+SHA1-Digest: rS7fSV6VDUoO3eKGiW8te9vvDmc=
+
+Name: assets/HVGA/I/I106I
+SHA1-Digest: pGKd//15Tpbfv5VGKQVicpD676E=
+
+Name: assets/HVGA/A/A113A
+SHA1-Digest: QCOYcQwBXehypsg8lSnvBVyPB48=
+
+Name: assets/Default/R/R2R
+SHA1-Digest: G+TGnrmHguzBRTP1ahlBqs6ix/Y=
+
+Name: assets/Default/S/S17S
+SHA1-Digest: Lq6nwnxHEBq2vyrdPr544so2OWs=
+
+Name: assets/Default/A/A49A
+SHA1-Digest: lkOlKsAVjGI0OSTAqfF2TuXYnkw=
+
+Name: assets/Default/T/T22T
+SHA1-Digest: Fi6kBEzTdqdG2aIDTt6HQktj8nc=
+
+Name: assets/Default/I/I72I
+SHA1-Digest: x6BY97Nl/QZHzSTBVJ98LNbzWfc=
+
+Name: assets/HVGA/A/A44A
+SHA1-Digest: BQtLNFP3JCD4Du/yIBl+cQ9n5t8=
+
+Name: assets/HVGA/I/I107I
+SHA1-Digest: a3iZTjyc+qdDWdlwzZyJsN2pf8o=
+
+Name: assets/HVGA/A/A112A
+SHA1-Digest: rrX6y/BD4eLIy15ZIVSVPUseXJU=
+
+Name: assets/Default/S/S16S
+SHA1-Digest: uQOGHuEiF4Os9/HJzgvJNALsmes=
+
+Name: assets/Default/R/R1R
+SHA1-Digest: 68uJpgWyJNSKqdTpUiU78XPaRkc=
+
+Name: assets/Default/T/T23T
+SHA1-Digest: ljW0I6GGLjK5hcfB/+3EYKyAzL4=
+
+Name: assets/Default/I/I71I
+SHA1-Digest: THNg3wwZBeSCA0JKsWz8QDerL2k=
+
+Name: assets/HVGA/A/A111A
+SHA1-Digest: 8DCJao6+bequ3jBc2zzWPjYofRg=
+
+Name: assets/HVGA/T/T20T
+SHA1-Digest: 5F8LQWW3Wtmxx649OKEIWkGJdFM=
+
+Name: assets/HVGA/A/A41A
+SHA1-Digest: b6dLDwpJd3ykD2myDkGmCFGZ+Ls=
+
+Name: assets/Default/R/R0R
+SHA1-Digest: 3A3g2QWq9lGA7C5HWwzK7BPb6eQ=
+
+Name: assets/Default/U/U3US
+SHA1-Digest: 3lwRIGsCAH604LqFce0JfcsxT18=
+
+Name: assets/HVGA/I/I108I
+SHA1-Digest: H+DaQmoYKt9m6zSZygUyH1EcgBM=
+
+Name: assets/Default/M/M48M
+SHA1-Digest: mO/kblBmfU8pwJpRJrTVYso7rM4=
+
+Name: assets/Default/O/O4OF
+SHA1-Digest: Fo0RQN/gnG5YjNS7wSPYJwFbYTc=
+
+Name: assets/Default/T/T19TC
+SHA1-Digest: vCxIm8siGI0a0Pn02tPdGSpy6w8=
+
+Name: assets/Default/O/O4OG
+SHA1-Digest: 4aDuTwAsCtMCo3hO/oT91y9b1S8=
+
+Name: assets/HVGA/B/IdxB
+SHA1-Digest: rxBmg9u/vbBx1EKx4r3S5Xjuvm8=
+
+Name: assets/Default/O/O4OE
+SHA1-Digest: uP+fxXFh0t6DPAk+0VsC/GxDkw0=
+
+Name: assets/Default/S/S19S
+SHA1-Digest: 0hpLLSZwf5xrIbEGZ/GXICLtVBs=
+
+Name: assets/Default/O/O4OC
+SHA1-Digest: x8NcGvfdBmTmZTJUSpZND/wClj4=
+
+Name: assets/Default/U/U3UJ
+SHA1-Digest: 3lwRIGsCAH604LqFce0JfcsxT18=
+
+Name: assets/Default/T/T19TJ
+SHA1-Digest: kHTW28G6TNp6oEDUse7I1CzIlLU=
+
+Name: assets/Default/U/U3UG
+SHA1-Digest: 3lwRIGsCAH604LqFce0JfcsxT18=
+
+Name: assets/Default/A/A47A
+SHA1-Digest: MbPsASHY/64jNATfaH7vGetTo3c=
+
+Name: assets/Default/I/I74I
+SHA1-Digest: 8taE+Ubq3yMWYBb2emSEvmm3PGA=
+
+Name: assets/Default/O/O4OJ
+SHA1-Digest: irSezWjhLVRHs/UWde2iA7FxvW8=
+
+Name: assets/Default/U/U3UE
+SHA1-Digest: NtgsBrcKHkX0mRDtY3rF+Z8HaL0=
+
+Name: assets/Default/T/T20T
+SHA1-Digest: pTsxa1oUUjHKSxRvkrpjf2qLOR8=
+
+Name: assets/Default/T/T19TG
+SHA1-Digest: CQi+AZi9C6jgv2DgJNJaJ7lRM6w=
+
+Name: assets/Default/U/U3UF
+SHA1-Digest: 3lwRIGsCAH604LqFce0JfcsxT18=
+
+Name: assets/Default/T/T19TF
+SHA1-Digest: 4s8BlFlkFneWE0AxG+NbIHUPyQ0=
+
+Name: assets/Default/U/U3UC
+SHA1-Digest: H17HHoQB1C2ivf3hAd4GMXtMuGY=
+
+Name: assets/Default/T/T19TE
+SHA1-Digest: XMB32r7SzGhrKwARLTu05AufCpk=
+
+Name: assets/Default/T/T15TE
+SHA1-Digest: Pis6/dIYvdEcbic4ByBECVn0c5I=
+
+Name: assets/Default/T/T15TF
+SHA1-Digest: okA2Y6zzniAGVye5tr9a0VBxuhE=
+
+Name: assets/Default/T/T15TG
+SHA1-Digest: Gu+XOyqZghwYOdX4WDjUoFSOUug=
+
+Name: assets/HVGA/I/I109I
+SHA1-Digest: F5kzipP7DWFDQ6hs0Vr+vWB/jQI=
+
+Name: assets/HVGA/A/A110A
+SHA1-Digest: 0D58BLJ5ErK+B3QU1nyZZM3t5Lg=
+
+Name: assets/Default/T/T15TC
+SHA1-Digest: vHFk1PJm7iyrvo2Y0RNHJVTSsuY=
+
+Name: assets/Default/O/O4OS
+SHA1-Digest: 0EuDaK7SW4ZDrraIJqDcTu71w0o=
+
+Name: assets/HVGA/A/A42A
+SHA1-Digest: iXLrEwSTbIczX99NTwusnU6dp0I=
+
+Name: assets/Default/T/T15TJ
+SHA1-Digest: O7QMx0J0SZjwsjlKdbCl72RbBuY=
+
+Name: assets/HVGA/T/T21T
+SHA1-Digest: gb8+amhW8TLcDl2DwCH8yPzeCzY=
+
+Name: assets/HVGA/T/IdxTC
+SHA1-Digest: u6M2SaV3YmgAS6iKBnKMda8YT0I=
+
+Name: assets/HVGA/U/U1UC
+SHA1-Digest: MdQCylCtcMnd7jSOqjwhQ6tSfBo=
+
+Name: assets/Default/S/S18S
+SHA1-Digest: oRQKqzGt2f0n1IHV0XBBq8aWnMs=
+
+Name: assets/Default/A/A48A
+SHA1-Digest: i6cZoy7bHJ2MZ1305iN/GYDphMM=
+
+Name: assets/Default/I/I73I
+SHA1-Digest: ceNy8mMnNx3hSvXkThJ18mGHl1g=
+
+Name: assets/HVGA/T/IdxTJ
+SHA1-Digest: RaS6dModgYz9uqbhQDED0dRzlBc=
+
+Name: assets/HVGA/T/IdxTG
+SHA1-Digest: rV3qEcrthNjslSZG2f0wCW7bsKU=
+
+Name: assets/Default/M/M49M
+SHA1-Digest: A/QZ3LlV2ZnP9akrTGJR6EQ0in0=
+
+Name: assets/HVGA/T/IdxTF
+SHA1-Digest: lobZqJUrzkFME5Lno8B2Z9BjkJY=
+
+Name: assets/Default/T/T21T
+SHA1-Digest: fOmPDQ3QFMt/XbjxhOu9ar4PUDg=
+
+Name: assets/HVGA/T/IdxTE
+SHA1-Digest: gleA2R8jPJykzVCYuVs+/NilVIo=
+
+Name: assets/HVGA/O/O5OJ
+SHA1-Digest: j/pXgFlGKJdp4j25FuWXA0j/+jU=
+
+Name: assets/Default/T/T27T
+SHA1-Digest: ZWDzqfbHYwV2m/a0rk3dihq4+tY=
+
+Name: assets/Default/I/I75I
+SHA1-Digest: 7GWbyHIv4xbFiTbQzu8rX9Wd93E=
+
+Name: assets/HVGA/I/I78I
+SHA1-Digest: lrttCXiro74ExLIIMRmnObHZfO4=
+
+Name: assets/Default/S/S1S
+SHA1-Digest: 6cJ01W4P8V0rI7tP1Aqvgtot6Z4=
+
+Name: assets/HVGA/O/O5OF
+SHA1-Digest: 7KVIj2QrijFWyMEvaJcNsVnVL2w=
+
+Name: assets/HVGA/O/O5OG
+SHA1-Digest: vFuiTNXVsntzL9lW6hn6zu42mS4=
+
+Name: assets/HVGA/O/O5OE
+SHA1-Digest: 9awt43qmtNHu3o/MgTJ9v7tj2/0=
+
+Name: assets/HVGA/O/O5OC
+SHA1-Digest: LLjYahAOIUkoQarymzJo2hjtHts=
+
+Name: assets/HVGA/A/A86A
+SHA1-Digest: 21jCYYtFmxMEvQUbJAN4GC06ZfU=
+
+Name: assets/HVGA/O/O1OS
+SHA1-Digest: 2hj8qvHLYXApnO8melgRS4G8ZhQ=
+
+Name: assets/HVGA/A/A36A
+SHA1-Digest: 7rhO5qGDFiUjaE7VH8tOPDQJrEY=
+
+Name: assets/HVGA/I/I103I
+SHA1-Digest: xYoSFq5nRJcO/U3I+ZYhsQO3q8k=
+
+Name: assets/Default/T/T14TJ
+SHA1-Digest: wi+Z08sJ+6rMa8c/gR8tzTucH88=
+
+Name: assets/Default/S/S0S
+SHA1-Digest: odAYdKXXON1dZOnb4wxI0/zZ/0w=
+
+Name: assets/Default/T/T14TG
+SHA1-Digest: uygDoQD8l6xh6BR8pD2cKj0HZDU=
+
+Name: assets/Default/T/T14TF
+SHA1-Digest: XOOGyYAnrkJ+ZwI+4GFghpBMQGs=
+
+Name: assets/HVGA/I/I79I
+SHA1-Digest: ciP+vW3Lj+yYgfZP9u3eT8K4hbE=
+
+Name: assets/Default/T/T14TE
+SHA1-Digest: GCE8Je6T/obnqXSAYAkqbJT/gpQ=
+
+Name: assets/Default/O/O3OS
+SHA1-Digest: p64WEQid/lTWS/0Qv2Dx6teX9dQ=
+
+Name: assets/Default/T/T14TC
+SHA1-Digest: DaG1/T1wrmSxG3Ex8ts5eE+sSc4=
+
+Name: assets/Default/T/T26T
+SHA1-Digest: rSXdqs9/in7jTriHyscWpAU148Q=
+
+Name: assets/Default/A/A119A
+SHA1-Digest: rdQNv9MZcs7ONAblvay+soJPNmE=
+
+Name: assets/Default/T/T9TJ
+SHA1-Digest: tHWBleo/C9UEMHOq+F1pmvKYgB0=
+
+Name: assets/Default/O/O3OJ
+SHA1-Digest: qmbJbWxi25OlDVwUUZzhTB/2HMg=
+
+Name: assets/Default/S/S2S
+SHA1-Digest: /vHS5bjfoI7MTZEGUkiA0EfTVWw=
+
+Name: assets/Default/I/I76I
+SHA1-Digest: 0R9u4xOJLSXQhqFlZ0hqS7gKL7U=
+
+Name: assets/HVGA/I/I77I
+SHA1-Digest: mDEdR4K7eHrhiVaWMx/4PIBoSRw=
+
+Name: assets/Default/O/O3OF
+SHA1-Digest: /T7LjuKtnl33okim8lZPvO0dp2w=
+
+Name: assets/Default/T/T9TS
+SHA1-Digest: 1O4ysE4t4HC44rDKkdX5WfsS8TU=
+
+Name: assets/Default/O/O3OE
+SHA1-Digest: eMJk9Be/ox/lfVdsM+cg/j65rH0=
+
+Name: assets/HVGA/A/A85A
+SHA1-Digest: EfSFztq+CFmTNF79o/whwOyFEQk=
+
+Name: assets/Default/O/O3OG
+SHA1-Digest: 6NbNTqp0ZiHOaDOYQhH7Di1YbtQ=
+
+Name: assets/Default/O/O3OC
+SHA1-Digest: d9ygiyN2f9jAXgxChuyCKTSbVUw=
+
+Name: assets/HVGA/I/I102I
+SHA1-Digest: oz/CuVMFJdqEJjw1tYuZ3EyoxSQ=
+
+Name: assets/HVGA/A/A35A
+SHA1-Digest: VZYA57fDkGcKV3euddoDUfaW8uo=
+
+Name: assets/HVGA/O/O1OJ
+SHA1-Digest: vBUUMV38U+X5XsP2FHwwfN1anl4=
+
+Name: assets/HVGA/O/O1OG
+SHA1-Digest: kmggueoi2NMmhPMydIW1xgN/5NU=
+
+Name: assets/HVGA/O/O5OS
+SHA1-Digest: URyGk0twOEFE/KK1rymfHh66evA=
+
+Name: assets/Default/T/T9TC
+SHA1-Digest: NFscImhj9WA+yGFWxMckWlC2qF0=
+
+Name: assets/HVGA/O/O1OF
+SHA1-Digest: xi9KdV+aUPvfwC30S53oKOs1m4Q=
+
+Name: assets/Default/T/T9TE
+SHA1-Digest: mIRSH/Z6wT2niLj91c90dN0zLj8=
+
+Name: assets/Default/T/T9TF
+SHA1-Digest: D2inqxQFmh9pf/8owxEwD9kU6VE=
+
+Name: assets/HVGA/O/O1OC
+SHA1-Digest: YJdNqFJUDXrGbCwuhkU/D3jxtwU=
+
+Name: assets/Default/T/T9TG
+SHA1-Digest: l2H8sc8FivHFPqpR/te8eurhDhM=
+
+Name: assets/HVGA/O/O1OE
+SHA1-Digest: 2YLnA4DfR4rcZG1qVw5Ouaotrtc=
+
+Name: assets/Default/S/S3S
+SHA1-Digest: t+J8VG/i91iSy7oHnRIUz3VV8Dg=
+
+Name: assets/Default/I/I77I
+SHA1-Digest: mDEdR4K7eHrhiVaWMx/4PIBoSRw=
+
+Name: assets/Default/A/A118A
+SHA1-Digest: C5C7WnpMdyoFbqak0BTif/l0pNI=
+
+Name: assets/Default/T/T25T
+SHA1-Digest: WpjHS7yJ/PIYFIkEw/R2ZHfIjsY=
+
+Name: assets/Default/T/T1TS
+SHA1-Digest: DHhXyLLfkPnv2S1KZqyIFNsZEyU=
+
+Name: assets/HVGA/A/A88A
+SHA1-Digest: eiZCI/HkgEBeTPAZCan6TsNX578=
+
+Name: assets/HVGA/I/I105I
+SHA1-Digest: vrTXg1YgtTz7PQt9ShZ2bQUfi6k=
+
+Name: assets/Default/T/T1TF
+SHA1-Digest: td+D8Mfr5c0AoDVlS2kDnpEPHTQ=
+
+Name: assets/Default/T/T1TG
+SHA1-Digest: f+QZzp1k5+E9kTgbJMczWUUkHhY=
+
+Name: assets/Default/T/T1TE
+SHA1-Digest: nyTi2wdPI5FCPNeTTb++fxXcDSE=
+
+Name: assets/Default/T/T1TC
+SHA1-Digest: FuLxeScI7MUErrCX1PqxsQSYLdQ=
+
+Name: assets/Default/S/S15SS
+SHA1-Digest: M6UdhEsxO0PU2kDS4n9NK186NiE=
+
+Name: assets/HVGA/A/A34A
+SHA1-Digest: 379hWmmtxtlYijoVbh1b6Ka4ioY=
+
+Name: assets/Default/I/I78I
+SHA1-Digest: lrttCXiro74ExLIIMRmnObHZfO4=
+
+Name: assets/Default/T/T1TJ
+SHA1-Digest: nxKB/7w4U6CWtXXAnLJZhk+Nn6c=
+
+Name: assets/Default/S/S15SJ
+SHA1-Digest: dKXBPz05IXESG+YNRjf/ndezw64=
+
+Name: assets/Default/S/S4S
+SHA1-Digest: 8hU/rKEJHZiCg7YCp66YqRlAne8=
+
+Name: assets/Default/T/T24T
+SHA1-Digest: HKn+7VLkDstDdl7XS8aXveSk/x4=
+
+Name: assets/Default/A/A117A
+SHA1-Digest: /+oSvKNpUhRI+wrQfFvv/GtfrTY=
+
+Name: assets/Default/T/T14TS
+SHA1-Digest: mCb14Xgsw8oqHPqKfvaeA+x3oBg=
+
+Name: assets/Default/S/S15SC
+SHA1-Digest: SsWeqsSk0rJVf+rNblHbtlylBRc=
+
+Name: assets/Default/S/S15SE
+SHA1-Digest: TcyADn8JgmZj6r+JTS5NamivYgA=
+
+Name: assets/HVGA/A/A87A
+SHA1-Digest: IBgZx+6Scbv5mvkhp7vpqhPqiaM=
+
+Name: assets/Default/S/S15SF
+SHA1-Digest: dghFFoWJA5IeSPoP4ggsQ7xxj5M=
+
+Name: assets/Default/S/S15SG
+SHA1-Digest: pin75qVeQyiE9LCzU4jMDcd8P8A=
+
+Name: assets/HVGA/I/I104I
+SHA1-Digest: uZ8DTzG0XozONO3HD+PTWyyfgGE=
+
+Name: assets/HVGA/A/A33A
+SHA1-Digest: RY8u4ila54EZVA4vJDvESBZ3LVE=
+
+Name: assets/Default/I/I79I
+SHA1-Digest: ciP+vW3Lj+yYgfZP9u3eT8K4hbE=
+
+Name: assets/Default/S/S26SS
+SHA1-Digest: cPmLc3p3xDyQM0YjjkeSRbhm0WY=
+
+Name: assets/HVGA/A/A109A
+SHA1-Digest: 7wawfT08PqsmrRzSgv6zudLRfoU=
+
+Name: assets/HVGA/S/S7SF
+SHA1-Digest: mkQlI+mRUXw+W/7aReztSr2Yrgs=
+
+Name: assets/HVGA/I/I74I
+SHA1-Digest: 8taE+Ubq3yMWYBb2emSEvmm3PGA=
+
+Name: assets/HVGA/S/S7SG
+SHA1-Digest: Kxh7UpbIpDGHqcoFGbDs7sXeBmo=
+
+Name: assets/HVGA/S/S7SE
+SHA1-Digest: oNYDT7WmjJCKpKLiN2pZnETskE0=
+
+Name: assets/Default/S/S5S
+SHA1-Digest: p4118Lp99D66GmoVqWl+yNeZLVQ=
+
+Name: assets/HVGA/S/S7SC
+SHA1-Digest: 9R/DqRydy/Oqm71aiNSz4sfhW0I=
+
+Name: assets/Default/T/T24TE
+SHA1-Digest: H2UVkL2yh71JKpaOaBYUpxd0Jac=
+
+Name: assets/Default/T/T24TF
+SHA1-Digest: PEB2n0XgJqTMxd6r3rMlDTmUsgo=
+
+Name: assets/Default/T/T24TC
+SHA1-Digest: 1a7R1VCDYk8vEuZx8zkKKuGDqzM=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 12nf91eZ15cloSJ/H5ZHrzcOZ9o=
+
+Name: assets/HVGA/S/S7SJ
+SHA1-Digest: 2XqZDNWKimKbZDuDs3xnJCzCZM0=
+
+Name: assets/Default/T/T24TJ
+SHA1-Digest: 6iDt2caCkv/kamm+8SHSl2F9tWk=
+
+Name: assets/Default/T/T24TG
+SHA1-Digest: p3qwBqBT4rGTqvYNN6GKx+mKaho=
+
+Name: assets/HVGA/A/A108A
+SHA1-Digest: UebmR6x0DP6DEzTlHmE09x01n1c=
+
+Name: assets/HVGA/S/S7SS
+SHA1-Digest: MWoGgBNuTBNJM/ppPIQ5EuxrH+U=
+
+Name: assets/Default/T/T24TS
+SHA1-Digest: 4v5pXw+FttITcW4YGFnZokVjdcU=
+
+Name: assets/Default/T/T20TG
+SHA1-Digest: paNH8jNsRzBKF8hC/cyrkhhYvkQ=
+
+Name: assets/Default/T/T20TJ
+SHA1-Digest: 8RgH3l+tuXzFEUDLY7UPB+GAdX0=
+
+Name: assets/Default/S/S22SJ
+SHA1-Digest: nWkEXfytO5Y9RpAeKvUSEPPC3Ig=
+
+Name: assets/HVGA/S/S3SS
+SHA1-Digest: 9//Clh/VbfxCzbkfYPibLGuEHzc=
+
+Name: assets/HVGA/A/A89A
+SHA1-Digest: 7HEAYopJI2D4dVuQN0BhraH80hs=
+
+Name: assets/Default/S/S22SF
+SHA1-Digest: bZY6s2pC3iE9iC+rfsNi61B8ph4=
+
+Name: assets/Default/S/S22SG
+SHA1-Digest: /x1kxtzc0oAe5I46reM6mylBk3w=
+
+Name: assets/Default/S/S6S
+SHA1-Digest: s9SzYL/7FAhG0zfdDsHr5fdJ+Z4=
+
+Name: assets/Default/S/S22SS
+SHA1-Digest: nRHpOE2FssJfSsrIGP2X/tURYvg=
+
+Name: assets/HVGA/I/I73I
+SHA1-Digest: ceNy8mMnNx3hSvXkThJ18mGHl1g=
+
+Name: assets/Default/T/T20TS
+SHA1-Digest: bCTJxLE324cUKEQq3Jt2VYW8dqs=
+
+Name: assets/Default/W/W3W.ogg
+SHA1-Digest: h4JRvRa4gG+HB8/IUBVtOVfOg9c=
+
+Name: assets/HVGA/S/S3SC
+SHA1-Digest: XVIyAIFitT3Fk9pJgpGKAc/rQmg=
+
+Name: assets/HVGA/R/IdxRS
+SHA1-Digest: E8/NdbUXgeKMXvrveOqBMAhHDn4=
+
+Name: assets/Default/S/S22SE
+SHA1-Digest: gnJFeWmO7st45P/g2qCFyrEHA8M=
+
+Name: assets/Default/S/S22SC
+SHA1-Digest: xDnW+oPjovFFq6lH6VCGhJfeJUI=
+
+Name: assets/HVGA/S/S3SJ
+SHA1-Digest: qPrbdYeqIhR9YP6jHXB9/pUhVrk=
+
+Name: assets/Default/T/T20TC
+SHA1-Digest: bq+tl1vTVbU+TCH6o3R2UYBmNVk=
+
+Name: assets/HVGA/S/S3SE
+SHA1-Digest: PChfr99swHROkJvkCDB5dDlEqxI=
+
+Name: assets/Default/T/T20TE
+SHA1-Digest: FSY7+Ez6NVl7y5kb25fBXnEJZ5Q=
+
+Name: assets/HVGA/A/A39A
+SHA1-Digest: KP8TEwGFR1K+hY52aQkEYKWXE2o=
+
+Name: assets/HVGA/S/S3SG
+SHA1-Digest: B+SrlhUt97KHP1MqEU9g9492FAQ=
+
+Name: assets/Default/T/T20TF
+SHA1-Digest: PIKYOgXRDCqiI9iMFOYzyUpWVkI=
+
+Name: assets/HVGA/S/S3SF
+SHA1-Digest: 8NxE4OWL6ZcA141w5LBIEDhLMXU=
+
+Name: assets/HVGA/I/I100I
+SHA1-Digest: xS+4iwTBuvycMKaD6z+yBIEGNm8=
+
+Name: assets/HVGA/I/I76I
+SHA1-Digest: 0R9u4xOJLSXQhqFlZ0hqS7gKL7U=
+
+Name: assets/Default/S/S7S
+SHA1-Digest: 2Zs9wiwQihauwslyXHNjahc6fu8=
+
+Name: assets/Default/T/T29T
+SHA1-Digest: sbvRXV6dIcFz28YDbJWNROH4wyE=
+
+Name: assets/HVGA/I/I101I
+SHA1-Digest: g7pLBJOllvMxYsrAe9YSWeRCXvg=
+
+Name: assets/HVGA/A/A106A
+SHA1-Digest: 6lzdPLFCaGPaHM9LX45ue/IQeOA=
+
+Name: assets/HVGA/M/M19M
+SHA1-Digest: RX7GM9WVoH+53LfyEKNXLAF3ov4=
+
+Name: assets/HVGA/A/A38A
+SHA1-Digest: s5NzmM/5ZQOaWwvxLuYYnBjqzkg=
+
+Name: assets/HVGA/S/S23SE
+SHA1-Digest: /TJ++NbHr5XpRFKIxmbeq6GRZzI=
+
+Name: assets/HVGA/T/T24TS
+SHA1-Digest: pmmvjFhY1chc7qzNagPPbLBr3a8=
+
+Name: assets/HVGA/S/S23SC
+SHA1-Digest: 2FQ4miHlcSnYzxJc4CQIwSdkIQU=
+
+Name: assets/HVGA/T/T24TF
+SHA1-Digest: Z0IQnYQZCqGGTHaGL6iJ+0m37Dw=
+
+Name: assets/HVGA/T/T24TG
+SHA1-Digest: 3+CpLASg3XIY7boZVowaZBajsvE=
+
+Name: assets/HVGA/I/I75I
+SHA1-Digest: 7GWbyHIv4xbFiTbQzu8rX9Wd93E=
+
+Name: assets/HVGA/T/T24TE
+SHA1-Digest: FyiUqfoHik7ged0B9WPPRfFGmG8=
+
+Name: assets/HVGA/T/T24TJ
+SHA1-Digest: IfyuQU/mXHtz1G6LKYWJk28sWZk=
+
+Name: assets/Default/S/S8S
+SHA1-Digest: gShqz6oWtVj87wMGcH7jx+F3RGo=
+
+Name: assets/Default/S/S26SE
+SHA1-Digest: +8/AIac534yWst2tmASTYLcwMV0=
+
+Name: assets/Default/S/S26SC
+SHA1-Digest: rG/rtwsGbOSo+jC7Me70qBPksN4=
+
+Name: assets/Default/T/T28T
+SHA1-Digest: hiW8zGS3icEkh+ptQmVaEDcTmSw=
+
+Name: assets/HVGA/T/T24TC
+SHA1-Digest: pvl9cgH+FZ0/tP+yy4axFXGwuJg=
+
+Name: assets/Default/S/S26SG
+SHA1-Digest: pz5+kffqRLsIn1SLpprcVfJW5qI=
+
+Name: assets/Default/S/S26SF
+SHA1-Digest: AL/tcEHc0cThhFYHLagu0B1/Bds=
+
+Name: assets/HVGA/S/S23SS
+SHA1-Digest: lveu5MeDuh1n98r16NXgTwbOhPw=
+
+Name: assets/HVGA/S/S23SF
+SHA1-Digest: pDCqHQPRoFfk6t+O9JCTQdNd4ME=
+
+Name: assets/Default/S/S26SJ
+SHA1-Digest: 3QV7/WvYz9BmLsRXhNkn+xk5WZs=
+
+Name: assets/HVGA/S/S23SG
+SHA1-Digest: 0lWUDuc4nmUCTF556pDR3N+m1LY=
+
+Name: assets/HVGA/A/A37A
+SHA1-Digest: G79umxGd60G3Wtl+onb/yP1hg4k=
+
+Name: assets/HVGA/S/S23SJ
+SHA1-Digest: LIt6okcVWdb3XaR2BEeIyBtUM3w=
+
+Name: assets/HVGA/A/A107A
+SHA1-Digest: pvm6SOWFsVADTiW9PJrWc5JgZ28=
+
+Name: assets/HVGA/M/M18M
+SHA1-Digest: cLcX9ApuMbO7qO7k+07rJdZvNs8=
+
+Name: assets/HVGA/M/M17M
+SHA1-Digest: gsnHqOi4s/5Aq8RRpnNpb1yz9tU=
+
+Name: assets/Default/T/T31TE
+SHA1-Digest: LJh3N+THycLl2xtPpCU/HHWSAr8=
+
+Name: assets/Default/T/T31TF
+SHA1-Digest: blN7c4J3qNxMqA+FdlBeH317ygI=
+
+Name: assets/Default/T/T31TC
+SHA1-Digest: cwARQXprGnZTHJsg1fs6nTLzs+M=
+
+Name: assets/Default/T/T31TS
+SHA1-Digest: MrZXUfFth1bVTLHifcawoNgBlG0=
+
+Name: assets/Default/A/A112A
+SHA1-Digest: rrX6y/BD4eLIy15ZIVSVPUseXJU=
+
+Name: assets/Default/T/T31TJ
+SHA1-Digest: 7zcEULtnZiwy5ORuy8kk3B3/4c8=
+
+Name: assets/Default/T/T31TG
+SHA1-Digest: QwZUKMSh2Us//+xKsmbHVXrLHQg=
+
+Name: assets/HVGA/T/T19T
+SHA1-Digest: Dov/tQZVOORQ6pltBy9y6FU9XEY=
+
+Name: assets/Default/W/IdxW
+SHA1-Digest: mT1H9V3CWmh/NYDBJOMQo/VKR2g=
+
+Name: assets/HVGA/I/I70I
+SHA1-Digest: kLyKVg6X4qAwTC7yVIcG0Kv3AeI=
+
+Name: assets/HVGA/I/I30I
+SHA1-Digest: 4O9rca25pkm5i0o0EfaALxZRY+M=
+
+Name: assets/HVGA/M/M16M
+SHA1-Digest: yZNLBynpzorCC0Ud7KjMvXhKNSI=
+
+Name: assets/HVGA/S/S17SS
+SHA1-Digest: 4YJqf/npUmv5/Wy1r1NRCftG5Os=
+
+Name: assets/Default/A/A111A
+SHA1-Digest: 8DCJao6+bequ3jBc2zzWPjYofRg=
+
+Name: assets/HVGA/T/T18T
+SHA1-Digest: 7HPkvT7rcN9ZI+LFuwcoQiBauHU=
+
+Name: assets/HVGA/A/A80A
+SHA1-Digest: nIp/5Lj923ILYKaBRYwi7T7eYIo=
+
+Name: assets/HVGA/I/I31I
+SHA1-Digest: sKa7cs2HXOpen27d6nEEJiFaGP0=
+
+Name: assets/HVGA/M/M15M
+SHA1-Digest: 5nLStKURjj56PAcTVG0V5d7220g=
+
+Name: resources.arsc
+SHA1-Digest: EhNviH+dvWCU0Fg2bmPL+wvS64E=
+
+Name: assets/HVGA/I/I72I
+SHA1-Digest: x6BY97Nl/QZHzSTBVJ98LNbzWfc=
+
+Name: assets/Default/A/A110A
+SHA1-Digest: 0D58BLJ5ErK+B3QU1nyZZM3t5Lg=
+
+Name: assets/HVGA/I/I32I
+SHA1-Digest: u9kC5ksJWgIqvOIp/IZQEeH2mlg=
+
+Name: assets/HVGA/M/M14M
+SHA1-Digest: 2XGxO4MwsiGTWGvFmvieaByI7MY=
+
+Name: assets/HVGA/I/I71I
+SHA1-Digest: THNg3wwZBeSCA0JKsWz8QDerL2k=
+
+Name: assets/Default/S/S5SC
+SHA1-Digest: krFSOxdKDfzY8u9lQTM2MvKRats=
+
+Name: assets/Default/S/S5SF
+SHA1-Digest: h+FlVfMW54Q2Bh/15Yeb0lEeffo=
+
+Name: assets/Default/S/S5SE
+SHA1-Digest: ugV77OC84koXq0Tv2Wc6UlVXm3M=
+
+Name: assets/Default/S/S5SG
+SHA1-Digest: +uuezb4metqdvDLInM/thheo3fo=
+
+Name: assets/Default/A/A88A
+SHA1-Digest: eiZCI/HkgEBeTPAZCan6TsNX578=
+
+Name: assets/Default/S/S5SJ
+SHA1-Digest: 63/FeiQWXDRUA0xPlNi55RCDXBA=
+
+Name: assets/HVGA/M/M13M
+SHA1-Digest: P9ZjVDa9D5idKrX9D8OY4F2FSu8=
+
+Name: assets/Default/S/S5SS
+SHA1-Digest: l4TIMfqjZFn/ZozqknWSdJ7/DKI=
+
+Name: assets/HVGA/A/A82A
+SHA1-Digest: zcsRlZ9r+PVrPBL3KgkKxw1Hk18=
+
+Name: assets/Default/A/A116A
+SHA1-Digest: WCwQNq2DcyVPALgivZFgF0OR8yY=
+
+Name: assets/HVGA/M/M12M
+SHA1-Digest: hiiWZHWEfZA+9b5UaPePIO/aIbc=
+
+Name: assets/Default/A/A87A
+SHA1-Digest: IBgZx+6Scbv5mvkhp7vpqhPqiaM=
+
+Name: assets/HVGA/A/A81A
+SHA1-Digest: 7wFOag7MkYeNNjVkiHHeazCYGEA=
+
+Name: assets/Default/A/A115A
+SHA1-Digest: NBsBKVN3gVIReptGRD38ua4BtIs=
+
+Name: assets/HVGA/M/M11M
+SHA1-Digest: 061GD3qVz41XP7qF4Kx39qEL4zA=
+
+Name: assets/HVGA/S/S17SJ
+SHA1-Digest: 1DMY8IQBq7k/O2wkJ51zLBMo1s4=
+
+Name: assets/HVGA/S/S17SG
+SHA1-Digest: TgFr9mCvB6wcGmwOefojA84sM74=
+
+Name: assets/HVGA/S/S17SF
+SHA1-Digest: BA4nmMsPnMnDscHXDY3OlA++sf0=
+
+Name: assets/HVGA/S/S17SE
+SHA1-Digest: i5THZJTOU1YZh23FSOa1CG3h7Mw=
+
+Name: assets/HVGA/S/S17SC
+SHA1-Digest: 6uNq5Z6DfkGc6sYuc2YUrY5T7PI=
+
+Name: assets/HVGA/A/A84A
+SHA1-Digest: +n8ZL0/c+/Y8StygULh9yAD6/nU=
+
+Name: assets/Default/A/A114A
+SHA1-Digest: yy0nqOaiyw3L/fGnVwwdNGEcbek=
+
+Name: assets/HVGA/R/R1RJ
+SHA1-Digest: HIX19QHKFYls74j4IS4+mqVPhKE=
+
+Name: assets/HVGA/R/R1RG
+SHA1-Digest: PBeylZC7hv/kS7RmRFzPE7KKeeE=
+
+Name: assets/HVGA/R/R1RE
+SHA1-Digest: QIFuVqDjdl12G/zwiQ/ZL8LzdQE=
+
+Name: assets/HVGA/M/M10M
+SHA1-Digest: eFQUg1miy7OvVX9YCB6zF76Bp7c=
+
+Name: assets/HVGA/R/R1RF
+SHA1-Digest: u0V8IbIEHfKJySPTmxcTCG5u6oE=
+
+Name: assets/HVGA/R/R1RC
+SHA1-Digest: 06kQc9IhmOqk+kIv8LAU4Ww8CsI=
+
+Name: assets/HVGA/T/T31TC
+SHA1-Digest: b+tL4BBKYius1QBHIFRZUTlvLXU=
+
+Name: assets/Default/A/A89A
+SHA1-Digest: 7HEAYopJI2D4dVuQN0BhraH80hs=
+
+Name: assets/HVGA/T/T31TE
+SHA1-Digest: FVgPUnEOwHnbwR6dyL9Y00TDh0g=
+
+Name: assets/HVGA/T/T31TF
+SHA1-Digest: /tIf2TKjw82GVQ+MXm5zaPWkgRM=
+
+Name: assets/HVGA/T/T31TG
+SHA1-Digest: 0/WRuOBfhWvsg+rdreMiX693YEA=
+
+Name: assets/HVGA/T/T31TJ
+SHA1-Digest: SBqtEPwuGvlghJ3K4KVT0f/4Qr8=
+
+Name: assets/HVGA/A/A83A
+SHA1-Digest: c84D2aG3pvjwG+SCQc2CoGhXtGk=
+
+Name: assets/HVGA/R/R1RS
+SHA1-Digest: JE6ji/6Q/aYr0F+/tp1gnShLHl8=
+
+Name: assets/Default/A/A113A
+SHA1-Digest: QCOYcQwBXehypsg8lSnvBVyPB48=
+
+Name: assets/HVGA/T/T31TS
+SHA1-Digest: Woc6oCHyUBNls0cfT/2Qfo6OuCY=
+
