@@ -26,7 +26,7 @@ import java.util.Queue;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class BitmapQueueView extends View implements NativeFuntion.RenderEventListener, NativeFuntion.BitmapCraterEventListener {
+public class BitmapQueueView extends View implements NativeFuntion.BitmapCraterEventListener, NativeFuntion.RenderEventListener {
     private static final Xfermode[] sModes = {new PorterDuffXfermode(PorterDuff.Mode.SRC_OVER), new PorterDuffXfermode(PorterDuff.Mode.LIGHTEN), new PorterDuffXfermode(PorterDuff.Mode.DARKEN), new PorterDuffXfermode(PorterDuff.Mode.MULTIPLY), new PorterDuffXfermode(PorterDuff.Mode.CLEAR), new PorterDuffXfermode(PorterDuff.Mode.CLEAR), new PorterDuffXfermode(PorterDuff.Mode.CLEAR), new PorterDuffXfermode(PorterDuff.Mode.CLEAR), new PorterDuffXfermode(PorterDuff.Mode.CLEAR), new PorterDuffXfermode(PorterDuff.Mode.SCREEN), new PorterDuffXfermode(PorterDuff.Mode.CLEAR), new PorterDuffXfermode(PorterDuff.Mode.SRC_ATOP), new PorterDuffXfermode(PorterDuff.Mode.SRC_IN), new PorterDuffXfermode(PorterDuff.Mode.CLEAR)};
     static Timer timer = new Timer(true);
     final int IDXG_ITT_180 = 7;
@@ -256,13 +256,6 @@ public class BitmapQueueView extends View implements NativeFuntion.RenderEventLi
                                 this.originalCanvas.scale(-1.0f, 1.0f, (float) ((dstwidth / 2) + dstx), (float) ((dstheight / 2) + dsty));
                                 this.originalCanvas.rotate(90.0f, (float) ((dstwidth / 2) + dstx), (float) ((dstheight / 2) + dsty));
                                 break;
-                            case R.styleable.com_cauly_android_ad_AdView_gps /*{ENCODED_INT: 6}*/:
-                                this.originalCanvas.scale(-1.0f, 1.0f, (float) ((dstwidth / 2) + dstx), (float) ((dstheight / 2) + dsty));
-                                this.originalCanvas.rotate(-90.0f, (float) ((dstwidth / 2) + dstx), (float) ((dstheight / 2) + dsty));
-                                break;
-                            case R.styleable.com_cauly_android_ad_AdView_effect /*{ENCODED_INT: 7}*/:
-                                this.originalCanvas.rotate(180.0f, (float) ((dstwidth / 2) + dstx), (float) ((dstheight / 2) + dsty));
-                                break;
                         }
                         this.originalCanvas.drawBitmap(bitmap, (Rect) null, new Rect(dstx, dsty, dstx + dstwidth, dsty + dstheight), this.blush);
                         if (transformType == 0) {
@@ -284,20 +277,6 @@ public class BitmapQueueView extends View implements NativeFuntion.RenderEventLi
                     this.blush.setTypeface(Typeface.defaultFromStyle(0));
                     this.blush.setColor(color3);
                     this.originalCanvas.drawText(text, (float) x, (float) y, this.blush);
-                    break;
-                case R.styleable.com_cauly_android_ad_AdView_gps /*{ENCODED_INT: 6}*/:
-                    this.blush.setARGB(dis.readUnsignedByte(), dis.readUnsignedByte(), dis.readUnsignedByte(), dis.readUnsignedByte());
-                    break;
-                case R.styleable.com_cauly_android_ad_AdView_effect /*{ENCODED_INT: 7}*/:
-                    dis.readUnsignedByte();
-                    int bold = dis.readUnsignedByte();
-                    int size = dis.readUnsignedByte();
-                    if (bold == 0) {
-                        this.blush.setTypeface(Typeface.DEFAULT);
-                    } else {
-                        this.blush.setTypeface(Typeface.DEFAULT_BOLD);
-                    }
-                    this.blush.setTextSize((float) size);
                     break;
                 case 100:
                     if (saved) {

@@ -17,7 +17,7 @@ import javax.microedition.khronos.egl.EGLDisplay;
 import javax.microedition.khronos.egl.EGLSurface;
 import javax.microedition.khronos.opengles.GL10;
 
-public class NativeGLSurfaceView extends GLSurfaceView implements NativeFuntion.RenderEventListener, GLSurfaceView.EGLWindowSurfaceFactory, GLSurfaceView.Renderer {
+public class NativeGLSurfaceView extends GLSurfaceView implements GLSurfaceView.EGLWindowSurfaceFactory, GLSurfaceView.Renderer, NativeFuntion.RenderEventListener {
     static Timer timer = new Timer(true);
     Queue<MotionEvent> eventQueue = new LinkedList();
     int[] lx = new int[8];

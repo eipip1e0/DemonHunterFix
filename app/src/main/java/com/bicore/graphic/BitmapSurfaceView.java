@@ -17,6 +17,8 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class BitmapSurfaceView extends View implements NativeFuntion.RenderEventListener {
+    private static final String TAG = "BitmapSurfaceView";
+
     static Timer timer = new Timer(true);
     private final int byteperpixel;
     Queue<MotionEvent> eventQueue = new LinkedList();
@@ -36,15 +38,15 @@ public class BitmapSurfaceView extends View implements NativeFuntion.RenderEvent
 
     public BitmapSurfaceView(Context context) {
         super(context);
-        Log.d("test", "FirstInit");
+        Log.d(TAG, "FirstInit");
         FirstInit();
-        Log.d("test", "GetGameWidth before = " + BicoreActivity.iContentsWidth);
+        Log.d(TAG, "GetGameWidth before = " + BicoreActivity.iContentsWidth);
         BicoreActivity.iContentsWidth = GetGameWidth();
-        Log.d("test", "GetGameWidth after = " + BicoreActivity.iContentsWidth);
-        Log.d("test", "GetGameHeight before" + BicoreActivity.iContentsHeight);
+        Log.d(TAG, "GetGameWidth after = " + BicoreActivity.iContentsWidth);
+        Log.d(TAG, "GetGameHeight before" + BicoreActivity.iContentsHeight);
         BicoreActivity.iContentsHeight = GetGameHeight();
-        Log.d("test", "GetGameHeight after" + BicoreActivity.iContentsHeight);
-        Log.d("test", "BitmapSurfaceView begin");
+        Log.d(TAG, "GetGameHeight after" + BicoreActivity.iContentsHeight);
+        Log.d(TAG, "BitmapSurfaceView begin");
         this.byteperpixel = 2;
         this.surfaceBitmap = Bitmap.createBitmap(BicoreActivity.iContentsWidth, BicoreActivity.iContentsHeight, Bitmap.Config.RGB_565);
         this.surfaceBuffer = ByteBuffer.allocate(BicoreActivity.iContentsWidth * BicoreActivity.iContentsHeight * this.byteperpixel);
@@ -55,18 +57,19 @@ public class BitmapSurfaceView extends View implements NativeFuntion.RenderEvent
     /* access modifiers changed from: protected */
     public void onDraw(Canvas canvas) {
         FillBuffer(this.surfaceBuffer.array(), BicoreActivity.iContentsWidth, BicoreActivity.iContentsHeight, this.byteperpixel * BicoreActivity.iContentsWidth, System.currentTimeMillis() - this.mStartTime);
-        this.surfaceBitmap.copyPixelsFromBuffer(this.surfaceBuffer);
+        Bitmap bitmap = this.surfaceBitmap;
+        ByteBuffer byteBuffer = this.surfaceBuffer;
+        byteBuffer.rewind();
+        bitmap.copyPixelsFromBuffer(byteBuffer);
         canvas.drawBitmap(this.surfaceBitmap, (Rect) null, new Rect(0, 0, BicoreActivity.iScreenWidth, BicoreActivity.iScreenHeight), new Paint(2));
     }
 
     public boolean onTouchEvent(MotionEvent event) {
-        Log.w("BicoreActivity", "*GLSurfaceView - onTouchEvent orginal : " + event);
         this.eventQueue.add(MotionEvent.obtain(event));
-        BicoreActivity.GetActivity().runOnUiThread(new Runnable() {
-            /* class com.bicore.graphic.BitmapSurfaceView.AnonymousClass1 */
-
-            public void run() {
-                MotionEvent copyEvent = BitmapSurfaceView.this.eventQueue.poll();
+        /* class com.bicore.graphic.BitmapSurfaceView.AnonymousClass1 */
+        BicoreActivity.GetActivity().runOnUiThread(() -> {
+            MotionEvent copyEvent = BitmapSurfaceView.this.eventQueue.poll();
+            try {
                 if (copyEvent != null) {
                     int actionEvent = copyEvent.getAction();
                     int actionType = actionEvent & 255;
@@ -128,6 +131,8 @@ public class BitmapSurfaceView extends View implements NativeFuntion.RenderEvent
                     }
                     copyEvent.recycle();
                 }
+            } catch (Exception e) {
+                Log.e(TAG, "Catch multi-touch crash and ignored");
             }
         });
         return true;

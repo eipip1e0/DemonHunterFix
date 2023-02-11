@@ -6,8 +6,9 @@ import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 
+/* access modifiers changed from: package-private */
 /* compiled from: Font */
-class Pixmap {
+public class Pixmap {
     Canvas canvas;
     Paint paint;
     Bitmap pixmap;

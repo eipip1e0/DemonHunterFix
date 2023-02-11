@@ -1,6 +1,8 @@
 package com.bicore;
 
 import android.app.Activity;
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.net.wifi.WifiManager;
 import android.os.Build;
@@ -10,9 +12,9 @@ import android.provider.Settings;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.view.KeyEvent;
+import android.widget.Toast;
+
 import com.bicore.NativeFuntion;
-import com.facebook.android.Facebook;
-import com.feelingk.iap.IAPActivity;
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -22,8 +24,9 @@ import java.util.Locale;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-public class BicoreActivity extends IAPActivity implements NativeFuntion.EventListener {
-    public static String AdmobID;
+public class BicoreActivity extends Activity implements NativeFuntion.EventListener {
+    private static final String TAG = "BicoreActivity";
+
     private static Activity _activity = null;
     public static int iContentsHeight;
     public static int iContentsWidth;
@@ -34,12 +37,13 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
     String PackageName = null;
     String PackageSourcePath = null;
     String ResourceFolder = null;
-    protected FacebookManager fbm;
     final String m2rFileName = "IGEngine.m2r";
     BicoreAudio mAudioSystem = null;
-    Facebook mFacebook;
     private BicoreGraphic mGraphicSystem;
 
+    /**
+     * rooted device check
+     */
     @Override // com.bicore.NativeFuntion.EventListener
     public boolean GetCheckLooting() {
         return false;
@@ -58,7 +62,9 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
     @Override // com.feelingk.iap.IAPActivity
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.w("BicoreActivity", "*Frame - onCreate");
+        initFileDir();
+        onFirstOpenGame();
+        Log.w(TAG, "*Frame - onCreate");
         getWindow().requestFeature(1);
         getWindow().setFlags(1024, 1024);
         getWindow().addFlags(128);
@@ -68,10 +74,28 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
         _activity = this;
     }
 
-    public void onGameInit() {
+    private void initFileDir() {
         this.PackageName = getPackageName();
         this.PackageSourcePath = getPackageResourcePath();
-        this.DataFolder = getApplicationInfo().dataDir;
+        this.DataFolder = getExternalFilesDir("SaveData").getAbsolutePath();
+    }
+
+    private void onFirstOpenGame() {
+        SharedPreferences shared = getSharedPreferences("first_start_flag", MODE_PRIVATE);
+        boolean isFirstStart = shared.getBoolean("isFirstStart", true);
+        SharedPreferences.Editor editor = shared.edit();
+        if(isFirstStart) {
+            extractAssetFileFromApk("Config.dat");
+            extractAssetFileFromApk("Save0.dat");
+            extractAssetFileFromApk("Save1.dat");
+            extractAssetFileFromApk("Save2.dat");
+            editor.putBoolean("isFirstStart", false);
+            editor.apply();
+        }
+    }
+
+    public void onGameInit() {
+        Toast.makeText(this, "Mod by 百度贴吧 @s戀上漃謨s (eipip1e0@163.com)", Toast.LENGTH_LONG).show();
         NativeFuntion.nativeSetResourceDirectory(this.PackageSourcePath);
         NativeFuntion.nativeSetDocumentDirectory(this.DataFolder);
         NativeFuntion.setListener(this);
@@ -117,13 +141,8 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
             ZipFile file = new ZipFile(this.PackageSourcePath);
             ZipEntry entry = file.getEntry("assets/" + filename);
             if (fm24.exists()) {
-                Log.w("BicoreActivity", "File M2R File size :" + fm24.length());
-                Log.w("BicoreActivity", "Zip M2R File size :" + entry.getSize());
-                if (fm24.length() == entry.getSize()) {
-                    Log.w("BicoreActivity", "File M2R File time :" + fm24.lastModified());
-                    Log.w("BicoreActivity", "Zip M2R File time :" + entry.getTime());
-                    return;
-                }
+                Log.w(TAG, "Save data already exists");
+                return;
             }
             BufferedInputStream input2 = new BufferedInputStream(file.getInputStream(entry), 8096);
             System.out.println("Got the input stream...");
@@ -138,12 +157,12 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
             input2.close();
             System.out.println("Check File result");
             File fm242 = new File(filename);
-            Log.w("BicoreActivity", "File M2R File size :" + fm242.length());
-            Log.w("BicoreActivity", "Zip M2R File size :" + entry.getSize());
-            Log.w("BicoreActivity", "File M2R File time :" + fm242.lastModified());
-            Log.w("BicoreActivity", "Zip M2R File time :" + entry.getTime());
+            Log.w(TAG, "File M2R File size :" + fm242.length());
+            Log.w(TAG, "Zip M2R File size :" + entry.getSize());
+            Log.w(TAG, "File M2R File time :" + fm242.lastModified());
+            Log.w(TAG, "Zip M2R File time :" + entry.getTime());
             fm242.setLastModified(entry.getTime());
-            Log.w("BicoreActivity", "File M2R File time set to:" + fm242.lastModified());
+            Log.w(TAG, "File M2R File time set to:" + fm242.lastModified());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -151,26 +170,26 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
 
     /* access modifiers changed from: protected */
     public void onRestart() {
-        Log.w("BicoreActivity", "*Frame - onRestart");
+        Log.w(TAG, "*Frame - onRestart");
         super.onRestart();
     }
 
     /* access modifiers changed from: protected */
     public void onStart() {
-        Log.w("BicoreActivity", "*Frame - onStart");
+        Log.w(TAG, "*Frame - onStart");
         super.onStart();
     }
 
     /* access modifiers changed from: protected */
     @Override // com.feelingk.iap.IAPActivity
     public void onPause() {
-        Log.w("BicoreActivity", "*Frame - onPause");
+        Log.w(TAG, "*Frame - onPause");
         super.onPause();
     }
 
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
-        Log.w("BicoreActivity", "*Frame - onWindowFocusChanged" + hasFocus);
+        Log.w(TAG, "*Frame - onWindowFocusChanged" + hasFocus);
         if (hasFocus) {
             if (this.mAudioSystem != null) {
                 this.mAudioSystem.resume();
@@ -184,7 +203,7 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
     @Override // com.feelingk.iap.IAPActivity
     public void onResume() {
         super.onResume();
-        Log.w("BicoreActivity", "*Frame - onResume");
+        Log.w(TAG, "*Frame - onResume");
         if (this.mGraphicSystem != null) {
             this.mGraphicSystem.onResume();
         }
@@ -194,13 +213,13 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
     /* access modifiers changed from: protected */
     public void onStop() {
         super.onStop();
-        Log.w("BicoreActivity", "*Frame - onStop");
+        Log.w(TAG, "*Frame - onStop");
     }
 
     /* access modifiers changed from: protected */
     public void onDestroy() {
         super.onDestroy();
-        Log.w("BicoreActivity", "*Frame - onDestroy");
+        Log.w(TAG, "*Frame - onDestroy");
         GetActivity().runOnUiThread(new Runnable() {
             /* class com.bicore.BicoreActivity.AnonymousClass1 */
 
@@ -212,20 +231,20 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
 
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
-        Log.w("BicoreActivity", "*Frame - onConfigurationChanged");
+        Log.w(TAG, "*Frame - onConfigurationChanged");
         switch (newConfig.orientation) {
         }
     }
 
     public boolean onKeyDown(int keyCode, KeyEvent event) {
-        Log.w("BicoreActivity", "*Frame - onKeyDown " + event.getKeyCode());
+        Log.w(TAG, "*Frame - onKeyDown " + event.getKeyCode());
         if (keyCode == 82) {
-            Log.w("BicoreActivity", "KeyEvent KEYCODE_MENU");
+            Log.w(TAG, "KeyEvent KEYCODE_MENU");
             return true;
         } else if (keyCode != 4) {
             return super.onKeyDown(keyCode, event);
         } else {
-            Log.w("BicoreActivity", "KeyEvent KEYCODE_BACK");
+            Log.w(TAG, "KeyEvent KEYCODE_BACK");
             GetActivity().runOnUiThread(new Runnable() {
                 /* class com.bicore.BicoreActivity.AnonymousClass2 */
 
@@ -239,27 +258,30 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
 
     @Override // com.bicore.NativeFuntion.EventListener
     public void OnMessage(String text) {
-        Log.w("BicoreActivity", "*OnMessage : " + text);
+        Log.w(TAG, "*OnMessage : " + text);
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public void OnURLOpen(String url) {
-        Log.w("BicoreActivity", "*OnURLOpen : " + url);
+        Log.w(TAG, "*OnURLOpen : " + url);
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public String GetDeviceID() {
-        return ((TelephonyManager) getApplicationContext().getSystemService("phone")).getDeviceId();
+        Log.d(TAG, "GetDeviceID: ");
+        return "866150004500431";
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public String GetModelType() {
+        Log.d(TAG, "GetModelType: " + Build.MODEL);
         return Build.MODEL;
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public boolean IsEnableDataConnect() {
-        if (((TelephonyManager) getSystemService("phone")).getDataState() == 2) {
+        Log.d(TAG, "IsEnableDataConnect: ");
+        if (((TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE)).getDataState() == TelephonyManager.DATA_CONNECTED) {
             return true;
         }
         return false;
@@ -267,7 +289,8 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
 
     @Override // com.bicore.NativeFuntion.EventListener
     public boolean IsEnableWifi() {
-        if (((WifiManager) getSystemService("wifi")).getWifiState() == 3) {
+        Log.d(TAG, "IsEnableWifi: ");
+        if (((WifiManager) getApplicationContext().getSystemService(WIFI_SERVICE)).getWifiState() == 3) {
             return true;
         }
         return false;
@@ -275,7 +298,7 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
 
     @Override // com.bicore.NativeFuntion.EventListener
     public void OnExitApplication() {
-        Log.w("BicoreActivity", "*OnExitApplication ");
+        Log.w(TAG, "*OnExitApplication ");
         runOnUiThread(new Runnable() {
             /* class com.bicore.BicoreActivity.AnonymousClass3 */
 
@@ -287,33 +310,35 @@ public class BicoreActivity extends IAPActivity implements NativeFuntion.EventLi
 
     @Override // com.bicore.NativeFuntion.EventListener
     public void CallVibration(int miliseconds) {
-        ((Vibrator) getSystemService("vibrator")).vibrate((long) miliseconds);
+        ((Vibrator) getSystemService(VIBRATOR_SERVICE)).vibrate((long) miliseconds);
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public boolean GetAirplaneModeState() {
+        Log.d(TAG, "GetAirplaneModeState: ");
         try {
-            if (Settings.System.getInt(getContentResolver(), "airplane_mode_on") > 0) {
-                return true;
-            }
-            return false;
+            return Settings.System.getInt(getContentResolver(), "airplane_mode_on") > 0;
         } catch (Settings.SettingNotFoundException e) {
             e.printStackTrace();
         }
+        return false;
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public void OnRequestPayment(String paycode) {
-        Log.e("BicoreActivity", "*OnRequestPayment - Not avilable. make MarketClass inheritive.");
+        Log.d(TAG, "OnRequestPayment: ");
+        Log.e(TAG, "*OnRequestPayment - Not avilable. make MarketClass inheritive.");
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public String GetCountryCode() {
+        Log.d(TAG, "GetCountryCode: ");
         return Locale.getDefault().getCountry();
     }
 
     @Override // com.bicore.NativeFuntion.EventListener
     public String GetLanguageCode() {
+        Log.d(TAG, "GetLanguageCode: ");
         return Locale.getDefault().getLanguage();
     }
 }

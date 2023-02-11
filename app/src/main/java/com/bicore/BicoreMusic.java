@@ -71,31 +71,21 @@ public class BicoreMusic implements MediaPlayer.OnCompletionListener, MediaPlaye
     }
 
     public int play(boolean isLooping) {
-        Exception e;
         MediaPlayer player;
         try {
             player = new MediaPlayer();
-            try {
-                player.setOnCompletionListener(this);
-                player.setOnPreparedListener(this);
-                player.setVolume(this.fVolume, this.fVolume);
-                player.setDataSource(this.afd.getFileDescriptor(), this.afd.getStartOffset() + ((long) this.offset), (long) this.length);
-                player.prepareAsync();
-                player.setLooping(isLooping);
-                this.mStreamMap.put(this.nextStreamId, player);
-                int i = this.nextStreamId;
-                this.nextStreamId = i + 1;
-                return i;
-            } catch (Exception e2) {
-                e = e2;
-            }
-        } catch (Exception e3) {
-            e = e3;
-            player = null;
+            player.setOnCompletionListener(this);
+            player.setOnPreparedListener(this);
+            player.setVolume(this.fVolume, this.fVolume);
+            player.setDataSource(this.afd.getFileDescriptor(), this.afd.getStartOffset() + ((long) this.offset), (long) this.length);
+            player.prepareAsync();
+            player.setLooping(isLooping);
+            this.mStreamMap.put(this.nextStreamId, player);
+            int i = this.nextStreamId;
+            this.nextStreamId = i + 1;
+            return i;
+        } catch (Exception e) {
             e.printStackTrace();
-            if (player != null) {
-                this.mStreamMap.put(this.nextStreamId, player);
-            }
             int i2 = this.nextStreamId;
             this.nextStreamId = i2 + 1;
             return i2;

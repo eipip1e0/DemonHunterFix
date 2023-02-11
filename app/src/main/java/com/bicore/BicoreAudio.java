@@ -11,6 +11,8 @@ import com.bicore.NativeFuntion;
 import java.io.IOException;
 
 public class BicoreAudio implements NativeFuntion.AudioEventListener {
+    private static final String TAG = "BicoreAudio";
+
     static float MP3Volume;
     private static BicoreAudio _audio;
     static float wavVolume;
@@ -24,7 +26,7 @@ public class BicoreAudio implements NativeFuntion.AudioEventListener {
     public BicoreAudio(Activity context2, String audioFolder) {
         wavVolume = 1.0f;
         MP3Volume = 1.0f;
-        this.manager = (AudioManager) context2.getSystemService("audio");
+        this.manager = (AudioManager) context2.getSystemService(Context.AUDIO_SERVICE);
         context2.setVolumeControlStream(3);
         NativeFuntion.setAudioEventListener(this);
         this.res = context2.getResources();
@@ -68,11 +70,9 @@ public class BicoreAudio implements NativeFuntion.AudioEventListener {
     @Override // com.bicore.NativeFuntion.AudioEventListener
     public int CreateMP3AudioClip(String filename, int offset, int length) {
         try {
-            BicoreMusic music = new BicoreMusic(this.res.getAssets().openFd("Default/B/" + filename), offset, length);
-            if (music != null) {
-                this.mMusicMap.put(music.getMusicId(), music);
-                return music.getMusicId();
-            }
+            BicoreMusic music = new BicoreMusic(this.res.getAssets().openFd("Default/B/" + filename + ".mp3"), offset, length);
+            this.mMusicMap.put(music.getMusicId(), music);
+            return music.getMusicId();
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -3,8 +3,9 @@ package com.bicore;
 import android.graphics.Rect;
 import android.util.Log;
 
+/* access modifiers changed from: package-private */
 /* compiled from: Font */
-class Glyph {
+public class Glyph {
     public int advance;
     public Font font;
     public int height;

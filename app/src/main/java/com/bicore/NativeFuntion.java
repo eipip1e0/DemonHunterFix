@@ -104,7 +104,6 @@ public class NativeFuntion {
 
         int GetTextSize(EditText editText);
 
-        void HideAdmob();
 
         void HideBanner();
 
@@ -116,7 +115,6 @@ public class NativeFuntion {
 
         void SetPosition(EditText editText, int i, int i2, int i3, int i4);
 
-        void ShowAdmob(int i, int i2, int i3);
 
         void ShowBanner(int i, int i2, int i3, int i4, String str);
     }
@@ -233,6 +231,9 @@ public class NativeFuntion {
             return systemListener.GetCountryCode();
         }
         return null;
+    }
+
+    public static void HideAdmob() {
     }
 
     public static String GetLanguageCode() {
@@ -359,18 +360,6 @@ public class NativeFuntion {
     public static void HideBanner() {
         if (frameListener != null) {
             frameListener.HideBanner();
-        }
-    }
-
-    public static void ShowAdmob(int l, int t, int time) {
-        if (frameListener != null) {
-            frameListener.ShowAdmob(l, t, time);
-        }
-    }
-
-    public static void HideAdmob() {
-        if (frameListener != null) {
-            frameListener.HideAdmob();
         }
     }
 
